@@ -119,7 +119,7 @@ Click on the links provided below to schedule a 15 minute session for the week:
 |Instructor| Sign Up Link| Zoom Link |
 |:--|:-:|:-:|
 |Jim Clark| [link](https://calendly.com/jim-clark-ga/one-on-one) | [link](https://generalassembly.zoom.us/j/2909161095?pwd=MnRSczRBazFwTktzNmJDQzRpa3drUT09) |
-|Jim Haff| Coming Soon |[link](https://generalassembly.zoom.us/j/370739464)
+|Jim Haff| [link (CT)](https://calendly.com/james-haff) |[link](https://generalassembly.zoom.us/j/370739464)
 
 Note that the instructors will slack you a Zoom link prior to the session.
 

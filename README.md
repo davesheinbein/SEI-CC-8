@@ -126,7 +126,7 @@ Note that the instructors will slack you a Zoom link prior to the session.
 ### Link to Recorded Lessons
 
 For your convenience, recordings of the lessons will be available to review at 
- [Link Coming Soon]().
+ [Youtube](https://www.youtube.com/playlist?list=PL51l5r1uFLPOoHTAWQdr4EMpV5zbEPhDx).
  
 ### Link to Deliverable Schedule
 

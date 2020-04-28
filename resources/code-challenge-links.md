@@ -2,8 +2,8 @@
 
 |Student|Campus|Link|
 |---|---|---|
-| Adane | ATX | [link]() |
-| Alfonso | ATX | [link]() |
+| Adane | ATX |  |
+| Alfonso | ATX |  |
 | Brandon | ATX | [link](https://git.generalassemb.ly/Bsacco9814/daily-js-code-challenges) |
 | Chris | ATX | [link](https://git.generalassemb.ly/ChrisChroma/daily-js-code-challenges) |
 | Daniel | ATX | [link](https://git.generalassemb.ly/ddunn40495/daily-js-code-challenges) |
@@ -11,7 +11,7 @@
 | Jeremy | ATX | [link](https://git.generalassemb.ly/JBCripe/daily-js-code-challenges) |
 | Matthew | ATX | [link](https://git.generalassemb.ly/mjmoquin/daily-js-code-challenges) |
 | Monica | ATX | [link](https://git.generalassemb.ly/monicamartinez64/daily-js-code-challenges) |
-| Oscar | ATX | [link]() |
+| Oscar | ATX |  |
 | Parker | ATX | [link](https://git.generalassemb.ly/ParkerOH/daily-js-code-challenges) |
 | Samuel | ATX | [link](https://git.generalassemb.ly/sammyt/daily-js-code-challenges) |
 | Adam | DAL | [link](https://git.generalassemb.ly/jad1985/daily-js-code-challenges) |
@@ -35,7 +35,7 @@
 | Travis | DEN | [link](https://git.generalassemb.ly/TCashion44/daily-js-code-challenges) |
 | Tyler | DEN | [link](https://git.generalassemb.ly/tawlur/daily-js-code-challenges) |
 | Vanessa | DEN | [link](https://git.generalassemb.ly/vanessalarsen33/daily-js-code-challenges) |
-| Jackie | DEN | [link]() |
+| Jackie | DEN |  |
 | Aaron | LA | [link](https://git.generalassemb.ly/asmith-asmith/daily-js-code-challenges) |
 | Brian | LA | [link](https://git.generalassemb.ly/bliu7/daily-js-code-challenges) |
 | Charlotte | LA | [link](https://git.generalassemb.ly/charlottepak/daily-js-code-challenges) |

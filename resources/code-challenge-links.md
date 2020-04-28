@@ -35,7 +35,7 @@
 | Travis | DEN | [link](https://git.generalassemb.ly/TCashion44/daily-js-code-challenges) |
 | Tyler | DEN | [link](https://git.generalassemb.ly/tawlur/daily-js-code-challenges) |
 | Vanessa | DEN | [link](https://git.generalassemb.ly/vanessalarsen33/daily-js-code-challenges) |
-| Jackie | DEN |  |
+| Jackie | DEN | [link](https://git.generalassemb.ly/JackieDenver/daily-js-code-challenges) |
 | Aaron | LA | [link](https://git.generalassemb.ly/asmith-asmith/daily-js-code-challenges) |
 | Brian | LA | [link](https://git.generalassemb.ly/bliu7/daily-js-code-challenges) |
 | Charlotte | LA | [link](https://git.generalassemb.ly/charlottepak/daily-js-code-challenges) |

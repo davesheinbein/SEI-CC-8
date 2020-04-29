@@ -41,7 +41,7 @@
 | Charlotte | LA | [link](https://git.generalassemb.ly/charlottepak/daily-js-code-challenges) |
 | David | LA | [link](https://git.generalassemb.ly/davesheinbein/daily-js-code-challenges) |
 | Jason | LA | [link](https://git.generalassemb.ly/JHur/daily-js-code-challenges) |
-| Jonathon | LA | [link](https://git.generalassemb.ly/JonathanLane/daily-js-code-challenges) |
+| Jonathan | LA | [link](https://git.generalassemb.ly/JonathanLane/daily-js-code-challenges) |
 | Ryan | LA | [link](https://git.generalassemb.ly/Naryx/daily-js-code-challenges) |
 | Sarah | LA | [link](https://git.generalassemb.ly/srosky/daily-js-code-challenges) |
 | Alexei | SD | [link](https://git.generalassemb.ly/audarbe/daily-js-code-challenges) |

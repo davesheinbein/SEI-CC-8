@@ -32,7 +32,7 @@
 	  }
 	  return size;
 	}
-```
+	```
 
 - Functions optionally accept data as input and return a single piece of data, for example:
 

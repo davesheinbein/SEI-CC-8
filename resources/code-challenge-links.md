@@ -8,7 +8,6 @@
 | Chris | ATX | [link](https://git.generalassemb.ly/ChrisChroma/daily-js-code-challenges) |
 | Daniel | ATX | [link](https://git.generalassemb.ly/ddunn40495/daily-js-code-challenges) |
 | Gabriel | ATX | [link](https://git.generalassemb.ly/gabivarella/daily-js-code-challenges) |
-| Jeremy | ATX | [link](https://git.generalassemb.ly/JBCripe/daily-js-code-challenges) |
 | Matthew | ATX | [link](https://git.generalassemb.ly/mjmoquin/daily-js-code-challenges) |
 | Monica | ATX | [link](https://git.generalassemb.ly/monicamartinez64/daily-js-code-challenges) |
 | Oscar | ATX | [link](https://git.generalassemb.ly/oscarf1005/daily-js-code-challenges) |
@@ -45,7 +44,6 @@
 | Ryan | LA | [link](https://git.generalassemb.ly/Naryx/daily-js-code-challenges) |
 | Sarah | LA | [link](https://git.generalassemb.ly/srosky/daily-js-code-challenges) |
 | Alexei | SD | [link](https://git.generalassemb.ly/audarbe/daily-js-code-challenges) |
-| Olivia | SD | [link](https://git.generalassemb.ly/olivialauren/daily-js-code-challenges) |
 | Maddy | SD | [link](https://git.generalassemb.ly/maddy-v/daily-js-code-challenges) |
 | Ian | SD | [link](https://git.generalassemb.ly/ivitaga/daily-js-code-challenges) |
 

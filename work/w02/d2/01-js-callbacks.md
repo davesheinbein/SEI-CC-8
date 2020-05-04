@@ -340,4 +340,6 @@ Let's wrap up with some questions!
 
 ### The Browser's Event Loop
 
-Here's a great video on how asynchronous operations, such as the handling of events, do their business and notify JavaScript when their work is donedoes the browser know when an image has been retrieved and is ready to be painted? By implementing **callbacks** and something known as the [event loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (in this video, Jake Archibald from Google does an amazing job demonstrating the browser's event loop).
+Here's a great video on how asynchronous operations, such as the handling of events, do their business and notify JavaScript when their work is done.
+
+[The Event Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (in this video, the amazing and funny Jake Archibald from Google does an amazing job demonstrating the browser's event loop).

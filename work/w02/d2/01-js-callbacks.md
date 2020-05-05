@@ -218,7 +218,7 @@ Later in the course, we'll encounter functions/methods designed to use promises,
 
 The code below demonstrates how `setTimeout` and callback functions can be used to implement the scenario where we need to do something, wait for some time, do something else, wait for some time, etc.
 
-Let's say we wanted a traffic light to cycle between Red, Green & Yellow lights with each light being "lit" for differing amount of time:
+Let's say we wanted a traffic light to cycle between Red, Green & Yellow lights with each light being "lit" for a differing amount of time:
 
 - Red light on for 3 seconds
 - Green light on for 2 seconds

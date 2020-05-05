@@ -259,11 +259,6 @@ main div {
   border-radius: 50%;
   border: 2px solid grey;
 }
-
-button {
-  font-size: 5vmin;
-  margin-top: 5vmin;
-}
 ```
 
 > REMINDER: Expect the following asynchronous code to be difficult to understand.  However, the following example will come in handy if you choose to do a game like _Simon_ that requires timing/sequencing.

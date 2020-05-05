@@ -281,7 +281,7 @@ Next, cache the light `<div>`s and define a variable to track the current light:
 const lightEls = document.querySelectorAll('main > div');
 
 // Variable to track the current light
-let curLightIdx = -1;  // 
+let curLightIdx = 0;  // Start with red object
 ```
 
 Now for the function responsible for displaying the current light and letting its caller know when the time has expired for the light:
@@ -300,9 +300,9 @@ Finally, a function that increments the `curLightIdx` and calls `renderLight` wh
 
 ```js
 function renderNextLight() {
+  renderLight(renderNextLight);
   // Increment and reset to zero when 3 is reached
   curLightIdx = ++curLightIdx % 3;
-  renderLight(renderNextLight);
 }
 
 // Make it start!

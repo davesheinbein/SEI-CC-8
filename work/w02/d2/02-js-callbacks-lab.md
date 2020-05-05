@@ -49,9 +49,10 @@ let timerId = setTimeout(writeDing(), 3000);
 
 const words = ['short', 'medium', 'delicious', 'nice', 'lengthy'];
 
-const sortedWords = words.sort(/* pass in a named callback here */);
+// The sort method sorts "in place", that is, it modifies the array
+words.sort(/* pass in a named callback here */);
 
-// Check that logging sortedWords outputs
+// Check that logging words now outputs
 // ["nice", "short", "medium", "lengthy", "delicious"]
 ```
 

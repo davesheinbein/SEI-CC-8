@@ -58,14 +58,14 @@ const sortedWords = words.sort(/* pass in a named callback here */);
 ```js
 // Exercise 3
 //
-// Change Exercise 2 so that:
-//   1. The words sort longest to shortest
-//   2. Use an anonymous inline function
+// Filter the words array from above to create a new array
+// named longWords that includes only the words with 7 or more
+// characters
 
-const longWordsFirst = words.sort(/* write an anonymous inline function here */);
+const longerWords = words.filter(/* write an anonymous inline function here */);
 
-// Check that logging longWordsFirst outputs
-// ["delicious", "lengthy", "medium", "short", "nice"]
+// Check that logging longerWords outputs
+// ["lengthy", "delicious"]
 ```
 
 ```js

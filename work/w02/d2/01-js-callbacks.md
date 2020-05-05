@@ -234,7 +234,6 @@ First, let's copy/paste the HTML into **index.html**:
     <div id="yellow"></div>
     <div id="green"></div>
   </main>
-  <button></button>
 ```
 
 Now for some CSS:

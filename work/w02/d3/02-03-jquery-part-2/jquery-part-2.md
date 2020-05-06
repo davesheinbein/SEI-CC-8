@@ -136,28 +136,6 @@ Here's some HTML to get us started - **replace** the existing `<body>` tags with
 </body>
 ```
 
-### Ensuring that the DOM is Ready
-
-We've used the [defer Attribute](https://www.w3schools.com/tags/att_script_defer.asp) in the `<script>` tag in the `<head>` to ensure that the DOM is built before the JS runs.
-
-However, jQuery has another option that you should be aware of:
-
-```js
-// the "document ready" approach 
-$(document).ready(function() {
-  // all of your app's js goes within this function
-  alert("Everything is ready, let's do this");
-});
-
-// or, the shortcut version
-$(function(){
-  // all of your app's js goes within this function
-  alert("Everything is ready, let's do this");
-});
-```
-
-**❓ Since all of the app's code will be within the callback function, what impact does this have in terms of scope?**
-
 ### Open it Up!
 
 We're all set to get started. If you have the _Open in Browser_ VS Code extension installed, you can right-click anywhere on `index.html` and select `Open in Browser`, or better yet press `[option] + B`.
@@ -192,7 +170,7 @@ jQuery's has a `hasClass('<the class(es) as a string>')` method that returns `tr
 For example:
 
 ```js
-var isStyled = $('p').hasClass('left-aligned big');
+const isStyled = $('p').hasClass('left-aligned big');
 // the isStyled var will be true if any <p> elements have 
 // the classes of "left-aligned" and "big"
 ```
@@ -211,7 +189,7 @@ One way is to just provide a string representing the HTML to the jQuery function
 
 ```js
 // returns a jQuery set of new DOM elements
-var $newLink = $( '<br><br><a id="zillowLink" href="http://www.zillow.com">Visit Zillow.com</a>' );
+const $newLink = $( '<br><br><a id="zillowLink" href="http://www.zillow.com">Visit Zillow.com</a>' );
 ```
 
 > Note that the jQuery function recognizes the fact that we are passing in a string that resembles HTML instead of a CSS selector - that's how it knows to create a new element instead of selecting elements. jQuery - you're so smart!
@@ -219,15 +197,15 @@ var $newLink = $( '<br><br><a id="zillowLink" href="http://www.zillow.com">Visit
 Remember that in programming, there are usually multiple ways to accomplish the same thing, for example, these three code examples are all equivalent ways of creating a`<p class="bold"></p>` element:
 
 ```js
-var $p = $('<p class="bold">');
+const $p = $('<p class="bold">');
 ```
 
 ```js
-var $p = $('<p>', {class: 'bold'});
+const $p = $('<p>', {class: 'bold'});
 ```
 
 ```js
-var $p = $('<p>').addClass('bold');
+const $p = $('<p>').addClass('bold');
 ```
 
 Which approach you use is up to you (or your boss).
@@ -394,7 +372,7 @@ When the "Add Home" button is clicked:
 First, copy this array of new home data to your script:
 
 ```js
-var newHomes = [
+const newHomes = [
   {address: "27569 Cedarwood Drive", sf: "2,535", bedrooms: 3, baths: 2.5, price: "$496,500"},
   {address: "316 Annandale Drive", sf: "1,326", bedrooms: 4, baths: 2, price: "$275,000"},
   {address: "251 Grandview Road", sf: "3,800", bedrooms: 3, baths: 2, price: "$699,900"},

@@ -2,7 +2,6 @@
 
 |Student|Campus|Link|
 |---|---|---|
-| Adane | ATX |  |
 | Alfonso | ATX |  |
 | Brandon | ATX | [link](https://git.generalassemb.ly/Bsacco9814/daily-js-code-challenges) |
 | Chris | ATX | [link](https://git.generalassemb.ly/ChrisChroma/daily-js-code-challenges) |

@@ -36,12 +36,12 @@ const inventors = [
 ];
 
 // Array.prototype.filter()
-// 1. Filter the list of inventors for those who were born in the 1500's
+// 1. Filter the array of inventors into a new array containing only the inventors born in the 1500's
 
 
 
 // Array.prototype.map()
-// 2. Give us an array of the inventors' first and last names
+// 2. Map the array of the inventors into a new array containing objects with just the first and last names as properties
 
 
 
@@ -50,7 +50,7 @@ const inventors = [
 
 
 
-// 4. Sort the inventors by years lived
+// 4. Sort the inventors by years lived from shortest to longest lived
 
 
 
@@ -97,12 +97,12 @@ const devs = [
 ];
 
 // Array.prototype.some()
-// 8. Is at least one person 19 or older?
+// 8. Check if at least one person is 19 or older?
 
 
 
 // Array.prototype.every()
-// 9. Is everyone 19 or older?
+// 9. Check if everyone is 19 or older?
 
 
 

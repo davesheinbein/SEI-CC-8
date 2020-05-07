@@ -139,7 +139,6 @@ const els = people.map(function(person, idx) {
 
 // Log out the <div>s
 console.log(els);
-```
 
 /*--- using an arrow function for the callback ---*/
 const types = Object.keys(obj).map(elem => typeof elem);

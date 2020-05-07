@@ -27,7 +27,6 @@
 | Lauren | DEN | [link](https://git.generalassemb.ly/laurenmengert/daily-js-code-challenges) |
 | Jae | DEN | [link](https://git.generalassemb.ly/hoodieee/daily-js-code-challenges) |
 | Joshua | DEN | [link](https://git.generalassemb.ly/joshfern24/daily-js-code-challenges) |
-| Million | DEN | [link](https://git.generalassemb.ly/million/daily-js-code-challenges) |
 | Robert | DEN | [link](https://git.generalassemb.ly/rperillo1/daily-js-code-challenges) |
 | Shawn | DEN | [link](https://git.generalassemb.ly/sgluchacki/daily-js-code-challenges) |
 | Travis | DEN | [link](https://git.generalassemb.ly/TCashion44/daily-js-code-challenges) |

@@ -50,7 +50,7 @@ This walk-thru summarizes Array _iterator_ methods, that is, methods that declar
 | Method | Purpose | Returns | Callback Should | Callback's Args |
 | --- | --- | :-: | --- | --- |
 | `forEach(cb)` | General purpose |`undefined` | Do whatever you want | `(elem, idx, array)` | 
-| `map(cb)` | Create new array from source array | new array | Modify each element as desired and return it | `(elem, idx, array)` | 
+| `map(cb)` | Transform a source array into a new array | new array | Modify each element as desired and return it | `(elem, idx, array)` | 
 | `reduce(cb, initAcc)` | Reduce the array to a single value/object | final value of `acc` | Return the new value for `acc` | `(acc, elem, idx, array)` | 
 | `filter(cb)` | Filter source array | new array | Return truthy if `elem` is to be included | `(elem, idx, array)` | 
 | `find(cb)` | Find an element | the first `elem` found | Return truthy if `elem` is what you're looking for | `(elem, idx, array)` |

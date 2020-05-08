@@ -21,7 +21,7 @@
 | April | DEN |  |  |  |
 | Chase | DEN | War | [link](https://github.com/chasewri/war-card-game) |  |
 | Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) |  |
-| Colin | DEN |  |  |  |
+| Colin | DEN | Simon | [link](https://github.com/colin96man/project-simon) |  |
 | Hannah | DEN | Battleship | [link](https://github.com/hannahbrantley/Battleship) |  |
 | Kimberly | DEN |  |  |  |
 | Lauren | DEN |  |  |  |

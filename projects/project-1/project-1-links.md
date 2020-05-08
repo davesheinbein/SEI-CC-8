@@ -27,7 +27,7 @@
 | Lauren | DEN |  |  |  |
 | Jae | DEN | Slot Machine | [link](https://github.com/Hoodieee/Slot-Machine-Game) |  |
 | Joshua | DEN |  |  |  |
-| Robert | DEN |  |  |  |
+| Robert | DEN | Slot Machine | [link](https://github.com/rperillo1/Slot-Machine) |  |
 | Shawn | DEN | Solo Boggle | [link](https://github.com/sgluchacki/solo-boggle) |  |
 | Travis | DEN |  |  |  |
 | Tyler | DEN | Blackjack | [link](https://github.com/tawlur/Project-1-BlackJack) |  |

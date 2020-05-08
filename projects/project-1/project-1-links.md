@@ -7,11 +7,11 @@
 | Chris | ATX |  |  |  |
 | Daniel | ATX |  |  |  |
 | Gabriel | ATX |  |  |  |
-| Matthew | ATX |  |  |  |
+| Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) |  |
 | Monica | ATX |  |  |  |
 | Oscar | ATX |  |  |  |
 | Parker | ATX |  |  |  |
-| Samuel | ATX |  |  |  |
+| Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) |  |
 | Adam | DAL |  |  |  |
 | Chinwe | DAL |  |  |  |
 | Jameson | DAL |  |  |  |
@@ -30,7 +30,7 @@
 | Robert | DEN |  |  |  |
 | Shawn | DEN | Solo Boggle | [link](https://github.com/sgluchacki/solo-boggle) |  |
 | Travis | DEN |  |  |  |
-| Tyler | DEN |  |  |  |
+| Tyler | DEN | Blackjack | [link](https://github.com/tawlur/Project-1-BlackJack) |  |
 | Vanessa | DEN |  |  |  |
 | Jackie | DEN |  |  |  |
 | Aaron | LA | Minesweeper | [link](https://github.com/asmith-asmith/minesweeper) |  |
@@ -38,9 +38,9 @@
 | Charlotte | LA |  | [link](https://github.com/charlottepak/project1) |  |
 | David | LA | War | [link](https://github.com/davesheinbein/War-game) |  |
 | Jason | LA |  | [link](https://github.com/jhur91/project1) |  |
-| Jonathan | LA |  |  |  |
+| Jonathan | LA | Checkers | [link](https://github.com/Thornathan/Checkers-Project-1) |  |
 | Ryan | LA |  |  |  |
-| Sarah | LA |  |  |  |
+| Sarah | LA | Mancala | [link](https://github.com/slrosky/mancala-game-project) |  |
 | Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) |  |
 | Maddy | SD | Video Poker | [link](https://github.com/madeleinemarie/Video-Poker-Game) |  |
 | Ian | SD |  |  |  |

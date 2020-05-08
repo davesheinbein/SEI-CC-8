@@ -34,7 +34,7 @@
 | Vanessa | DEN |  |  |  |
 | Jackie | DEN |  |  |  |
 | Aaron | LA |  |  |  |
-| Brian | LA |  |  |  |
+| Brian | LA | Tetris | [link](https://github.com/irritas/tetris) |  |
 | Charlotte | LA |  |  |  |
 | David | LA |  |  |  |
 | Jason | LA |  |  |  |

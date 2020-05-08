@@ -29,7 +29,7 @@
 | Joshua | DEN |  |  |  |
 | Robert | DEN | Slot Machine | [link](https://github.com/rperillo1/Slot-Machine) |  |
 | Shawn | DEN | Solo Boggle | [link](https://github.com/sgluchacki/solo-boggle) |  |
-| Travis | DEN |  |  |  |
+| Travis | DEN | Battleship | [link](https://github.com/TCashion/battleship) |  |
 | Tyler | DEN | Blackjack | [link](https://github.com/tawlur/Project-1-BlackJack) |  |
 | Vanessa | DEN | Slot Machine | [link](https://github.com/vanessalarsen33/Slot-machine) |  |
 | Jackie | DEN |  |  |  |

@@ -20,7 +20,7 @@
 | Xavier | DAL |  |  |  |
 | April | DEN |  |  |  |
 | Chase | DEN |  |  |  |
-| Christopher | DEN |  |  |  |
+| Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) |  |
 | Colin | DEN |  |  |  |
 | Hannah | DEN |  |  |  |
 | Kimberly | DEN |  |  |  |

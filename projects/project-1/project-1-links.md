@@ -39,7 +39,7 @@
 | David | LA | War | [link](https://github.com/davesheinbein/War-game) |  |
 | Jason | LA |  | [link](https://github.com/jhur91/project1) |  |
 | Jonathan | LA | Checkers | [link](https://github.com/Thornathan/Checkers-Project-1) |  |
-| Ryan | LA | Minesweeper | [link](https://github.com/NaryxHaxns/Minesweeper-Project-1) |  |
+| Ryan | LA | Minesweeper | [link](https://github.com/NaryxHaxns/Jabberwocky-Sweeper-Project-1) |  |
 | Sarah | LA | Mancala | [link](https://github.com/slrosky/mancala-game-project) |  |
 | Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) |  |
 | Maddy | SD | Video Poker | [link](https://github.com/madeleinemarie/Video-Poker-Game) |  |

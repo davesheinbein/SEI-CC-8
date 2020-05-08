@@ -18,13 +18,13 @@
 | Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) |  |
 | Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) |  |
 | Xavier | DAL |  |  |  |
-| April | DEN |  |  |  |
+| April | DEN | Mancala | [link](https://github.com/aprilkrgonzales/mancala-browser-game) |  |
 | Chase | DEN | War | [link](https://github.com/chasewri/war-card-game) |  |
 | Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) |  |
 | Colin | DEN | Simon | [link](https://github.com/colin96man/project-simon) |  |
 | Hannah | DEN | Battleship | [link](https://github.com/hannahbrantley/Battleship) |  |
 | Kimberly | DEN | Memory With Cats | [link](https://github.com/kimberlyalord/memory-with-cats) |  |
-| Lauren | DEN |  |  |  |
+| Lauren | DEN | War | [link](https://github.com/laurenmengert/A-Game-Of-War) |  |
 | Jae | DEN | Slot Machine | [link](https://github.com/Hoodieee/Slot-Machine-Game) |  |
 | Joshua | DEN |  |  |  |
 | Robert | DEN | Slot Machine | [link](https://github.com/rperillo1/Slot-Machine) |  |

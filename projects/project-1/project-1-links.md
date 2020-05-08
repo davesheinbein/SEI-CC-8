@@ -2,3 +2,45 @@
 
 | Student | Campus | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|:---:|
+| Alfonso | ATX |  |  |  |
+| Brandon | ATX |  |  |  |
+| Chris | ATX |  |  |  |
+| Daniel | ATX |  |  |  |
+| Gabriel | ATX |  |  |  |
+| Matthew | ATX |  |  |  |
+| Monica | ATX |  |  |  |
+| Oscar | ATX |  |  |  |
+| Parker | ATX |  |  |  |
+| Samuel | ATX |  |  |  |
+| Adam | DAL |  |  |  |
+| Chinwe | DAL |  |  |  |
+| Jameson | DAL |  |  |  |
+| Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) |  |
+| Samuel | DAL |  |  |  |
+| Xavier | DAL |  |  |  |
+| April | DEN |  |  |  |
+| Chase | DEN |  |  |  |
+| Christopher | DEN |  |  |  |
+| Colin | DEN |  |  |  |
+| Hannah | DEN |  |  |  |
+| Kimberly | DEN |  |  |  |
+| Lauren | DEN |  |  |  |
+| Jae | DEN |  |  |  |
+| Joshua | DEN |  |  |  |
+| Robert | DEN |  |  |  |
+| Shawn | DEN | Solo Boggle | [link](https://github.com/sgluchacki/solo-boggle) |  |
+| Travis | DEN |  |  |  |
+| Tyler | DEN |  |  |  |
+| Vanessa | DEN |  |  |  |
+| Jackie | DEN |  |  |  |
+| Aaron | LA |  |  |  |
+| Brian | LA |  |  |  |
+| Charlotte | LA |  |  |  |
+| David | LA |  |  |  |
+| Jason | LA |  |  |  |
+| Jonathan | LA |  |  |  |
+| Ryan | LA |  |  |  |
+| Sarah | LA |  |  |  |
+| Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) |  |
+| Maddy | SD |  |  |  |
+| Ian | SD |  |  |  |

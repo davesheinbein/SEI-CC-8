@@ -23,16 +23,16 @@
 | Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) |  |
 | Colin | DEN | Simon | [link](https://github.com/colin96man/project-simon) |  |
 | Hannah | DEN | Battleship | [link](https://github.com/hannahbrantley/Battleship) |  |
-| Kimberly | DEN | Memory With Cats | [link](https://github.com/kimberlyalord/memory-with-cats) |  |
-| Lauren | DEN | War | [link](https://github.com/laurenmengert/A-Game-Of-War) |  |
+| Jackie | DEN | Blackjack | [link](https://github.com/JackieZoloo/blackJack) |  |
 | Jae | DEN | Slot Machine | [link](https://github.com/Hoodieee/Slot-Machine-Game) |  |
 | Joshua | DEN |  |  |  |
+| Kimberly | DEN | Memory With Cats | [link](https://github.com/kimberlyalord/memory-with-cats) |  |
+| Lauren | DEN | War | [link](https://github.com/laurenmengert/A-Game-Of-War) |  |
 | Robert | DEN | Slot Machine | [link](https://github.com/rperillo1/Slot-Machine) |  |
 | Shawn | DEN | Solo Boggle | [link](https://github.com/sgluchacki/solo-boggle) |  |
 | Travis | DEN | Battleship | [link](https://github.com/TCashion/battleship) |  |
 | Tyler | DEN | Blackjack | [link](https://github.com/tawlur/Project-1-BlackJack) |  |
 | Vanessa | DEN | Slot Machine | [link](https://github.com/vanessalarsen33/Slot-machine) |  |
-| Jackie | DEN |  |  |  |
 | Aaron | LA | Minesweeper | [link](https://github.com/asmith-asmith/minesweeper) |  |
 | Brian | LA | Tetris | [link](https://github.com/irritas/tetris) |  |
 | Charlotte | LA |  | [link](https://github.com/charlottepak/project1) |  |

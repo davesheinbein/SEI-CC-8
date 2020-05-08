@@ -35,12 +35,12 @@
 | Jackie | DEN |  |  |  |
 | Aaron | LA | Minesweeper | [link](https://github.com/asmith-asmith/minesweeper) |  |
 | Brian | LA | Tetris | [link](https://github.com/irritas/tetris) |  |
-| Charlotte | LA |  |  |  |
+| Charlotte | LA |  | [link](https://github.com/charlottepak/project1) |  |
 | David | LA | War | [link](https://github.com/davesheinbein/War-game) |  |
-| Jason | LA |  |  |  |
+| Jason | LA |  | [link](https://github.com/jhur91/project1) |  |
 | Jonathan | LA |  |  |  |
 | Ryan | LA |  |  |  |
 | Sarah | LA |  |  |  |
 | Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) |  |
-| Maddy | SD |  |  |  |
+| Maddy | SD | Video Poker | [link](https://github.com/madeleinemarie/Video-Poker-Game) |  |
 | Ian | SD |  |  |  |

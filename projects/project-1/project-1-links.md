@@ -2,22 +2,22 @@
 
 | Student | Campus | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|:---:|
-| Alfonso | ATX |  |  |  |
-| Brandon | ATX |  |  |  |
+| Alfonso | ATX | Simon | [link](https://github.com/acostade29/simonsays) |  |
+| Brandon | ATX | Quiz Game | [link](https://github.com/BSacco0674/Quizgame) |  |
 | Chris | ATX |  |  |  |
 | Daniel | ATX |  |  |  |
-| Gabriel | ATX |  |  |  |
+| Gabriel | ATX | HangLooseMan | [link](https://github.com/GabiVarella/unit-1-project) |  |
 | Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) |  |
 | Monica | ATX |  |  |  |
-| Oscar | ATX |  |  |  |
+| Oscar | ATX |  | [link](https://github.com/oscar1005/unit1) |  |
 | Parker | ATX |  |  |  |
 | Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) |  |
 | Adam | DAL |  |  |  |
-| Chinwe | DAL |  |  |  |
-| Jameson | DAL |  |  |  |
+| Chinwe | DAL | War | [link](https://github.com/chinwe2020/war) |  |
+| Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) |  |
 | Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) |  |
 | Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) |  |
-| Xavier | DAL |  |  |  |
+| Xavier | DAL | Blackjack | [link](https://github.com/xaviermarquez1991/project-1) |  |
 | April | DEN | Mancala | [link](https://github.com/aprilkrgonzales/mancala-browser-game) |  |
 | Chase | DEN | War | [link](https://github.com/chasewri/war-card-game) |  |
 | Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) |  |

@@ -4,13 +4,13 @@
 |---|:---:|:---:|:---:|:---:|
 | Alfonso | ATX | Simon | [link](https://github.com/acostade29/simonsays) |  |
 | Brandon | ATX | Quiz Game | [link](https://github.com/BSacco0674/Quizgame) |  |
-| Chris | ATX |  |  |  |
+| Chris | ATX | Simon | [link](https://github.com/ChrisChroma/Skull-Kid-Says) |  |
 | Daniel | ATX |  |  |  |
 | Gabriel | ATX | HangLooseMan | [link](https://github.com/GabiVarella/unit-1-project) |  |
 | Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) |  |
-| Monica | ATX |  |  |  |
-| Oscar | ATX |  | [link](https://github.com/oscar1005/unit1) |  |
-| Parker | ATX |  |  |  |
+| Monica | ATX | Super Slots | [link](https://github.com/monicamartinez64/super-slots) |  |
+| Oscar | ATX | Hangman | [link](https://github.com/oscar1005/Hangman) |  |
+| Parker | ATX | Hangman | [link](https://github.com/ParkerOHeeron/Hangman) |  |
 | Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) |  |
 | Adam | DAL |  |  |  |
 | Chinwe | DAL | War | [link](https://github.com/chinwe2020/war) |  |

@@ -5,7 +5,6 @@
 | Alfonso | ATX | Simon | [link](https://github.com/acostade29/simonsays) |  |
 | Brandon | ATX | Quiz Game | [link](https://github.com/BSacco0674/Quizgame) |  |
 | Chris | ATX | Simon | [link](https://github.com/ChrisChroma/Skull-Kid-Says) |  |
-| Daniel | ATX |  |  |  |
 | Gabriel | ATX | HangLooseMan | [link](https://github.com/GabiVarella/unit-1-project) |  |
 | Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) |  |
 | Monica | ATX | Super Slots | [link](https://github.com/monicamartinez64/super-slots) |  |

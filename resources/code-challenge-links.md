@@ -12,7 +12,6 @@
 | Oscar | ATX | [link](https://git.generalassemb.ly/oscarf1005/daily-js-code-challenges) |
 | Parker | ATX | [link](https://git.generalassemb.ly/ParkerOH/daily-js-code-challenges) |
 | Samuel | ATX | [link](https://git.generalassemb.ly/sammyt/daily-js-code-challenges) |
-| Adam | DAL | [link](https://git.generalassemb.ly/jad1985/daily-js-code-challenges) |
 | Chinwe | DAL | [link](https://git.generalassemb.ly/chinwe2020/daily-js-code-challenges) |
 | Kathleen | DAL | [link](https://git.generalassemb.ly/kstick/daily-js-code-challenges) |
 | Jameson | DAL | [link](https://git.generalassemb.ly/Jaice561/daily-js-code-challenges) |

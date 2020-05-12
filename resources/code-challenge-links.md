@@ -41,5 +41,5 @@
 | Sarah | LA | [link](https://git.generalassemb.ly/srosky/daily-js-code-challenges) |
 | Alexei | SD | [link](https://git.generalassemb.ly/audarbe/daily-js-code-challenges) |
 | Maddy | SD | [link](https://git.generalassemb.ly/maddy-v/daily-js-code-challenges) |
-| Ian | SD | [link](https://git.generalassemb.ly/ivitaga/daily-js-code-challenges) |
+
 

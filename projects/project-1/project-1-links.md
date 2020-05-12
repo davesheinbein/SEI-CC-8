@@ -41,4 +41,3 @@
 | Sarah | LA | Mancala | [link](https://github.com/slrosky/mancala-game-project) |  |
 | Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) |  |
 | Maddy | SD | Video Poker | [link](https://github.com/madeleinemarie/Video-Poker-Game) |  |
-| Ian | SD | Blackjack | [link](https://github.com/ijvitaga/Project-1-Blackjack) |  |

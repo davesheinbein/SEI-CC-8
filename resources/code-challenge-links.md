@@ -22,7 +22,7 @@
 | Colin | DEN | [link](https://git.generalassemb.ly/colin96man/daily-js-code-challenges) | 70% |
 | Hannah | DEN | [link](https://git.generalassemb.ly/hbrantley10/daily-js-code-challenges) | 100% |
 | Kimberly | DEN | [link](https://git.generalassemb.ly/kimberlyalord/daily-js-code-challenges) | 10% |
-| Lauren | DEN | [link](https://git.generalassemb.ly/laurenmengert/daily-js-code-challenges) | Infinite Loop |
+| Lauren | DEN | [link](https://git.generalassemb.ly/laurenmengert/daily-js-code-challenges) | 50% |
 | Jae | DEN | [link](https://git.generalassemb.ly/hoodieee/daily-js-code-challenges) | 100% |
 | Joshua | DEN | [link](https://git.generalassemb.ly/joshfern24/daily-js-code-challenges) | 10% |
 | Robert | DEN | [link](https://git.generalassemb.ly/rperillo1/daily-js-code-challenges) | 160% |

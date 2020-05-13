@@ -5,14 +5,14 @@
 | Alfonso | ATX | Simon | [link](https://github.com/acostade29/simonsays) |  |
 | Brandon | ATX | Quiz Game | [link](https://github.com/BSacco0674/Quizgame) | [link](https://bsacco0674.github.io/Quizgame/) |
 | Chris | ATX | Simon | [link](https://github.com/ChrisChroma/Skull-Kid-Says) | [link](https://chrischroma.github.io/Skull-Kid-Says/) |
-| Gabriel | ATX | HangLooseMan | [link](https://github.com/GabiVarella/unit-1-project) |  |
+| Gabriel | ATX | HangLooseMan | [link](https://github.com/GabiVarella/unit-1-project) | [link](https://gabivarella.github.io/unit-1-project/) |
 | Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) | [link](https://mjmoquin.github.io/GA-Blackjack/) |
 | Monica | ATX | Super Slots | [link](https://github.com/monicamartinez64/super-slots) | [link](https://monicamartinez64.github.io/super-slots/) |
 | Oscar | ATX | Hangman | [link](https://github.com/oscar1005/Hangman) |  |
 | Parker | ATX | Hangman | [link](https://github.com/ParkerOHeeron/Hangman) |  |
 | Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) | [link](https://samueltrahan.github.io/SImon/) |
 | Chinwe | DAL | War | [link](https://github.com/chinwe2020/war) | [link](https://chinwe2020.github.io/war/) |
-| Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) |  |
+| Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) | [link](https://jaice561.github.io/ALBOU/) |
 | Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) | [link](https://kstick9210.github.io/War-Card-Game/) |
 | Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) |  |
 | Xavier | DAL | Blackjack | [link](https://github.com/xaviermarquez1991/project-1) | [link](https://xaviermarquez1991.github.io/project-1/) |

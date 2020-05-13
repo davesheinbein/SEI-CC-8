@@ -3,41 +3,41 @@
 | Student | Campus | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|:---:|
 | Alfonso | ATX | Simon | [link](https://github.com/acostade29/simonsays) |  |
-| Brandon | ATX | Quiz Game | [link](https://github.com/BSacco0674/Quizgame) |  |
-| Chris | ATX | Simon | [link](https://github.com/ChrisChroma/Skull-Kid-Says) |  |
+| Brandon | ATX | Quiz Game | [link](https://github.com/BSacco0674/Quizgame) | [link](https://bsacco0674.github.io/Quizgame/) |
+| Chris | ATX | Simon | [link](https://github.com/ChrisChroma/Skull-Kid-Says) | [link](https://chrischroma.github.io/Skull-Kid-Says/) |
 | Gabriel | ATX | HangLooseMan | [link](https://github.com/GabiVarella/unit-1-project) |  |
-| Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) |  |
-| Monica | ATX | Super Slots | [link](https://github.com/monicamartinez64/super-slots) |  |
+| Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) | [link](https://mjmoquin.github.io/GA-Blackjack/) |
+| Monica | ATX | Super Slots | [link](https://github.com/monicamartinez64/super-slots) | [link](https://monicamartinez64.github.io/super-slots/) |
 | Oscar | ATX | Hangman | [link](https://github.com/oscar1005/Hangman) |  |
 | Parker | ATX | Hangman | [link](https://github.com/ParkerOHeeron/Hangman) |  |
-| Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) |  |
+| Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) | [link](https://samueltrahan.github.io/SImon/) |
 | Chinwe | DAL | War | [link](https://github.com/chinwe2020/war) |  |
 | Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) |  |
-| Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) |  |
+| Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) | [link](https://kstick9210.github.io/War-Card-Game/) |
 | Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) |  |
 | Xavier | DAL | Blackjack | [link](https://github.com/xaviermarquez1991/project-1) |  |
-| April | DEN | Mancala | [link](https://github.com/aprilkrgonzales/mancala-browser-game) |  |
-| Chase | DEN | War | [link](https://github.com/chasewri/war-card-game) |  |
-| Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) |  |
-| Colin | DEN | Simon | [link](https://github.com/colin96man/project-simon) |  |
-| Hannah | DEN | Battleship | [link](https://github.com/hannahbrantley/Battleship) |  |
-| Jackie | DEN | Blackjack | [link](https://github.com/JackieZoloo/blackJack) |  |
-| Jae | DEN | Slot Machine | [link](https://github.com/Hoodieee/Slot-Machine-Game) |  |
-| Joshua | DEN | Minesweeper | [link](https://github.com/jfernnn/Minesweeper-P1) |  |
-| Kimberly | DEN | Memory With Cats | [link](https://github.com/kimberlyalord/memory-with-cats) |  |
-| Lauren | DEN | War | [link](https://github.com/laurenmengert/A-Game-Of-War) |  |
-| Robert | DEN | Slot Machine | [link](https://github.com/rperillo1/Slot-Machine) |  |
-| Shawn | DEN | Solo Boggle | [link](https://github.com/sgluchacki/solo-boggle) |  |
-| Travis | DEN | Battleship | [link](https://github.com/TCashion/battleship) |  |
-| Tyler | DEN | Blackjack | [link](https://github.com/tawlur/Project-1-BlackJack) |  |
-| Vanessa | DEN | Slot Machine | [link](https://github.com/vanessalarsen33/Slot-machine) |  |
+| April | DEN | Mancala | [link](https://github.com/aprilkrgonzales/mancala-browser-game) | [link](https://aprilkrgonzales.github.io/mancala-browser-game/) |
+| Chase | DEN | War | [link](https://github.com/chasewri/war-card-game) | [link](https://chasewri.github.io/war-card-game/) |
+| Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) | [link](https://chris-violante.github.io/War-Game-Project-1/) |
+| Colin | DEN | Simon | [link](https://github.com/colin96man/project-simon) | [link](https://colin96man.github.io/project-simon/) |
+| Hannah | DEN | Battleship | [link](https://github.com/hannahbrantley/Battleship) | [link](https://hannahbrantley.github.io/Battleship/) |
+| Jackie | DEN | Blackjack | [link](https://github.com/JackieZoloo/blackJack) | [link](https://jackiezoloo.github.io/blackJack/) |
+| Jae | DEN | Slot Machine | [link](https://github.com/Hoodieee/Slot-Machine-Game) | [link](https://hoodieee.github.io/Slot-Machine-Game/) |
+| Joshua | DEN | Minesweeper | [link](https://github.com/jfernnn/Minesweeper-P1) | [link](https://jfernnn.github.io/Minesweeper-P1/) |
+| Kimberly | DEN | Memory With Cats | [link](https://github.com/kimberlyalord/memory-with-cats) | [link](https://kimberlyalord.github.io/memory-with-cats/) |
+| Lauren | DEN | War | [link](https://github.com/laurenmengert/A-Game-Of-War) | [link](https://laurenmengert.github.io/A-Game-Of-War/) |
+| Robert | DEN | Slot Machine | [link](https://github.com/rperillo1/Slot-Machine) | [link](https://rperillo1.github.io/Slot-Machine/) |
+| Shawn | DEN | Solo Boggle | [link](https://github.com/sgluchacki/solo-boggle) | [link](https://sgluchacki.github.io/solo-boggle/) |
+| Travis | DEN | Battleship | [link](https://github.com/TCashion/battleship) | [link](https://tcashion.github.io/battleship/) |
+| Tyler | DEN | Blackjack | [link](https://github.com/tawlur/Project-1-BlackJack) | [link](https://tawlur.github.io/Project-1-BlackJack/) |
+| Vanessa | DEN | Slot Machine | [link](https://github.com/vanessalarsen33/Slot-machine) | [link](https://vanessalarsen33.github.io/Slot-machine/) |
 | Aaron | LA | Minesweeper | [link](https://github.com/asmith-asmith/minesweeper) |  |
-| Brian | LA | Tetris | [link](https://github.com/irritas/tetris) |  |
+| Brian | LA | Tetris | [link](https://github.com/irritas/tetris) | [link](https://irritas.github.io/tetris/) |
 | Charlotte | LA |  | [link](https://github.com/charlottepak/project1) |  |
-| David | LA | War | [link](https://github.com/davesheinbein/War-game) |  |
-| Jason | LA |  | [link](https://github.com/jhur91/project1) |  |
+| David | LA | War | [link](https://github.com/davesheinbein/War-game) | [link](https://davesheinbein.github.io/War-game/) |
+| Jason | LA |  | [link](https://github.com/jhur91/project1) | [link](https://jhur91.github.io/project1/) |
 | Jonathan | LA | Checkers | [link](https://github.com/Thornathan/Checkers-Project-1) |  |
 | Ryan | LA | Minesweeper | [link](https://github.com/NaryxHaxns/Jabberwocky-Sweeper-Project-1) |  |
 | Sarah | LA | Mancala | [link](https://github.com/slrosky/mancala-game-project) |  |
-| Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) |  |
-| Maddy | SD | Video Poker | [link](https://github.com/madeleinemarie/Video-Poker-Game) |  |
+| Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) | [link](https://audarbe.github.io/minesweeper/) |
+| Maddy | SD | Video Poker | [link](https://github.com/madeleinemarie/Video-Poker-Game) | [link](https://madeleinemarie.github.io/Video-Poker-Game/) |

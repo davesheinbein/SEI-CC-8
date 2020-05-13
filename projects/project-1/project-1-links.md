@@ -15,7 +15,7 @@
 | Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) |  |
 | Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) | [link](https://kstick9210.github.io/War-Card-Game/) |
 | Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) |  |
-| Xavier | DAL | Blackjack | [link](https://github.com/xaviermarquez1991/project-1) |  |
+| Xavier | DAL | Blackjack | [link](https://github.com/xaviermarquez1991/project-1) | [link](https://xaviermarquez1991.github.io/project-1/) |
 | April | DEN | Mancala | [link](https://github.com/aprilkrgonzales/mancala-browser-game) | [link](https://aprilkrgonzales.github.io/mancala-browser-game/) |
 | Chase | DEN | War | [link](https://github.com/chasewri/war-card-game) | [link](https://chasewri.github.io/war-card-game/) |
 | Christopher | DEN | War | [link](https://github.com/Chris-Violante/War-Game-Project-1) | [link](https://chris-violante.github.io/War-Game-Project-1/) |

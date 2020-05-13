@@ -39,7 +39,7 @@
 | Jonathan | LA | [link](https://git.generalassemb.ly/JonathanLane/daily-js-code-challenges) | 70% |
 | Ryan | LA | [link](https://git.generalassemb.ly/Naryx/daily-js-code-challenges) | 20% |
 | Sarah | LA | [link](https://git.generalassemb.ly/srosky/daily-js-code-challenges) | Syntax Error |
-| Alexei | SD | [link](https://git.generalassemb.ly/audarbe/daily-js-code-challenges) | 50% |
+| Alexei | SD | [link](https://git.generalassemb.ly/audarbe/daily-js-code-challenges) | 100% |
 | Maddy | SD | [link](https://git.generalassemb.ly/maddy-v/daily-js-code-challenges) | 80% |
 
 

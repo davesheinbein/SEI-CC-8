@@ -64,5 +64,31 @@ When you have commits on `master` that you want to deploy, it's time to **merge*
 
 Now your deployed application is up to date!
 
-Be sure to switch back to the `master` branch - happy coding!
+Be sure to switch back to the `master` branch!
+
+## Troubleshooting
+
+It's not uncommon to have a problem with a deployed app that runs perfectly in the local development environment.
+
+The most common situation occurs because hosted applications are "served" via the **https** protocol vs. **https** during development.
+
+For example, any hard-coded **http** URLs in the source code will not load due to [Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content)  errors - the following `<img>` tag will load the image locally but not when deployed:
+
+```html
+<img src="http://example.com/image.png">
+```
+
+The solution is to either specify **https** explicitly:
+
+```html
+<img src="https://example.com/image.png">
+```
+
+or leave off the protocol entirely:
+
+```html
+<img src="//example.com/image.png">
+```
+
+> IMPORTANT:  The Network tab in DevTools is extremely helpful running down the above and other loading errors.
 

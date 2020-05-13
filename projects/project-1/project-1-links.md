@@ -2,7 +2,7 @@
 
 | Student | Campus | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|:---:|
-| Alfonso | ATX | Simon | [link](https://github.com/acostade29/simonsays) |  |
+| Alfonso | ATX | Simon | [link](https://github.com/acostade29/simonsays) | [link](https://acostade29.github.io/simonsays/) |
 | Brandon | ATX | Quiz Game | [link](https://github.com/BSacco0674/Quizgame) | [link](https://bsacco0674.github.io/Quizgame/) |
 | Chris | ATX | Simon | [link](https://github.com/ChrisChroma/Skull-Kid-Says) | [link](https://chrischroma.github.io/Skull-Kid-Says/) |
 | Gabriel | ATX | HangLooseMan | [link](https://github.com/GabiVarella/unit-1-project) | [link](https://gabivarella.github.io/unit-1-project/) |

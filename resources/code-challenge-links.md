@@ -3,7 +3,7 @@
 |Student|Campus|Link|Unit 1 Progress (% of 10)|
 |---|:---:|:---:|:---:|
 | Alfonso | ATX |  | Link Needed |
-| Brandon | ATX | [link](https://git.generalassemb.ly/Bsacco9814/daily-js-code-challenges) | Syntax Error |
+| Brandon | ATX | [link](https://git.generalassemb.ly/Bsacco9814/daily-js-code-challenges) | 80% |
 | Chris | ATX | [link](https://git.generalassemb.ly/ChrisChroma/daily-js-code-challenges) | 10% |
 | Gabriel | ATX | [link](https://git.generalassemb.ly/gabivarella/daily-js-code-challenges) | 10% |
 | Matthew | ATX | [link](https://git.generalassemb.ly/mjmoquin/daily-js-code-challenges) | 80% |

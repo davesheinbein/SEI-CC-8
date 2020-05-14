@@ -14,7 +14,7 @@
 | Chinwe | DAL | War | [link](https://github.com/chinwe2020/war) | [link](https://chinwe2020.github.io/war/) |
 | Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) | [link](https://jaice561.github.io/ALBOU/) |
 | Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) | [link](https://kstick9210.github.io/War-Card-Game/) |
-| Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) |  |
+| Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) | [link](https://salmon117.github.io/slot-machine-game/) |
 | Xavier | DAL | Blackjack | [link](https://github.com/xaviermarquez1991/project-1) | [link](https://xaviermarquez1991.github.io/project-1/) |
 | April | DEN | Mancala | [link](https://github.com/aprilkrgonzales/mancala-browser-game) | [link](https://aprilkrgonzales.github.io/mancala-browser-game/) |
 | Chase | DEN | War | [link](https://github.com/chasewri/war-card-game) | [link](https://chasewri.github.io/war-card-game/) |
@@ -31,13 +31,13 @@
 | Travis | DEN | Battleship | [link](https://github.com/TCashion/battleship) | [link](https://tcashion.github.io/battleship/) |
 | Tyler | DEN | Blackjack | [link](https://github.com/tawlur/Project-1-BlackJack) | [link](https://tawlur.github.io/Project-1-BlackJack/) |
 | Vanessa | DEN | Slot Machine | [link](https://github.com/vanessalarsen33/Slot-machine) | [link](https://vanessalarsen33.github.io/Slot-machine/) |
-| Aaron | LA | Minesweeper | [link](https://github.com/asmith-asmith/minesweeper) |  |
+| Aaron | LA | Minesweeper | [link](https://github.com/asmith-asmith/minesweeper) | [link](https://asmith-asmith.github.io/minesweeper/) |
 | Brian | LA | Tetris | [link](https://github.com/irritas/tetris) | [link](https://irritas.github.io/tetris/) |
-| Charlotte | LA |  | [link](https://github.com/charlottepak/project1) |  |
+| Charlotte | LA | Blackjack | [link](https://github.com/charlottepak/project1) | [link](https://charlottepak.github.io/project1/) |
 | David | LA | War | [link](https://github.com/davesheinbein/War-game) | [link](https://davesheinbein.github.io/War-game/) |
-| Jason | LA |  | [link](https://github.com/jhur91/project1) | [link](https://jhur91.github.io/project1/) |
-| Jonathan | LA | Checkers | [link](https://github.com/Thornathan/Checkers-Project-1) |  |
+| Jason | LA | Hangman | [link](https://github.com/jhur91/project1) | [link](https://jhur91.github.io/project1/) |
+| Jonathan | LA | Checkers | [link](https://github.com/Thornathan/Checkers-Project-1) | [link](https://thornathan.github.io/Checkers-Project-1/) |
 | Ryan | LA | Minesweeper | [link](https://github.com/NaryxHaxns/Jabberwocky-Sweeper-Project-1) | [link](https://naryxhaxns.github.io/Jabberwocky-Sweeper-Project-1/) |
-| Sarah | LA | Mancala | [link](https://github.com/slrosky/mancala-game-project) |  |
+| Sarah | LA | Mancala | [link](https://github.com/slrosky/mancala-game-project) | [link](https://slrosky.github.io/mancala-game-project/) |
 | Alexei | SD | Minesweeper | [link](https://github.com/audarbe/minesweeper) | [link](https://audarbe.github.io/minesweeper/) |
 | Maddy | SD | Video Poker | [link](https://github.com/madeleinemarie/Video-Poker-Game) | [link](https://madeleinemarie.github.io/Video-Poker-Game/) |

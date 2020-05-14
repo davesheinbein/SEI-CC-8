@@ -9,7 +9,7 @@
 | Matthew | ATX | Blackjack | [link](https://github.com/MJMoquin/GA-Blackjack) | [link](https://mjmoquin.github.io/GA-Blackjack/) |
 | Monica | ATX | Super Slots | [link](https://github.com/monicamartinez64/super-slots) | [link](https://monicamartinez64.github.io/super-slots/) |
 | Oscar | ATX | Hangman | [link](https://github.com/oscar1005/Hangman) |  |
-| Parker | ATX | Hangman | [link](https://github.com/ParkerOHeeron/Hangman) |  |
+| Parker | ATX | Hangman | [link](https://github.com/ParkerOHeeron/Hangman) | [link](https://parkeroheeron.github.io/Hangman/) |
 | Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) | [link](https://samueltrahan.github.io/SImon/) |
 | Chinwe | DAL | War | [link](https://github.com/chinwe2020/war) | [link](https://chinwe2020.github.io/war/) |
 | Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) | [link](https://jaice561.github.io/ALBOU/) |

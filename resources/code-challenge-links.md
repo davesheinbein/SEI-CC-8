@@ -8,7 +8,6 @@
 | Gabriel | ATX | [link](https://git.generalassemb.ly/gabivarella/daily-js-code-challenges) | 10% |
 | Matthew | ATX | [link](https://git.generalassemb.ly/mjmoquin/daily-js-code-challenges) | 80% |
 | Monica | ATX | [link](https://git.generalassemb.ly/monicamartinez64/daily-js-code-challenges) | No Commits |
-| Oscar | ATX | [link](https://git.generalassemb.ly/oscarf1005/daily-js-code-challenges) | No Commits |
 | Parker | ATX | [link](https://git.generalassemb.ly/ParkerOH/daily-js-code-challenges) | No Commits |
 | Samuel | ATX | [link](https://git.generalassemb.ly/sammyt/daily-js-code-challenges) | 110% |
 | Chinwe | DAL | [link](https://git.generalassemb.ly/chinwe2020/daily-js-code-challenges) | No Commits |

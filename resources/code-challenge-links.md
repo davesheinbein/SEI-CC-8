@@ -26,7 +26,7 @@
 | Jae | DEN | [link](https://git.generalassemb.ly/hoodieee/daily-js-code-challenges) | 100% |
 | Joshua | DEN | [link](https://git.generalassemb.ly/joshfern24/daily-js-code-challenges) | 10% |
 | Robert | DEN | [link](https://git.generalassemb.ly/rperillo1/daily-js-code-challenges) | 160% |
-| Shawn | DEN | [link](https://git.generalassemb.ly/sgluchacki/daily-js-code-challenges) | 50% |
+| Shawn | DEN | [link](https://git.generalassemb.ly/sgluchacki/daily-js-code-challenges) | 200% |
 | Travis | DEN | [link](https://git.generalassemb.ly/TCashion44/daily-js-code-challenges) | 120% |
 | Tyler | DEN | [link](https://git.generalassemb.ly/tawlur/daily-js-code-challenges) | 10% |
 | Vanessa | DEN | [link](https://git.generalassemb.ly/vanessalarsen33/daily-js-code-challenges) | No Commits |

@@ -14,7 +14,6 @@
 | Kathleen | DAL | [link](https://git.generalassemb.ly/kstick/daily-js-code-challenges) | 110% |
 | Jameson | DAL | [link](https://git.generalassemb.ly/Jaice561/daily-js-code-challenges) | No Commits |
 | Samuel | DAL | [link](https://git.generalassemb.ly/samuel117/daily-js-code-challenges) | 90% |
-| Xavier | DAL | [link](https://git.generalassemb.ly/xaviermarquezdelaplata/daily-js-code-challenges) | 60% |
 | April | DEN | [link](https://git.generalassemb.ly/aprilkrgonzales/daily-js-code-challenges) | 10% |
 | Chase | DEN | [link](https://git.generalassemb.ly/chasewri/daily-js-code-challenges) | 120% |
 | Christopher | DEN | [link](https://git.generalassemb.ly/CViolante/daily-js-code-challenges) | 10% |

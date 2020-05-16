@@ -2,7 +2,7 @@
 
 |Student|Campus|Link|Unit 1 Progress (% of 10)|
 |---|:---:|:---:|:---:|
-| Alfonso | ATX |  | Link Needed |
+| Alfonso | ATX | [link](https://github.com/acostade29/Dailycodechallenge) | 100% |
 | Brandon | ATX | [link](https://git.generalassemb.ly/Bsacco9814/daily-js-code-challenges) | 80% |
 | Chris | ATX | [link](https://git.generalassemb.ly/ChrisChroma/daily-js-code-challenges) | 10% |
 | Gabriel | ATX | [link](https://git.generalassemb.ly/gabivarella/daily-js-code-challenges) | 10% |

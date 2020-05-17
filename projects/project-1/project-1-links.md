@@ -11,7 +11,7 @@
 | Parker | ATX | Hangman | [link](https://github.com/ParkerOHeeron/Hangman) | [link](https://parkeroheeron.github.io/Hangman/) |
 | Samuel | ATX | Simon | [link](https://github.com/samueltrahan/SImon) | [link](https://samueltrahan.github.io/SImon/) |
 | Chinwe | DAL | War | [link](https://github.com/chinwe2020/war) | [link](https://chinwe2020.github.io/war/) |
-| Jameson | DAL | Money War | [link](https://github.com/Jaice561/Jaice) | [link](https://jaice561.github.io/ALBOU/) |
+| Jameson | DAL | Money War | [link](https://github.com/Jaice561/ALBOU) | [link](https://jaice561.github.io/ALBOU/) |
 | Kathleen | DAL | War | [link](https://github.com/kstick9210/War-Card-Game) | [link](https://kstick9210.github.io/War-Card-Game/) |
 | Samuel | DAL | Slot Machine | [link](https://github.com/salmon117/slot-machine-game) | [link](https://salmon117.github.io/slot-machine-game/) |
 | Xavier | DAL | Blackjack | [link](https://github.com/xaviermarquez1991/project-1) | [link](https://xaviermarquez1991.github.io/project-1/) |

@@ -21,7 +21,7 @@
 | Colin | DEN | Simon | [link](https://github.com/colin96man/project-simon) | [link](https://colin96man.github.io/project-simon/) |
 | Hannah | DEN | Battleship | [link](https://github.com/hannahbrantley/Battleship) | [link](https://hannahbrantley.github.io/Battleship/) |
 | Jackie | DEN | Blackjack | [link](https://github.com/JackieZoloo/blackJack) | [link](https://jackiezoloo.github.io/blackJack/) |
-| Jae | DEN | Slot Machine | [link](github.com/jsohnfile/SLot-Machine-Game) | [link](https://jsohnfile.github.io/Slot-Machine-Game/) |
+| Jae | DEN | Slot Machine | [link](https://github.com/jsohnfile/SLot-Machine-Game) | [link](https://jsohnfile.github.io/Slot-Machine-Game/) |
 | Joshua | DEN | Minesweeper | [link](https://github.com/jfernnn/Minesweeper-P1) | [link](https://jfernnn.github.io/Minesweeper-P1/) |
 | Kimberly | DEN | Memory With Cats | [link](https://github.com/kimberlyalord/memory-with-cats) | [link](https://kimberlyalord.github.io/memory-with-cats/) |
 | Lauren | DEN | War | [link](https://github.com/laurenmengert/A-Game-Of-War) | [link](https://laurenmengert.github.io/A-Game-Of-War/) |

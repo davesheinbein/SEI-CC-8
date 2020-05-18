@@ -41,8 +41,8 @@
 - Create a folder and cd into it:
 
 	```sh
-	$ mkdir first-express
-	$ cd first-express
+	$ mkdir intro-express
+	$ cd intro-express
 	```
 	
 - Then create a `package.json` using this command:

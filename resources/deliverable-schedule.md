@@ -17,5 +17,5 @@ It is a requirement to complete at least **80%** of the following to to receive:
 | Mon 5/4 |[Responsive Design Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w02/d1/04-responsive-design-lab.md)| Mon 5/11 |
 | Wed 5/6 |[jQuery "My Dev Skills" Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w02/d3/04-jquery-lab.md)| Wed 5/13 |
 | Thu 5/7 |[Array Iterator Methods Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w02/d4/02b-array-methods-lab.md)| Thu 5/14 |
-
+| Wed 5/20 |[Express "Dev Skills" Lab - Parts 1 & 2](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w04/d3/04-dev-skills-lab-part-2.md)| Wed 5/27 |
 

@@ -29,7 +29,7 @@
 | Tyler | DEN | [link](https://git.generalassemb.ly/tawlur/daily-js-code-challenges) | 10% |
 | Vanessa | DEN | [link](https://git.generalassemb.ly/vanessalarsen33/daily-js-code-challenges) | No Commits |
 | Jackie | DEN | [link](https://git.generalassemb.ly/JackieDenver/daily-js-code-challenges) | 10% |
-| Aaron | LA | [link](https://git.generalassemb.ly/asmith-asmith/daily-js-code-challenges) | 10% |
+| Aaron | LA | [link](https://git.generalassemb.ly/asmith-asmith/daily-js-code-challenges) | 130% |
 | Brian | LA | [link](https://git.generalassemb.ly/bliu7/daily-js-code-challenges) | 250% |
 | Charlotte | LA | [link](https://git.generalassemb.ly/charlottepak/daily-js-code-challenges) | 30% |
 | David | LA | [link](https://git.generalassemb.ly/davesheinbein/daily-js-code-challenges) | 100% |

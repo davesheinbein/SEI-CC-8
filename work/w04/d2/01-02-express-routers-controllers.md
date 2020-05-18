@@ -1,11 +1,4 @@
 This presentation can be viewed [here](https://presentations.generalassemb.ly/07f9b2f08932561aa03cd2c17d38783b#/1)
-
-<style style="visibility:hidden">
-	.reveal li {font-size: 32px;}
-	.reveal ul ul li, .reveal ul ol li, .reveal ol ol li, .reveal ol ul  li {
-		font-size: 28px;
-	}
-</style>
 ---
 
 ![](https://i.imgur.com/vUOu9NW.jpg)
@@ -382,9 +375,9 @@ Options:
 
 	```js
 	const todos = [
-	  {todo: 'Feed Dogs', done: true},
-	  {todo: 'Learn Express', done: false},
-	  {todo: 'Buy Milk', done: false}
+	  {id: 125223, todo: 'Feed Dogs', done: true},
+	  {id: 127904, todo: 'Learn Express', done: false},
+	  {id: 139608, todo: 'Buy Milk', done: false}
 	];
 	
 	module.exports = {
@@ -702,11 +695,11 @@ Options:
 - Let's refactor **todos/index.ejs** as follows:
 
 	```html
-	    <% todos.forEach(function(t, idx) { %>
+	    <% todos.forEach(function(t) { %>
 	      <li>
-	        <a href="/todos/<%= idx %>"><%= t.todo %></a>
+	        <a href="/todos/<%= t.id %>"><%= t.todo %></a>
 	```
-	Don't forget to add the `idx` parameter in the callback function
+	
 
 
 - Refresh the page and hover over the links. Looking at the bottom-left of the window will verify the paths look correct!
@@ -792,7 +785,8 @@ Options:
 	};
 	
 	function getOne(id) {
-	  return todos[id];
+	  // Use the Array.prototype.find iterator method
+	  return todos.find(todo => todo.id === parseInt(id));
 	}
 	```
 

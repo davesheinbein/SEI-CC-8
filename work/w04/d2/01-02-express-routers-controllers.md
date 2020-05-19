@@ -405,7 +405,7 @@ Options:
 
 	```js
 	// around line 8
-	var todosRouter = require('./routes/todos');
+	const todosRouter = require('./routes/todos');
 	```
 	and when it's being _mounted_:
 	
@@ -451,9 +451,9 @@ Options:
 - We first need to require the Todo model as follows:
 
 	```js
-	var router = express.Router();
+	const router = express.Router();
 	// require the Todo model
-	var Todo = require('../models/todo');
+	const Todo = require('../models/todo');
 	```
 
 - It's convention to name model variables singularly and with upper-camel-casing.
@@ -595,7 +595,7 @@ Options:
 - But, the controller does! Let's go cut it from **routes/todos.js** and paste it at the top of **controllers/todos.js**:
 
 	```js
-	var Todo = require('../models/todo');
+	const Todo = require('../models/todo');
 	```
 
 ---
@@ -605,7 +605,7 @@ Options:
 - Back in **routes/todos.js**, we need to require the controller in order to have access to its actions (methods):
 
 	```js
-	var todosCtrl = require('../controllers/todos');
+	const todosCtrl = require('../controllers/todos');
 	```
 
 - Now, the refactor:

@@ -33,10 +33,6 @@ This presentation can be viewed [here](https://presentations.generalassemb.ly/07
 #### Setup
 <br>
 
-- To get ready for this lesson, simply `cd` into today's folder for the class repo.
-
----
-
 ### <span style="text-transform:lowercase">express-generator</span>
 
 ---

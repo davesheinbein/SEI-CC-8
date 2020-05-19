@@ -22,9 +22,7 @@
 
 ## Setup
 
-This lesson builds upon the `express-todos` project created in the previous lesson.
-
-However, an additional `id` property has been added to the todo objects.  In this lesson, we will see how we can easily generate these ids.
+This lesson pretty much builds upon the `express-todos` project created in the previous lesson.
 
 Synchronize your local repo with the starter code with these commands:
 

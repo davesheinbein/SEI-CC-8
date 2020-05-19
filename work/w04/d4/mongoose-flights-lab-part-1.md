@@ -13,7 +13,7 @@ Similar to what we did in the lesson, you'll start by creating a `mongoose-fligh
 
 FYI, future lessons will expand upon the `mongoose-movies` project, and the labs will expand upon the `mongoose-flights` project!
 
-#### The final version of `mongoose-flights` (parts 1 & 2 combined) will be a deliverable, so do each part and don't fall behind.
+#### The final version of `mongoose-flights` (parts 1 thru 3 combined) will be a deliverable, so do each part and don't fall behind.
 
 ## Exercises
 
@@ -77,7 +77,7 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 
 ## Deliverable?
 
-### The final version of `mongoose-flights` (parts 1 & 2 combined) will be a deliverable, so do each part and don't fall behind.
+### The final version of `mongoose-flights` (parts 1 thru 2 combined) will be a deliverable, so do each part and don't fall behind.
 
 Please create a repo named `mongoose-flights` and commit your code.
 

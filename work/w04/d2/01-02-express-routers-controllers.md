@@ -735,8 +735,7 @@ Options:
 	```js
 	function show(req, res) {
 	  res.render('todos/show', {
-	    todo: Todo.getOne(req.params.id),
-	    todoNum: parseInt(req.params.id) + 1
+	    todo: Todo.getOne(req.params.id)
 	  });
 	}
 	```

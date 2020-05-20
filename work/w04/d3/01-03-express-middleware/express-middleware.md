@@ -142,7 +142,21 @@ Move it back above the routes - yup, order of middleware matters.
 
 ## Creating To-Dos
 
-Again, here's a great flow to follow when you want to add functionality to your web app:
+Time to add some additional functionality to our app - adding to-dos!
+
+What exact functionality do we want?
+
+Do we want to show a form on the `index` view, or do we want a separate page dedicated to adding a To Do?
+
+Typically, for adding to-dos, you'd want have the form on the same page, however, today we'll demo the dedicated page approach so that we can see how **creating data is often a two-request task**:
+
+1. Browser sends an initial request to see a page that includes a form to input the data, and...
+
+2. The second request will happen when the form is submitted to the server so that it may create the new data, in this case a to-do, and respond to the client with a "redirect" (status code 302), i.e., tell the browser to make a new GET request.
+
+#### Suggested Workflow to Add Functionality to a Web App
+
+Here's a great flow to follow when you want to add functionality to your web app:
 
 1. Identify the "proper" Route (Verb + Path)
 
@@ -154,7 +168,7 @@ Again, here's a great flow to follow when you want to add functionality to your 
 
 5. `res.render` a view in the case of a `GET` request, or `res.redirect` if data was changed.  Write the view template if it does not already exist.
 
-What functionality do we want?  Do we want to show a form on the `index` view, or do we want a separate page dedicated to adding a To Do?  Typically, you'd want have the form on the same page, however, today we'll demo the dedicated page approach.
+Okay, since we are going for the two-request approach, let's get started implementing the functionality to show a page with a form to enter a new to-do...
 
 #### Step 1 - Identify the "proper" Route
 
@@ -231,21 +245,30 @@ Just a basic HTML form is being used to send data to the server when the form is
 
 Verify that clicking the **Add To-Do** link displays the page with the form - bravo!
 
-#### IMPORTANT:  To create (or update) data takes two separate requests that match two different routes mapped to two different controller actions.
+#### Implementing the second-request functionality
+
+Again, creating (or updating) data can take two separate requests - it depends upon the design of the app.
+
+Let's get started implementing that second-request responsible for creating the new to-do on the backend...
+
+#### Step 1 - Identify the "proper" Route
 
 **Check the [Routing Chart](https://gist.github.com/jim-clark/17908763db7bd3c403e6) and slack the proper route (HTTP Method & Endpoint) for creating data on the server**
 
-Checking the form - we're in business!
+#### Step 2 - Create the UI that issues the request
+
+The `<form>` is the UI and it's ready for business!
+
+When the form is submitted, its attributes determine what HTTP request will be:
+
+- `method` attribute holds the HTTP method/verb
+- `action` attribute holds the endpoint
 
 > Check [this](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form) out if you want to learn more about HTML Forms.
 
-#### Creating To-Dos on the Server
+✅ Step 1 - Determine proper route
 
-Okay, we now see a form for entering the new to do, let's follow the same process for the second of the two requests:
-
-1. ✅ Determine proper route
-
-2. ✅ Create UI
+✅ Step 2 - Create UI
 
 #### Step 3 - Define the Route
 

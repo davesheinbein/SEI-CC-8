@@ -53,7 +53,9 @@ To get setup, please:
 3. Rename `app.js` to `server.js` and update the following line in **bin/www** as follows:
 
 	```
-	var app = require('../server');  // replace 'app' with 'server'
+	// var app = require('../app');
+	// Replace require('../app') with require('../server') as shown below
+	var app = require('../server');
 	```
 	
 4. Just in case you need to sync during the code-along, let's make this project a repo and link to the code-along's remote:

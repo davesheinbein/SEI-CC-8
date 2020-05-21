@@ -123,8 +123,8 @@ Assume we need to store cat documents with the following schema:
 // Module: models/cat.js
 
 const catSchema = new mongoose.Schema({
-	name: String,
-	breed: String
+  name: String,
+  breed: String
 });
 ```
 
@@ -232,7 +232,7 @@ mongoose.connect('mongodb://localhost/movies', {
 const db = mongoose.connection;
 	
 db.on('connected', function() {
-	console.log(`Connected to MongoDB at ${db.host}:${db.port}`);
+  console.log(`Connected to MongoDB at ${db.host}:${db.port}`);
 });
 ```
 
@@ -287,10 +287,10 @@ Now let's define the basic schema for the `Movie` Model:
 const Schema = mongoose.Schema;
 	
 const movieSchema = new Schema({
-	title: String,
-	releaseYear: Number,
-	mpaaRating: String,
-	cast: [String]
+  title: String,
+  releaseYear: Number,
+  mpaaRating: String,
+  cast: [String]
 });
 ```
 
@@ -339,11 +339,11 @@ Compiling a schema into a model is as easy as calling the `mongoose.model` metho
 const Schema = mongoose.Schema;
 	
 const movieSchema = new Schema({
-	title: String,
-	releaseYear: Number,
-	mpaaRating: String,
-	cast: [String],
-	nowShowing: Boolean
+  title: String,
+  releaseYear: Number,
+  mpaaRating: String,
+  cast: [String],
+  nowShowing: Boolean
 });
 	
 // Compile the schema into a model and export it
@@ -514,27 +514,27 @@ Copy and paste the following awesome but ugly form, then we'll review it...
 ```html
 <h2>Enter a New Movie</h2>
 <form action="/movies" method="POST">
-	<label>Title:
-	  <input type="text" name="title">
-	</label><br>
-	<label>Release Year:
-	  <input type="text" name="releaseYear">
-	</label><br>
-	<label>MPAA Rating
-	  <select name="mpaaRating">
-	    <option value="G">G</option>
-	    <option value="PG">PG</option>
-	    <option value="PG-13">PG-13</option>
-	    <option value="R">R</option>
-	  </select>
-	</label><br>
-	<label>Cast (separate actors with commas):
-	  <input type="text" name="cast">
-	</label><br>
-	<label>Now Showing:
-	  <input type="checkbox" name="nowShowing" checked>
-	</label><br>
-	<input type="submit" value="Add Movie">
+  <label>Title:
+    <input type="text" name="title">
+  </label><br>
+  <label>Release Year:
+    <input type="text" name="releaseYear">
+  </label><br>
+  <label>MPAA Rating
+    <select name="mpaaRating">
+      <option value="G">G</option>
+      <option value="PG">PG</option>
+      <option value="PG-13">PG-13</option>
+      <option value="R">R</option>
+    </select>
+  </label><br>
+  <label>Cast (separate actors with commas):
+    <input type="text" name="cast">
+  </label><br>
+  <label>Now Showing:
+    <input type="checkbox" name="nowShowing" checked>
+  </label><br>
+  <input type="submit" value="Add Movie">
 </form>
 ```
 
@@ -625,12 +625,12 @@ The querying ability of Mongoose is **very** capable.  For example:
 
 ```js
 Movie.find({mpaaRating: 'PG'})
-	.where('releaseYear').lt(1970)
-	.where('cast').in('Bob Hope')
-	.sort('-title')
-	.limit(3)
-	.select('title releaseYear')
-	.exec(cb);
+  .where('releaseYear').lt(1970)
+  .where('cast').in('Bob Hope')
+  .sort('-title')
+  .limit(3)
+  .select('title releaseYear')
+  .exec(cb);
 ``` 
 
 The above query builder syntax is unique to Mongoose and is not available in MongoDB.
@@ -680,28 +680,28 @@ Here are the common Model methods for querying data:
 	<body>
 	  <h1>Movie List</h1>
 	  <table>
-	      <thead>
-	          <tr>
-	              <th>Title</th>
-	              <th>Release Year</th>
-	              <th>Rating</th>
-	              <th>Cast</th>
-	              <th>Now Showing</th>
-	          </tr>
-	      </thead>
-	      <tbody>
-	          <!-- Write the line of EJS to iterate over movies using forEach -->
-	              <tr>
-	                  <td><%= m.title %></td>
-	                  <td><%= m.releaseYear %></td>
-	                  <td><%= m.mpaaRating %></td>
-	                  <td><%= m.cast.join(', ') %></td>
-	                  <!-- finish the ternary expression to display
+	    <thead>
+	      <tr>
+	        <th>Title</th>
+	        <th>Release Year</th>
+	        <th>Rating</th>
+	        <th>Cast</th>
+	        <th>Now Showing</th>
+	      </tr>
+	    </thead>
+	    <tbody>
+	      <!-- Write the line of EJS to iterate over movies using forEach -->
+	        <tr>
+	          <td><%= m.title %></td>
+	          <td><%= m.releaseYear %></td>
+	          <td><%= m.mpaaRating %></td>
+	          <td><%= m.cast.join(', ') %></td>
+	          <!-- finish the ternary expression to display
 	                       'Yes' or 'Nope' --> 
-	                  <td><%= m.nowShowing ?  %></td>
-	              </tr>
-	          <!-- Close the forEach using EJS here -->
-	      </tbody>
+	          <td><%= m.nowShowing ?  %></td>
+	        </tr>
+	      <!-- Close the forEach using EJS here -->
+	    </tbody>
 	  </table>
 	</body>
 	</html>
@@ -770,18 +770,18 @@ To add a default value, we need to switch from this simple property definition s
 
 ```js
 const movieSchema = new Schema({
-	title: String,
-	releaseYear: Number,
-	...
+  title: String,
+  releaseYear: Number,
+  ...
 ```
 
 To this object syntax:
 
 ```js
 const movieSchema = new Schema({
-	title: String,
-	releaseYear: {type: Number},
-	...
+  title: String,
+  releaseYear: {type: Number},
+  ...
 ```
 
 Now we can add a `default` key to specify a default value:
@@ -808,7 +808,7 @@ We can fix this in the `create` action by deleting any property in `req.body` th
 if (req.body.cast) req.body.cast = req.body.cast.split(',');
 // remove empty properties
 for (let key in req.body) {
-	if (req.body[key] === '') delete req.body[key];
+  if (req.body[key] === '') delete req.body[key];
 }
 ```
 
@@ -826,10 +826,10 @@ For example, we can take our silly default for `releaseYear` and make it default
 const movieSchema = new mongoose.Schema({
   title: String,
   releaseYear: {
-	 type: Number,
-	 default: function() {
-		return new Date().getFullYear();
-	 }
+    type: Number,
+    default: function() {
+      return new Date().getFullYear();
+    }
   },
   mpaaRating: String,
   cast: [String],

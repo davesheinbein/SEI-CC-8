@@ -362,7 +362,7 @@ First up is **creating** data!
 
 We can use a Mongoose Model in two ways to create documents in the collection:
 
-1. `const instance = new Model(<object or array of objects>)`, then`instance.save()`<br>-OR-
+1. `const instance = new Model(<object>)`, then`instance.save()`<br>-OR-
 
 2. `Model.create(<object or array of objects>)`
 

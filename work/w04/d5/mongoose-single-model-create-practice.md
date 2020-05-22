@@ -52,6 +52,8 @@ The following screenshot shows the:
 1. New "ADD PERFORMER" navigation link added to `views/partials/header.ejs`
 2. The rendered `views/performers/new.ejs`.
 
+<img src="https://i.imgur.com/Yi6ZiI4.png">
+
 ### Two Requests to Create
 
 Don't forget that this will be a two-request process:

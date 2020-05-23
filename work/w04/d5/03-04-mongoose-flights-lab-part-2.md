@@ -42,13 +42,9 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 3. Implement the following User Story:<br>_AAU, when viewing the list of flights, I want to click on a "detail" link displayed next to each flight to view all of the properties for that flight (`show` view), including each of its destinations._
 
-4. Implement the following User Story:<br>_AAU, when viewing the details page (`show` view) for a flight, I want to see a list of that flight's `destinations` (`airport` & `arrival`)_
-
 5. Implement the following User Story:<br>_AAU, when viewing the details page (`show` view) for a flight, I want to be able to add a destination for that flight._  Each destination, as defined by the schema above, includes an `arrival` date/time & one of the established airport codes._<br>Note: Multiple destinations are possible by adding them one at a time.
 
-	Hints:
-	- Display a form below the list of destinations.
-
+4. Implement the following User Story:<br>_AAU, when viewing the details page (`show` view) for a flight, I want to see a list of that flight's `destinations` (`airport` & `arrival`)_
 
 ## Bonuses
 

@@ -53,20 +53,16 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 	Hints:
 	1. In the flight controller's `new` action, you could create an in-memory flight like this:<br>`const newFlight = new Flight();`<br>  This in-memory flight doc would have the default departure date set properly based on the logic in the function you assigned to `default`.
 	2. Just like any other data you want to access/display in a view template, that data needs to be passed by the controller action when it calls `res.render`, however…
-	3. Although an input of `type="datetime-local"` will display a date assigned to its `value` attribute, that date value needs to be formatted as a string matching this format: `yyyy-MM-ddThh:mm` (yes, a “T” character is used to separate the date portion from the time portion).  Formatting a date as a string is not that straight forward, but one way to do would be to use a template literal and use the `get*` methods to access the parts of the date, for example:<br>
+	3. Although an input of `type="datetime-local"` will display a date assigned to its `value` attribute, that date value needs to be formatted as a string matching this format: `yyyy-MM-ddThh:mm` (yes, a “T” character is used to separate the date portion from the time portion).  One way of obtaining the properly formatted string is to use the `toISOString()` method and use `slice()` to return only the first 16 characters, for example:<br>
 
 		```js
 		const newFlight = new Flight();
 		// Obtain the default date
 		const dt = newFlight.departs;
 		// Format the date for the value attribute of the input
-		const departsDate = `${dt.getFullYear()}-${dt.getMonth() + 1}-${dt.getDate()}T${dt.getHours().toString().padStart(2, '0')}:${dt.getMinutes().toString().padStart(2, '0')}`;
+		const departsDate = dt.toISOString().slice(0, 16);
 		res.render('flights/new', {departsDate});
 	```
-		Note that the month is zero-based in JS Date objects.  Also, since `getMonth` and `getDate` return numbers that have to be “padded” to two characters in length, `.toString().padStart(2, '0')` is being used to pull this off.
-		
-		Another approach would be to use one of the built-in JS date format methods to convert the date to a string and then access the parts you need from that string using the `slice` method (`slice` works on strings too).
-
 
 2. Code these additional User Stories:
 	- AAU, I want to view the list of flights by departure date in ascending order.

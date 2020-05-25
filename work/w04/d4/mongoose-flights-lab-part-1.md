@@ -55,13 +55,13 @@ FYI, future lessons will expand upon the `mongoose-movies` project, and the labs
 	2. Just like any other data you want to access/display in a view template, that data needs to be passed by the controller action when it calls `res.render`, however…
 	3. Although an input of `type="datetime-local"` will display a date assigned to its `value` attribute, that date value needs to be formatted as a string matching this format: `yyyy-MM-ddThh:mm` (yes, a “T” character is used to separate the date portion from the time portion).  One way of obtaining the properly formatted string is to use the `toISOString()` method and use `slice()` to return only the first 16 characters, for example:<br>
 
-		```js
-		const newFlight = new Flight();
-		// Obtain the default date
-		const dt = newFlight.departs;
-		// Format the date for the value attribute of the input
-		const departsDate = dt.toISOString().slice(0, 16);
-		res.render('flights/new', {departsDate});
+	```js
+	const newFlight = new Flight();
+	// Obtain the default date
+	const dt = newFlight.departs;
+	// Format the date for the value attribute of the input
+	const departsDate = dt.toISOString().slice(0, 16);
+	res.render('flights/new', {departsDate});
 	```
 
 2. Code these additional User Stories:

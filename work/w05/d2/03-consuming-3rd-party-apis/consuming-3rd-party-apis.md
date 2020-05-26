@@ -169,7 +169,7 @@ Let's take a baby step by logging out to the server terminal what was typed in t
 
 ```js
 router.get('/', function(req, res, next) {
-  const userName = req.query.username;
+  const username = req.query.username;
   console.log(`username: ${username}`);
   res.render('index');
 });
@@ -290,6 +290,14 @@ Now you will be able to access the token in code like this:
 const token = process.env.GITHUB_TOKEN;
 ```
 
+Go ahead and add the above line of code within **routes/index.js**:
+
+```js
+const request = require('request');
+// Add the following line of code
+const token = process.env.token;
+```
+
 ## Fetching data from GitHub's API
 
 When we submit the GitHub username in our app our goal is to display the user's:
@@ -310,7 +318,9 @@ First, let's define a variable to hold the _root endpoint_ in **routes/index.js*
 
 ```js
 const request = require('request');
-	
+
+const token = process.env.token;
+// Add the line below
 const rootURL = 'https://api.github.com/';
 ```
 
@@ -322,7 +332,7 @@ Now let's use the `request` module to send a GET request to the **user\_url** en
 router.get('/', function(req, res, next) {
   const username = req.query.username;
   request(
-    `${rootURL}users/${username}?access_token=${process.env.GITHUB_TOKEN}`,
+    `${rootURL}users/${username}?access_token=${token}`,
     function(err, response, body) {
       res.render('index', {userData: body});
     }
@@ -382,7 +392,7 @@ router.get('/', function(req, res, next) {
     url: `${rootURL}users/${username}`,
     headers: {
       'User-Agent': 'jim-clark',
-      Authorization: `token ${process.env.GITHUB_TOKEN}`
+      Authorization: `token ${token}`
     }
   };
   request(options, function(err, response, body) {
@@ -426,7 +436,7 @@ Update this piece of code in the route handler:
 ```js
 request(options, function(err, response, body) {
   const userData = JSON.parse(body);
- res.render('index', {userData});
+  res.render('index', {userData});
 });
 ```
 

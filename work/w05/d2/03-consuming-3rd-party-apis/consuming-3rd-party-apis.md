@@ -71,7 +71,7 @@ https://pokeapi.co/api/v2/pokemon/1
 
 When accessing APIs, there are a few different architectural approaches we can take:
 
-<img src="https://i.imgur.com/Tl7ucZG.png">
+<img src="https://i.imgur.com/Hflu0K0.png">
 
 - The top-approach is the recommended approach with traditional web apps that respond to client requests with a new HTML page.  Access tokens remain secure on the server.
 

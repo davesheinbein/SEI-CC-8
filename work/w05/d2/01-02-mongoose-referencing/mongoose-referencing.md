@@ -108,7 +108,11 @@ So, before a many-to-many relationship can be created between two documents (oft
 
 This requires that the app first provide the functionality to create the two resources independent of each other.
 
-**mongoose-movies** can already create _movies_, but now it needs the capability to create _performers_...
+Then, creating the association is a matter of adding the `ObjectId` to an array on the other side of the relationship.
+
+The array property can be on either side (even both, but that's not usually recommended).  Usually, the app's functionality reveals which side makes more sense.  For example, the viewing of a movie with its performers is slightly easier to code by putting the `cast` array on the `Movie` Model vs. a `movies` array on the `Performer` Model.
+
+> Note: When a relationship exists between the logged in user, for example:<br>`User ---< Post`, it's usually a better practice to add the property that holds the relationship to the other Model, **not** the User Model.
 
 ### ❓ Review Questions
 

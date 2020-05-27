@@ -12,6 +12,7 @@ function index(req, res) {
   Movie.find({}, function(err, movies) {
     res.render('movies/index', { title: 'All Movies', movies });
   });
+ 
 }
 
 function show(req, res) {

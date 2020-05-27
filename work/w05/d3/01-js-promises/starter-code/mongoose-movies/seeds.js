@@ -4,44 +4,49 @@
  const data = require('./data');
 
 
- // Movie.deleteMany({})
- // .then(function(results) {
- //   console.log(results);
- //   process.exit(); // what does this line do?
- 
- // when seeding first clear out everything
+// use promises to "seed" our database
+// which basically means put some starter data
+// in our database
 
- const p1 = Movie.deleteMany({});
- const p2 = Performer.deleteMany({});
-
-console.log("=============================")
-console.log(p1)
-
-console.log("=============================")
+// CLear out everything first
 
 
- Promise.all([p1, p2])
- .then(function(results) {
-   console.log(results); // an array with the promise results
+const p1 = Movie.deleteMany({});
+const p2 = Performer.deleteMany({});
 
-   return Performer.create(data.performers)
+// if we want promises to execute 
+// in parrell, 
+
+// the results are not dependant on each other
+Promise.all([p1, p2])
+ .then(function(results){
+     console.log(results);
+    const creatPerformerPromise = Performer.create(data.performers)
+    const createMoviePromise = Movie.create(data.movies) 
+
+     // officially cleared out our db
+     return Promise.all([creatPerformerPromise, createMoviePromise])
  })
- .then((performers) => {
- 	console.log(performers, ' this is performers')
-
- 	return Movie.create(data.movies)
+ .then(function(results){
+     console.log(results[0]);
+     console.log(results[1]);
  })
- .then((movies) => {
- 	console.log('movies', movies)
- })
- .then(function() {
-   process.exit();
- }).catch((err) =>{
- 	console.log(err)
+ .then(function(){
+     process.exit()
+ }).catch(err => {
+     console.log(err)
  })
 
-console.log("=============================")
-console.log(p1)
 
-console.log("=============================")
+Movie.deleteMany({}, (err, result) => {
+    console.log(result)
+    Performer.deleteMany({}, (err, res) => {
+        console.log(res)
+        Movie.create(data.movies, (err, movies)=> {
+            console.log(movies)
+            Performer.create(data.performers, (err, performers) => {
 
+            })
+        })
+    })
+})

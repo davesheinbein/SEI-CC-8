@@ -155,7 +155,7 @@
 - Assuming we are going to require the following controller within _routes/api.js_<br>
 
 	```js
-	var puppiesCtrl = require('../controllers/api/puppies');
+	const puppiesCtrl = require('../controllers/api/puppies');
 	```
 	
 	Let's create the routes for these actions:

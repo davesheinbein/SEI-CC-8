@@ -13,6 +13,12 @@ function index(req, res) {
     res.render('movies/index', { title: 'All Movies', movies });
   });
 }
+  // If the index above was written as a promise
+// Movie.find({})
+//   .then(function(movies))
+//     res.render('movies/index', { title: 'All Movies', movies 
+//   })
+// }
 
 function show(req, res) {
   Movie.findById(req.params.id)

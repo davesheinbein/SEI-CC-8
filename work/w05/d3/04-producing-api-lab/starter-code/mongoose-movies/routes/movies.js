@@ -7,4 +7,8 @@ router.get('/new', moviesCtrl.new);
 router.get('/:id', moviesCtrl.show);
 router.post('/', moviesCtrl.create);
 
+router.put('/:id', moviesCtrl.update); // New
+
+router.delete('/:id', moviesCtrl.deleteMovie) // connects to controller
+
 module.exports = router;

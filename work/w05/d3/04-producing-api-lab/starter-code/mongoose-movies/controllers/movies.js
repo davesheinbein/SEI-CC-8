@@ -5,22 +5,27 @@ module.exports = {
   index,
   show,
   new: newMovie,
-  create
+  create,
+  update,
+  deleteMovie
 };
 
 function index(req, res) {
-  Movie.find({}, function(err, movies) {
-    res.render('movies/index', { title: 'All Movies', movies });
+  Movie.findById(req.params.id) 
+  .populate('cast').exec(function(err, movie){
+    Movie.find({}, function(err, movies) {
+      res.render('movies/index', { title: 'All Movies', movies });
+    });
   });
 }
 
 function show(req, res) {
   Movie.findById(req.params.id)
   .populate('cast').exec(function(err, movie) {
-    // Performer.find({}).where('_id').nin(movie.cast)
+    Performer.find({}).where('_id').nin(movie.cast)
     Performer.find({_id: {$nin: movie.cast}})
     .exec(function(err, performers) {
-      console.log(performers);
+      // console.log(performers);
       res.render('movies/show', {
         title: 'Movie Detail', movie, performers
       });
@@ -44,4 +49,23 @@ function create(req, res) {
     // res.redirect('/movies');
     res.redirect(`/movies/${movie._id}`);
   });
+}
+
+function update(req, res){
+  Movie.findByIdAndUpdate(req.params.id, req.body, {new: true})
+  .then((updateMovie) => {
+      res.status(200).json({message: "Resource update", data: updateMovie})
+  }).catch((err) => {
+      res.status(404).json({message: "The resource was NOT successfully deleted"});
+  })
+}
+
+function deleteMovie(req, res){
+  console.log(req.params.id);
+  Movie.deleteOne({_id: req.params.id})
+  .then((result) => {
+      res.status(200).json({message: "The resource was successfully deleted"});
+  }).catch((err) => {
+      res.status(404).json({message: "The resource was NOT successfully deleted"});
+  })
 }

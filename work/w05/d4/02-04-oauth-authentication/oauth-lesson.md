@@ -59,7 +59,9 @@ _Authentication_ and _authorization_ are not the same thing...
 Consider applications where we have to sign up and log in using a username and a password...
 
 <details><summary>
+<p>
 **❓ What are the pitfalls of username/password authentication from a _user's_ perspective?**
+</p>
 </summary>
 
 - Creating multiple logins requires you to remember and manage all of those login credentials.
@@ -70,7 +72,9 @@ Consider applications where we have to sign up and log in using a username and a
 </details>
 
 <details><summary>
+<p>
 **❓ What would be the pitfalls from a _web site business's_ perspective?**
+</p>
 </summary>
 
 - Managing users' credentials requires carefully crafted security code written by highly-paid devs.

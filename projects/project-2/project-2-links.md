@@ -23,7 +23,7 @@
 | Jae | DEN | Sharecipe | [link](https://github.com/jsohnfile/sharecipe-app) | [link](https://trello.com/b/cQZP8oil/sharecipe-app) |  |
 | Joshua | DEN |  |  |  |  |
 | Kimberly | DEN |  |  |  |  |
-| Lauren | DEN |  |  |  |  |
+| Lauren | DEN | ThatGuy | [link](https://github.com/laurenmengert/ThatGuy) | [link](https://trello.com/b/fjAunqWW/thatguy) |  |
 | Robert | DEN | Gaming Scheduler | [link](https://github.com/rperillo1/Gaming-Scheduler) | [link](https://trello.com/b/ow339QBY/crud-project) |  |
 | Shawn | DEN | Code Challenge App | [link](https://github.com/sgluchacki/code-challenge-app) | [link](https://trello.com/b/uw6JlGMz/project-2) |  |
 | Travis | DEN | Outdoor Journal | [link](https://github.com/TCashion/outdoor-journal) | [link](https://trello.com/b/BK0hkWaY/outdoor-journal) |  |
@@ -37,6 +37,6 @@
 | Jonathan | LA |  |  |  |  |
 | Ryan | LA |  |  |  |  |
 | Sarah | LA |  |  |  |  |
-| Alexei | SD |  |  |  |  |
-| Maddy | SD |  |  |  |  |
+| Alexei | SD | Goal/Habit Tracker | [link](https://github.com/audarbe/goalio) | [link](https://trello.com/b/cyVMfQ3m/goalio-goal-habit-tracker) |  |
+| Maddy | SD | Taco Guide | [link](https://github.com/madeleinemarie/Taco-Inquirer) | [link](https://trello.com/b/KSeNKXCH/taco-guide) |  |
 

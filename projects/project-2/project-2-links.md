@@ -3,10 +3,10 @@
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Alfonso | ATX |  |  |  |  |
-| Brandon | ATX |  |  |  |  |
+| Brandon | ATX | Brandon's Blog | [link](https://github.com/BSacco0674/brandonsBlogUnitTwo) | [link](https://trello.com/b/Vu8fogDq/brandons-blog) |  |
 | Chris | ATX |  |  |  |  |
 | Gabriel | ATX |  |  |  |  |
-| Matthew | ATX |  |  |  |  |
+| Matthew | ATX |  |  | [link](https://trello.com/b/9T4xujUM/unit-2-project) |  |
 | Monica | ATX |  |  |  |  |
 | Parker | ATX |  |  |  |  |
 | Samuel | ATX |  |  |  |  |
@@ -35,7 +35,7 @@
 | David | LA | ? | [link](https://github.com/davesheinbein/full-stack-web-app) | [link](https://trello.com/b/Mq3Qp8RD) |  |
 | Jason | LA | ktown | [link](https://github.com/jhur91/project2-ktown) | [link](https://trello.com/b/UkllQqVA/project-2-express-app) |  |
 | Jonathan | LA | Dark Game Secrets | [linl](https://github.com/Thornathan/Dark-Game-Secrets) | [link](https://trello.com/b/gHvHMfhi/dark-game-secrets-project) |  |
-| Ryan | LA | OSBb | [link](https://github.com/NaryxHaxns/OSDb-Project-2) | [link](https://trello.com/b/MG7yqalH/osdb-project-2) |  |
+| Ryan | LA | OSDb | [link](https://github.com/NaryxHaxns/OSDb-Project-2) | [link](https://trello.com/b/MG7yqalH/osdb-project-2) |  |
 | Sarah | LA | Favorite Dance App | [link](https://github.com/slrosky/favorite-dance-app) | [link](https://trello.com/b/e1IPO4E0/sei-project-2-favorite-dance-app) |  |
 | Alexei | SD | Goal/Habit Tracker | [link](https://github.com/audarbe/goalio) | [link](https://trello.com/b/cyVMfQ3m/goalio-goal-habit-tracker) |  |
 | Maddy | SD | Taco Guide | [link](https://github.com/madeleinemarie/Taco-Inquirer) | [link](https://trello.com/b/KSeNKXCH/taco-guide) |  |

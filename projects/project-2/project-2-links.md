@@ -13,7 +13,7 @@
 | Chinwe | DAL |  |  |  |  |
 | Jameson | DAL |  |  |  |  |
 | Kathleen | DAL | National Parks Service Visit Tracker | [link](https://github.com/kstick9210/nps-visits) | [link](https://trello.com/b/J6GvXYVN/project-2-nps-visits-tracker) |  |
-| Samuel | DAL |  |  |  |  |
+| Samuel | DAL | UpPost | [link](https://github.com/salmon117/uppost) | [link](https://trello.com/b/7DLnOCSX/uppost) |  |
 | April | DEN | Meal Planner |  [link](https://github.com/aprilkrgonzales/meal-planner) | [link](https://trello.com/b/qS7lSOo4/project-2) |  |
 | Chase | DEN | Recipe App | [link](https://github.com/chasewri/per_se) | [link](https://trello.com/b/rq88HumJ/per-se) |  |
 | Christopher | DEN | Vinal Bin | [link](https://github.com/Chris-Violante/Vinyl-Bin) | [link](https://trello.com/b/NxDxvpKt/project-2-vinyl-bin) |  |

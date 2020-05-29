@@ -401,9 +401,6 @@ input:invalid {
 
 ---
 
-## Extra Investigation
-
-
 #### JavaScript Methods Using Regular Expressions
 <br>
 
@@ -443,6 +440,8 @@ input:invalid {
 </table>
 
 ---
+
+## Extra Investigation
 
 ### A Great Site for Regex's
 <br>

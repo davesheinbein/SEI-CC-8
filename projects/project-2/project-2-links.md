@@ -21,7 +21,7 @@
 | Hannah | DEN |  |  |  |  |
 | Jackie | DEN |  |  |  |  |
 | Jae | DEN | Sharecipe | [link](https://github.com/jsohnfile/sharecipe-app) | [link](https://trello.com/b/cQZP8oil/sharecipe-app) |  |
-| Joshua | DEN |  |  |  |  |
+| Joshua | DEN | Founding Fathers | [link](https://github.com/jfernnn/FoundingFathers) | [link](https://trello.com/b/6vaVLPbT/project-2) |  |
 | Kimberly | DEN |  |  |  |  |
 | Lauren | DEN | ThatGuy | [link](https://github.com/laurenmengert/ThatGuy) | [link](https://trello.com/b/fjAunqWW/thatguy) |  |
 | Robert | DEN | Gaming Scheduler | [link](https://github.com/rperillo1/Gaming-Scheduler) | [link](https://trello.com/b/ow339QBY/crud-project) |  |
@@ -34,7 +34,7 @@
 | Charlotte | LA |  |  |  |  |
 | David | LA |  | [link](https://github.com/davesheinbein/full-stack-web-app) | [link](https://trello.com/b/Mq3Qp8RD) |  |
 | Jason | LA |  |  |  |  |
-| Jonathan | LA |  |  |  |  |
+| Jonathan | LA | Dark Game Secrets | [linl](https://github.com/Thornathan/Dark-Game-Secrets) | [link](https://trello.com/b/gHvHMfhi/dark-game-secrets-project) |  |
 | Ryan | LA |  |  |  |  |
 | Sarah | LA |  |  |  |  |
 | Alexei | SD | Goal/Habit Tracker | [link](https://github.com/audarbe/goalio) | [link](https://trello.com/b/cyVMfQ3m/goalio-goal-habit-tracker) |  |

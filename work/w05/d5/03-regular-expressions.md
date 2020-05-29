@@ -352,14 +352,14 @@ input:invalid {
 - The literal syntax uses forward slashes to delimit the regex:
 
 	```javascript
-	var re = /cats?/;
+	const re = /cats?/;
 	```
 
 - The literal syntax is the best option if you know the pattern you want to use in advance.  However, using the constructor approach allows you to pass in a string variable to create a regex dynamically:
 
 	```javascript
-	var s = "cats?";
-	var re = new RegExp(s);
+	const s = "cats?";
+	const re = new RegExp(s);
 	```
 
 ---
@@ -400,6 +400,9 @@ input:invalid {
 - [These docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) discuss working with regular expressions in JavaScript, including the methods on _Strings_ as well as the _test()_ and _exec()_ methods of the _regular expression_ object.
 
 ---
+
+## Extra Investigation
+
 
 #### JavaScript Methods Using Regular Expressions
 <br>

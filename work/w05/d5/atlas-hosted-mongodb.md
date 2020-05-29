@@ -22,7 +22,7 @@ First you will need to signup for a free account [here](https://cloud.mongodb.co
 
 ## Create a New Cluster
 
-Once logged in, Atlas will request that you create a _cluster_.
+Once logged in, Atlas will request that you create a _cluster_. (click on build a New cluster, if you don't see create)
 
 Atlas allows one free cluster per account.
 

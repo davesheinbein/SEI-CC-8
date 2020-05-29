@@ -352,14 +352,14 @@ input:invalid {
 - The literal syntax uses forward slashes to delimit the regex:
 
 	```javascript
-	var re = /cats?/;
+	const re = /cats?/;
 	```
 
 - The literal syntax is the best option if you know the pattern you want to use in advance.  However, using the constructor approach allows you to pass in a string variable to create a regex dynamically:
 
 	```javascript
-	var s = "cats?";
-	var re = new RegExp(s);
+	const s = "cats?";
+	const re = new RegExp(s);
 	```
 
 ---
@@ -440,6 +440,8 @@ input:invalid {
 </table>
 
 ---
+
+## Extra Investigation
 
 ### A Great Site for Regex's
 <br>

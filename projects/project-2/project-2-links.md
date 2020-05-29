@@ -12,11 +12,11 @@
 | Samuel | ATX |  |  |  |  |
 | Chinwe | DAL |  |  |  |  |
 | Jameson | DAL |  |  |  |  |
-| Kathleen | DAL |  |  |  |  |
+| Kathleen | DAL | National Parks Service Visit Tracker | [link](https://github.com/kstick9210/nps-visits) | [link](https://trello.com/b/J6GvXYVN/project-2-nps-visits-tracker) |  |
 | Samuel | DAL |  |  |  |  |
-| April | DEN |  |  |  |  |
-| Chase | DEN |  | [link](https://github.com/chasewri/per_se) | [link](https://trello.com/b/rq88HumJ/per-se) |  |
-| Christopher | DEN |  | [link](https://github.com/Chris-Violante/Vinyl-Bin) | [link](https://trello.com/b/NxDxvpKt/project-2-vinyl-bin) |  |
+| April | DEN | Meal Planner |  | [link](https://github.com/aprilkrgonzales/meal-planner) |  |
+| Chase | DEN | Recipe App | [link](https://github.com/chasewri/per_se) | [link](https://trello.com/b/rq88HumJ/per-se) |  |
+| Christopher | DEN | Vinal Bin | [link](https://github.com/Chris-Violante/Vinyl-Bin) | [link](https://trello.com/b/NxDxvpKt/project-2-vinyl-bin) |  |
 | Colin | DEN |  |  |  |  |
 | Hannah | DEN |  |  |  |  |
 | Jackie | DEN |  |  |  |  |
@@ -24,8 +24,8 @@
 | Joshua | DEN |  |  |  |  |
 | Kimberly | DEN |  |  |  |  |
 | Lauren | DEN |  |  |  |  |
-| Robert | DEN |  | [link](https://github.com/rperillo1/Gaming-Scheduler) | [link](https://trello.com/b/ow339QBY/crud-project) |  |
-| Shawn | DEN |  | [link](https://github.com/sgluchacki/code-challenge-app) | [link](https://trello.com/b/uw6JlGMz/project-2) |  |
+| Robert | DEN | Gaming Scheduler | [link](https://github.com/rperillo1/Gaming-Scheduler) | [link](https://trello.com/b/ow339QBY/crud-project) |  |
+| Shawn | DEN | Code Challenge App | [link](https://github.com/sgluchacki/code-challenge-app) | [link](https://trello.com/b/uw6JlGMz/project-2) |  |
 | Travis | DEN |  |  |  |  |
 | Tyler | DEN |  |  |  |  |
 | Vanessa | DEN |  |  |  |  |

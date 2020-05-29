@@ -18,7 +18,7 @@
 | Chase | DEN | Recipe App | [link](https://github.com/chasewri/per_se) | [link](https://trello.com/b/rq88HumJ/per-se) |  |
 | Christopher | DEN | Vinal Bin | [link](https://github.com/Chris-Violante/Vinyl-Bin) | [link](https://trello.com/b/NxDxvpKt/project-2-vinyl-bin) |  |
 | Colin | DEN | River Rats | [link](https://github.com/colin96man/River-Rats-app) | [link](https://trello.com/b/KLayUIBi/sei-project-2) |  |
-| Hannah | DEN |  |  |  |  |
+| Hannah | DEN | Day Planner | [link](https://github.com/hannahbrantley/day-planner) | [link](https://trello.com/b/okcua3tL/day-planner-application) |  |
 | Jackie | DEN | Simple Answer | [link](https://github.com/JackieZoloo/simple-answer) | [link](https://trello.com/b/3fQ3Yygp/simple-answer) |  |
 | Jae | DEN | Sharecipe | [link](https://github.com/jsohnfile/sharecipe-app) | [link](https://trello.com/b/cQZP8oil/sharecipe-app) |  |
 | Joshua | DEN | Founding Fathers | [link](https://github.com/jfernnn/FoundingFathers) | [link](https://trello.com/b/6vaVLPbT/project-2) |  |

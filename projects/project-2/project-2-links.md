@@ -20,19 +20,19 @@
 | Colin | DEN |  |  |  |  |
 | Hannah | DEN |  |  |  |  |
 | Jackie | DEN |  |  |  |  |
-| Jae | DEN |  |  |  |  |
+| Jae | DEN | Sharecipe | [link](https://github.com/jsohnfile/sharecipe-app) | [link](https://trello.com/b/cQZP8oil/sharecipe-app) |  |
 | Joshua | DEN |  |  |  |  |
 | Kimberly | DEN |  |  |  |  |
 | Lauren | DEN |  |  |  |  |
 | Robert | DEN | Gaming Scheduler | [link](https://github.com/rperillo1/Gaming-Scheduler) | [link](https://trello.com/b/ow339QBY/crud-project) |  |
 | Shawn | DEN | Code Challenge App | [link](https://github.com/sgluchacki/code-challenge-app) | [link](https://trello.com/b/uw6JlGMz/project-2) |  |
-| Travis | DEN |  |  |  |  |
+| Travis | DEN | Outdoor Journal | [link](https://github.com/TCashion/outdoor-journal) | [link](https://trello.com/b/BK0hkWaY/outdoor-journal) |  |
 | Tyler | DEN |  |  |  |  |
 | Vanessa | DEN |  |  |  |  |
 | Aaron | LA |  |  |  |  |
 | Brian | LA |  |  |  |  |
 | Charlotte | LA |  |  |  |  |
-| David | LA |  |  |  |  |
+| David | LA |  | [link](https://github.com/davesheinbein/full-stack-web-app) | [link](https://trello.com/b/Mq3Qp8RD) |  |
 | Jason | LA |  |  |  |  |
 | Jonathan | LA |  |  |  |  |
 | Ryan | LA |  |  |  |  |

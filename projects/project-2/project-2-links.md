@@ -9,8 +9,8 @@
 | Matthew | ATX |  |  | [link](https://trello.com/b/9T4xujUM/unit-2-project) |  |
 | Monica | ATX |  |  |  |  |
 | Parker | ATX |  |  |  |  |
-| Samuel | ATX |  |  |  |  |
-| Chinwe | DAL |  |  |  |  |
+| Samuel | ATX | Caddie | [link](https://github.com/samueltrahan/Caddie.) | [link](https://trello.com/b/DVxH1eaR/caddie) |  |
+| Chinwe | DAL | Jokebook |  | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) |  |
 | Jameson | DAL |  |  |  |  |
 | Kathleen | DAL | National Parks Service Visit Tracker | [link](https://github.com/kstick9210/nps-visits) | [link](https://trello.com/b/J6GvXYVN/project-2-nps-visits-tracker) |  |
 | Samuel | DAL | UpPost | [link](https://github.com/salmon117/uppost) | [link](https://trello.com/b/7DLnOCSX/uppost) |  |

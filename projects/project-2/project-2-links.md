@@ -31,7 +31,7 @@
 | Vanessa | DEN |  |  |  |  |
 | Aaron | LA |  |  |  |  |
 | Brian | LA |  |  |  |  |
-| Charlotte | LA |  |  |  |  |
+| Charlotte | LA | Custom Cakes | [link](https://github.com/charlottepak/customcakes) | [link](https://trello.com/b/wOhz243y/welcome-to-trello) |  |
 | David | LA | ? | [link](https://github.com/davesheinbein/full-stack-web-app) | [link](https://trello.com/b/Mq3Qp8RD) |  |
 | Jason | LA |  |  |  |  |
 | Jonathan | LA | Dark Game Secrets | [linl](https://github.com/Thornathan/Dark-Game-Secrets) | [link](https://trello.com/b/gHvHMfhi/dark-game-secrets-project) |  |

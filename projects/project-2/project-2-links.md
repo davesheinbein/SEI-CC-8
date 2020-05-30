@@ -2,7 +2,7 @@
 
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Alfonso | ATX |  |  |  |  |
+| Alfonso | ATX | Dog Walking | [link](https://github.com/acostade29/Dog-Walking-List-Project-) | [link](https://trello.com/b/Ly4uhb83/dog-walking) |  |
 | Brandon | ATX | Brandon's Blog | [link](https://github.com/BSacco0674/brandonsBlogUnitTwo) | [link](https://trello.com/b/Vu8fogDq/brandons-blog) |  |
 | Chris | ATX |  |  |  |  |
 | Gabriel | ATX | My Fitness Journey | [link](https://github.com/GabiVarella/my-fitness-journey) | [link](https://trello.com/b/7DkH8fWu/my-fitness-journey-project) |  |
@@ -10,7 +10,7 @@
 | Monica | ATX |  |  |  |  |
 | Parker | ATX |  |  |  |  |
 | Samuel | ATX | Caddie | [link](https://github.com/samueltrahan/Caddie.) | [link](https://trello.com/b/DVxH1eaR/caddie) |  |
-| Chinwe | DAL | Jokebook |  | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) |  |
+| Chinwe | DAL | Jokebook | [link](https://github.com/chinwe2020/jokebook) | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) |  |
 | Jameson | DAL | Mongoose Choices | [link](https://github.com/Jaice561/mongoose-choices) | [link](https://trello.com/b/gDePPEjE/welcome-to-trello#) |  |
 | Kathleen | DAL | National Parks Service Visit Tracker | [link](https://github.com/kstick9210/nps-visits) | [link](https://trello.com/b/J6GvXYVN/project-2-nps-visits-tracker) |  |
 | Samuel | DAL | UpPost | [link](https://github.com/salmon117/uppost) | [link](https://trello.com/b/7DLnOCSX/uppost) |  |

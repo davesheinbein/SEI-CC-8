@@ -5,13 +5,13 @@
 | Alfonso | ATX |  |  |  |  |
 | Brandon | ATX | Brandon's Blog | [link](https://github.com/BSacco0674/brandonsBlogUnitTwo) | [link](https://trello.com/b/Vu8fogDq/brandons-blog) |  |
 | Chris | ATX |  |  |  |  |
-| Gabriel | ATX |  |  |  |  |
+| Gabriel | ATX | My Fitness Journey | [link](https://github.com/GabiVarella/my-fitness-journey) | [link](https://trello.com/b/7DkH8fWu/my-fitness-journey-project) |  |
 | Matthew | ATX | GA Record Vault | [link](https://github.com/MJMoquin/GA-Record-Vault) | [link](https://trello.com/b/9T4xujUM/unit-2-project) |  |
 | Monica | ATX |  |  |  |  |
 | Parker | ATX |  |  |  |  |
 | Samuel | ATX | Caddie | [link](https://github.com/samueltrahan/Caddie.) | [link](https://trello.com/b/DVxH1eaR/caddie) |  |
 | Chinwe | DAL | Jokebook |  | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) |  |
-| Jameson | DAL |  |  |  |  |
+| Jameson | DAL | Mongoose Choices | [link](https://github.com/Jaice561/mongoose-choices) | [link](https://trello.com/b/gDePPEjE/welcome-to-trello#) |  |
 | Kathleen | DAL | National Parks Service Visit Tracker | [link](https://github.com/kstick9210/nps-visits) | [link](https://trello.com/b/J6GvXYVN/project-2-nps-visits-tracker) |  |
 | Samuel | DAL | UpPost | [link](https://github.com/salmon117/uppost) | [link](https://trello.com/b/7DLnOCSX/uppost) |  |
 | April | DEN | Meal Planner |  [link](https://github.com/aprilkrgonzales/meal-planner) | [link](https://trello.com/b/qS7lSOo4/project-2) |  |
@@ -28,7 +28,7 @@
 | Shawn | DEN | Code Challenge App | [link](https://github.com/sgluchacki/code-challenge-app) | [link](https://trello.com/b/uw6JlGMz/project-2) |  |
 | Travis | DEN | Outdoor Journal | [link](https://github.com/TCashion/outdoor-journal) | [link](https://trello.com/b/BK0hkWaY/outdoor-journal) |  |
 | Tyler | DEN | What To Pack | [link](https://github.com/tawlur/what-to-pack) | [link](https://trello.com/b/WAAnKMFQ/what-to-pack) |  |
-| Vanessa | DEN |  |  |  |  |
+| Vanessa | DEN | Mood Tracker | [link](https://github.com/vanessalarsen33/mood-tracker) | [link](https://trello.com/b/jabDID3l/mood-app) |  |
 | Aaron | LA |  |  |  |  |
 | Brian | LA | eatit | [link](https://github.com/irritas/eatit) | [link](https://trello.com/b/Lf2bxC0W/eatit) |  |
 | Charlotte | LA | Custom Cakes | [link](https://github.com/charlottepak/customcakes) | [link](https://trello.com/b/wOhz243y/welcome-to-trello) |  |

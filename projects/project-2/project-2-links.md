@@ -29,7 +29,7 @@
 | Travis | DEN | Outdoor Journal | [link](https://github.com/TCashion/outdoor-journal) | [link](https://trello.com/b/BK0hkWaY/outdoor-journal) |  |
 | Tyler | DEN | What To Pack | [link](https://github.com/tawlur/what-to-pack) | [link](https://trello.com/b/WAAnKMFQ/what-to-pack) |  |
 | Vanessa | DEN | Mood Tracker | [link](https://github.com/vanessalarsen33/mood-tracker) | [link](https://trello.com/b/jabDID3l/mood-app) |  |
-| Aaron | LA |  |  |  |  |
+| Aaron | LA | Tens | [link](https://github.com/asmith-asmith/top-ten) | [link](https://trello.com/b/eo5MBieN/tens) |  |
 | Brian | LA | eatit | [link](https://github.com/irritas/eatit) | [link](https://trello.com/b/Lf2bxC0W/eatit) |  |
 | Charlotte | LA | Custom Cakes | [link](https://github.com/charlottepak/customcakes) | [link](https://trello.com/b/wOhz243y/welcome-to-trello) |  |
 | David | LA | ? | [link](https://github.com/davesheinbein/full-stack-web-app) | [link](https://trello.com/b/Mq3Qp8RD) |  |

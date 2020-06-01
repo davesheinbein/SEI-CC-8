@@ -7,7 +7,7 @@
 | Chris | ATX |  |  |  |  |
 | Gabriel | ATX | My Fitness Journey | [link](https://github.com/GabiVarella/my-fitness-journey) | [link](https://trello.com/b/7DkH8fWu/my-fitness-journey-project) |  |
 | Matthew | ATX | GA Record Vault | [link](https://github.com/MJMoquin/GA-Record-Vault) | [link](https://trello.com/b/9T4xujUM/unit-2-project) |  |
-| Monica | ATX |  |  |  |  |
+| Monica | ATX | Camping App | [link](https://github.com/monicamartinez64/camping-app) | [link](https://trello.com/b/lR4IBk44/unit-2-project) |  |
 | Parker | ATX |  |  |  |  |
 | Samuel | ATX | Caddie | [link](https://github.com/samueltrahan/Caddie.) | [link](https://trello.com/b/DVxH1eaR/caddie) |  |
 | Chinwe | DAL | Jokebook | [link](https://github.com/chinwe2020/jokebook) | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) |  |

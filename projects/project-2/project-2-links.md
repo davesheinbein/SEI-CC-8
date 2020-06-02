@@ -34,7 +34,7 @@
 | Charlotte | LA | Custom Cakes | [link](https://github.com/charlottepak/customcakes) | [link](https://trello.com/b/wOhz243y/welcome-to-trello) |  |
 | David | LA | ? | [link](https://github.com/davesheinbein/full-stack-web-app) | [link](https://trello.com/b/Mq3Qp8RD) |  |
 | Jason | LA | ktown | [link](https://github.com/jhur91/project2-ktown) | [link](https://trello.com/b/UkllQqVA/project-2-express-app) |  |
-| Jonathan | LA | Dark Game Secrets | [linl](https://github.com/Thornathan/Dark-Game-Secrets) | [link](https://trello.com/b/gHvHMfhi/dark-game-secrets-project) |  |
+| Jonathan | LA | Dark Game Secrets | [link](https://github.com/Thornathan/Dark-Game-Secrets) | [link](https://trello.com/b/gHvHMfhi/dark-game-secrets-project) |  |
 | Ryan | LA | OSDb | [link](https://github.com/NaryxHaxns/OSDb-Project-2) | [link](https://trello.com/b/MG7yqalH/osdb-project-2) |  |
 | Sarah | LA | Favorite Dance App | [link](https://github.com/slrosky/favorite-dance-app) | [link](https://trello.com/b/e1IPO4E0/sei-project-2-favorite-dance-app) |  |
 | Alexei | SD | Goal/Habit Tracker | [link](https://github.com/audarbe/goalio) | [link](https://trello.com/b/cyVMfQ3m/goalio-goal-habit-tracker) |  |

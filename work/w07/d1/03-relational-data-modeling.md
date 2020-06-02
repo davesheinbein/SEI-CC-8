@@ -103,7 +103,7 @@
 
 <details>
 <summary>
-**Data Entities Galore!**
+Data Entities Galore!
 </summary>
 <img src="https://i.imgur.com/4iq2IOu.png" style="height: 600px">
 </details>

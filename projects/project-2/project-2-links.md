@@ -15,7 +15,7 @@
 | Kathleen | DAL | National Parks Service Visit Tracker | [link](https://github.com/kstick9210/nps-visits) | [link](https://trello.com/b/J6GvXYVN/project-2-nps-visits-tracker) | [link](https://nps-visits.herokuapp.com/) |
 | Samuel | DAL | UpPost | [link](https://github.com/salmon117/uppost) | [link](https://trello.com/b/7DLnOCSX/uppost) | [link](https://uppost.herokuapp.com/) |
 | April | DEN | Meal Planner |  [link](https://github.com/aprilkrgonzales/meal-planner) | [link](https://trello.com/b/qS7lSOo4/project-2) | [link](https://grocerylist-mealplanner.herokuapp.com/) |
-| Chase | DEN | Recipe App | [link](https://github.com/chasewri/per_se) | [link](https://trello.com/b/rq88HumJ/per-se) |  |
+| Chase | DEN | Recipe App | [link](https://github.com/chasewri/per_se) | [link](https://trello.com/b/rq88HumJ/per-se) | [link](https://per-se-app.herokuapp.com/) |
 | Christopher | DEN | Vinal Bin | [link](https://github.com/Chris-Violante/Vinyl-Bin) | [link](https://trello.com/b/NxDxvpKt/project-2-vinyl-bin) | [link](https://therecordbin.herokuapp.com/) |
 | Colin | DEN | River Rats | [link](https://github.com/colin96man/River-Rats-app) | [link](https://trello.com/b/KLayUIBi/sei-project-2) | [link](https://raft-rats.herokuapp.com/trips) |
 | Hannah | DEN | Day Planner | [link](https://github.com/hannahbrantley/day-planner) | [link](https://trello.com/b/okcua3tL/day-planner-application) | [link](https://day-planner-sb.herokuapp.com/today) |

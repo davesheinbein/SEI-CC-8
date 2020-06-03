@@ -34,9 +34,9 @@
 | Charlotte | LA | Custom Cakes | [link](https://github.com/charlottepak/customcakes) | [link](https://trello.com/b/wOhz243y/welcome-to-trello) | [link](http://custom-cakes.herokuapp.com/) |
 | David | LA | Inspirations | [link](https://github.com/davesheinbein/full-stack-web-app) | [link](https://trello.com/b/Mq3Qp8RD) | [link](https://inspirations-website.herokuapp.com/) |
 | Jason | LA | ktown | [link](https://github.com/jhur91/project2-ktown) | [link](https://trello.com/b/UkllQqVA/project-2-express-app) | [link](https://project2-ktown.herokuapp.com/) |
-| Jonathan | LA | Dark Game Secrets | [link](https://github.com/Thornathan/Dark-Game-Secrets) | [link](https://trello.com/b/gHvHMfhi/dark-game-secrets-project) |  |
+| Jonathan | LA | Dark Game Secrets | [link](https://github.com/Thornathan/Dark-Game-Secrets) | [link](https://trello.com/b/gHvHMfhi/dark-game-secrets-project) | [link](https://dark-game-secrets.herokuapp.com/) |
 | Ryan | LA | OSDb | [link](https://github.com/NaryxHaxns/OSDb-Project-2) | [link](https://trello.com/b/MG7yqalH/osdb-project-2) | [link](https://osdb-online-stage-database.herokuapp.com/) |
-| Sarah | LA | Favorite Dance App | [link](https://github.com/slrosky/favorite-dance-app) | [link](https://trello.com/b/e1IPO4E0/sei-project-2-favorite-dance-app) |  |
+| Sarah | LA | Favorite Dance App | [link](https://github.com/slrosky/favorite-dance-app) | [link](https://trello.com/b/e1IPO4E0/sei-project-2-favorite-dance-app) | [link](https://favorite-dance-app.herokuapp.com/) |
 | Alexei | SD | Goal/Habit Tracker | [link](https://github.com/audarbe/goalio) | [link](https://trello.com/b/cyVMfQ3m/goalio-goal-habit-tracker) | [link](https://goal-io.herokuapp.com/) |
 | Maddy | SD | Taco Guide | [link](https://github.com/madeleinemarie/Taco-Inquirer) | [link](https://trello.com/b/KSeNKXCH/taco-guide) | [link](https://taco-inquirer.herokuapp.com/restaurants) |
 

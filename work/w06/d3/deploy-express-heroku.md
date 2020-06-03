@@ -57,6 +57,10 @@ Once the Heroku CLI is installed, type `heroku login` anywhere in terminal and f
 
 ## Deploy the App!
 
+#### IMPORTANT
+
+> If you haven't already done so, please ensure that you are in your project folder from this point forward.
+
 ### Create the App in your Heroku Dashboard
 
 Your [Heroku Dashboard](https://dashboard.heroku.com/apps) lists all of your apps that have been deployed to Heroku.

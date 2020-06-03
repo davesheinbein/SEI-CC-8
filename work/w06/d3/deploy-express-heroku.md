@@ -151,23 +151,25 @@ For deployments using OAuth, be sure to use your Heroku app's hostname, **not** 
 $ heroku config:set GOOGLE_CALLBACK=https://sei-students.herokuapp.com/oauth2callback
 ```
 
-**Also, there are two additions that must be made** in the [Google Developer Console](https://console.developers.google.com) for the project.
+### Update the App's Google OAuth Registration
 
-Click the project's `Credentials` menu choice on the left, then click the name of the project to edit it's registration:
+As discussed in the OAuth lesson, the time would come after deployment that we would need to update the app's **Authorized redirect URIs**  in the [Google Developer Console](https://console.developers.google.com) for the project.
 
-<img src="https://i.imgur.com/gkZnGRK.png"> 
+Ensure that the correct project is selected in the dropdown:
 
-Then click **OAuth consent settings**:
+<img src="https://i.imgur.com/M1pB6JX.png">
 
-<img src="https://i.imgur.com/vSXoj3U.png">
+Click the project's **Credentials** menu choice on the left, then click the name listed in the **OAuth 2.o Client IDs**:
 
-Scroll down and enter the hostname of your deployed app in the **Authorized domains** input, press [enter], then click the **Save** button: 
+<img src="https://i.imgur.com/dp91TAD.png"> 
 
-<img src="https://i.imgur.com/cIooadC.png">
+Now click the **+ ADD URI** button that's below **Authorized redirect URIs**:
 
-Return to the previous screen and add the **Authorized redirect URI** for the Heroku deployment and click the **Save** button:
+<img src="https://i.imgur.com/FGApdkD.png">
 
-<img src="https://i.imgur.com/iQ4vxVb.png">
+Finally, enter the exact URI that you assigned to the GOOGLE_CALLBACK environment variable and click the **SAVE** button:
+
+<img src="https://i.imgur.com/d2h3Cby.png">
 
 ### Browse to the App
 
@@ -187,6 +189,12 @@ Deployment messages, error messages, as well as the output you typically see in 
 
 ```
 $ heroku logs
+```
+
+Since the proper setting of environment variables is a common source of problems, use the following command to log out the list of variables set on Heroku:
+
+```
+$ heroku config
 ```
   
 

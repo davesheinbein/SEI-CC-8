@@ -24,7 +24,7 @@
 | Joshua | DEN | Founding Fathers | [link](https://github.com/jfernnn/FoundingFathers) | [link](https://trello.com/b/6vaVLPbT/project-2) | [link](https://founding-fathers.herokuapp.com/documents) |
 | Kimberly | DEN | Cookie Compiler | [link](https://github.com/kimberlyalord/cookie-compiler-app) | [link](https://trello.com/b/ioUAzj3u/cookie-compiler-recipe-app) | [link](https://cookiecompiler.herokuapp.com/) |
 | Lauren | DEN | ThatGuy | [link](https://github.com/laurenmengert/ThatGuy) | [link](https://trello.com/b/fjAunqWW/thatguy) | [link](https://that-guy.herokuapp.com/#) |
-| Robert | DEN | Gaming Scheduler | [link](https://github.com/rperillo1/Gaming-Scheduler) | [link](https://trello.com/b/ow339QBY/crud-project) |  |
+| Robert | DEN | Gaming Scheduler | [link](https://github.com/rperillo1/Gaming-Scheduler) | [link](https://trello.com/b/ow339QBY/crud-project) | [link](https://game-time-scheduler.herokuapp.com/home) |
 | Shawn | DEN | Code Challenge App | [link](https://github.com/sgluchacki/code-challenge-app) | [link](https://trello.com/b/uw6JlGMz/project-2) | [link](https://unstuck-code-challenges.herokuapp.com/) |
 | Travis | DEN | Outdoor Journal | [link](https://github.com/TCashion/outdoor-journal) | [link](https://trello.com/b/BK0hkWaY/outdoor-journal) | [link](https://outdoor-journal.herokuapp.com/users) |
 | Tyler | DEN | What To Pack | [link](https://github.com/tawlur/what-to-pack) | [link](https://trello.com/b/WAAnKMFQ/what-to-pack) | [link](https://what-to-pack.herokuapp.com/) |

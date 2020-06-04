@@ -3,16 +3,23 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+<<<<<<< HEAD
 require('./config/database')
+=======
+require('./config/database');
+>>>>>>> 5f2edb806a256b34576dab788496bce58785bca4
 var indexRouter = require('./routes/index');
 var puppiesRouter = require('./routes/api');
 
 var app = express();
 
 
+<<<<<<< HEAD
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
+=======
+>>>>>>> 5f2edb806a256b34576dab788496bce58785bca4
 
 app.use(logger('dev'));
 app.use(express.json());

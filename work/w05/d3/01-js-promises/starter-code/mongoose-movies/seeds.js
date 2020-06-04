@@ -9,10 +9,18 @@
 //  3. Model methods, (.then)
 //  4 .request module anytype of api call (api calls) (.then)
 
+<<<<<<< HEAD
     // use promises to "seed" our database
     // basically means put some started data in our database
 
     // Promises are another way of writing callback functions
+=======
+// use promises to "seed" our database
+// which basically means put some starter data
+// in our database
+
+// CLear out everything first
+>>>>>>> 5f2edb806a256b34576dab788496bce58785bca4
 
     // Using promise.all instead
 // const p1 = Movie.deleteMany({});
@@ -109,3 +117,8 @@ Promise.all([p1, p2]) //clears both Movies and Performers DB
   
   
 
+const p1 = Movie.deleteMany({});
+const p2 = Performer.deleteMany({});
+
+// if we want promises to execute
+// in parrell,

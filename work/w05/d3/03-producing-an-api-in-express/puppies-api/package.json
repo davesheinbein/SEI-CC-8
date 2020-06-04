@@ -8,9 +8,15 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
+<<<<<<< HEAD
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
+=======
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+>>>>>>> 5f2edb806a256b34576dab788496bce58785bca4
     "mongoose": "^5.9.16",
     "morgan": "~1.9.1"
   }

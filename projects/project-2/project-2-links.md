@@ -7,7 +7,7 @@
 | Chris | ATX | Pokemon Team Builder | [link](https://github.com/ChrisChroma/pokemon-team-builder) | [link](https://trello.com/b/Zv4Utqre/project-2-pokemon-team-builder) | [link](https://intense-beyond-77900.herokuapp.com/) |
 | Gabriel | ATX | My Fitness Journey | [link](https://github.com/GabiVarella/my-fitness-journey) | [link](https://trello.com/b/7DkH8fWu/my-fitness-journey-project) | [link](https://my-fitness-journey.herokuapp.com/) |
 | Matthew | ATX | GA Record Vault | [link](https://github.com/MJMoquin/GA-Record-Vault) | [link](https://trello.com/b/9T4xujUM/unit-2-project) | [link](https://mjm-record-vault.herokuapp.com/) |
-| Monica | ATX | Camping App | [link](https://github.com/monicamartinez64/camping-app) | [link](https://trello.com/b/lR4IBk44/unit-2-project) |  |
+| Monica | ATX | Camping App | [link](https://github.com/monicamartinez64/camping-app) | [link](https://trello.com/b/lR4IBk44/unit-2-project) | [link](https://camping-tracking-app.herokuapp.com/) |
 | Parker | ATX | Wishlist | [link](https://github.com/ParkerOHeeron/Wishlist) | [link](https://trello.com/b/ROQk8gMX/computer-parts-wish-list) | [link](https://computer-build-wishlist.herokuapp.com/user) |
 | Samuel | ATX | Caddie | [link](https://github.com/samueltrahan/Caddie.) | [link](https://trello.com/b/DVxH1eaR/caddie) | [link](https://caddie-golf.herokuapp.com/users) |
 | Chinwe | DAL | Jokebook | [link](https://github.com/chinwe2020/jokebook) | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) |  |

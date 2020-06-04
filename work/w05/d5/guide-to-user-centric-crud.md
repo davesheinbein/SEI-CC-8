@@ -244,3 +244,20 @@ function delete(req, res) {
   });
 }
 ```
+
+## Avoiding Having to Pass `user` Every `render`
+
+How about a small custom middleware that relieves us from having to pass `user: req.user` every time a view is rendered!!!!
+
+Just add the following in `server.js` BELOW the two `app.use(passport...)` middleware:
+
+```js
+// Add this middleware BELOW passport middleware
+app.use(function (req, res, next) {
+  res.locals.user = req.user;
+  next();
+});
+```
+
+The `res.locals` is an object whose properties are available inside of any view being rendered!
+

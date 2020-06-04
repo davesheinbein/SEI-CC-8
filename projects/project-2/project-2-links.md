@@ -3,7 +3,7 @@
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Alfonso | ATX | Dog Walking | [link](https://github.com/acostade29/Dog-Walking-List-Project-) | [link](https://trello.com/b/Ly4uhb83/dog-walking) | [link](https://guizmo-project.herokuapp.com/) |
-| Brandon | ATX | Brandon's Blog | [link](https://github.com/BSacco0674/brandonsBlogUnitTwo) | [link](https://trello.com/b/Vu8fogDq/brandons-blog) |  |
+| Brandon | ATX | Brandon's Blog | [link](https://github.com/BSacco0674/brandonsBlogUnitTwo) | [link](https://trello.com/b/Vu8fogDq/brandons-blog) | [link](https://stark-caverns-74545.herokuapp.com/) |
 | Chris | ATX | Pokemon Team Builder | [link](https://github.com/ChrisChroma/pokemon-team-builder) | [link](https://trello.com/b/Zv4Utqre/project-2-pokemon-team-builder) | [link](https://intense-beyond-77900.herokuapp.com/) |
 | Gabriel | ATX | My Fitness Journey | [link](https://github.com/GabiVarella/my-fitness-journey) | [link](https://trello.com/b/7DkH8fWu/my-fitness-journey-project) | [link](https://my-fitness-journey.herokuapp.com/) |
 | Matthew | ATX | GA Record Vault | [link](https://github.com/MJMoquin/GA-Record-Vault) | [link](https://trello.com/b/9T4xujUM/unit-2-project) | [link](https://mjm-record-vault.herokuapp.com/) |

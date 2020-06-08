@@ -3,14 +3,14 @@
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Alfonso | ATX | Dog Walking | [link](https://github.com/acostade29/Dog-Walking-List-Project-) | [link](https://trello.com/b/Ly4uhb83/dog-walking) | [link](https://guizmo-project.herokuapp.com/) |
-| Brandon | ATX | Brandon's Blog | [link](https://github.com/BSacco0674/brandonsBlogUnitTwo) | [link](https://trello.com/b/Vu8fogDq/brandons-blog) | [link](https://stark-caverns-74545.herokuapp.com/) |
+| Brandon | ATX | Brandon's Blog | [link](https://github.com/BSacco0674/brandonsBlogUnitTwo) | [link](https://trello.com/b/Vu8fogDq/brandons-blog) | [link](https://stay-a-while.herokuapp.com/) |
 | Chris | ATX | Pokemon Team Builder | [link](https://github.com/ChrisChroma/pokemon-team-builder) | [link](https://trello.com/b/Zv4Utqre/project-2-pokemon-team-builder) | [link](https://intense-beyond-77900.herokuapp.com/) |
 | Gabriel | ATX | My Fitness Journey | [link](https://github.com/GabiVarella/my-fitness-journey) | [link](https://trello.com/b/7DkH8fWu/my-fitness-journey-project) | [link](https://my-fitness-journey.herokuapp.com/) |
 | Matthew | ATX | GA Record Vault | [link](https://github.com/MJMoquin/GA-Record-Vault) | [link](https://trello.com/b/9T4xujUM/unit-2-project) | [link](https://mjm-record-vault.herokuapp.com/) |
 | Monica | ATX | Camping App | [link](https://github.com/monicamartinez64/camping-app) | [link](https://trello.com/b/lR4IBk44/unit-2-project) | [link](https://camping-tracking-app.herokuapp.com/) |
 | Parker | ATX | Wishlist | [link](https://github.com/ParkerOHeeron/Wishlist) | [link](https://trello.com/b/ROQk8gMX/computer-parts-wish-list) | [link](https://computer-build-wishlist.herokuapp.com/user) |
 | Samuel | ATX | Caddie | [link](https://github.com/samueltrahan/Caddie.) | [link](https://trello.com/b/DVxH1eaR/caddie) | [link](https://caddie-golf.herokuapp.com/users) |
-| Chinwe | DAL | Jokebook | [link](https://github.com/chinwe2020/jokebook) | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) |  |
+| Chinwe | DAL | Jokebook | [link](https://github.com/chinwe2020/jokebook) | [link](https://trello.com/b/ZYaefpRf/jokebookproject2) | [link](https://jokebook-2.herokuapp.com/) |
 | Jameson | DAL | Mongoose Choices | [link](https://github.com/Jaice561/mongoose-choices) | [link](https://trello.com/b/gDePPEjE/welcome-to-trello#) | [link](https://jaice.herokuapp.com/) |
 | Kathleen | DAL | National Parks Service Visit Tracker | [link](https://github.com/kstick9210/nps-visits) | [link](https://trello.com/b/J6GvXYVN/project-2-nps-visits-tracker) | [link](https://nps-visits.herokuapp.com/) |
 | Samuel | DAL | UpPost | [link](https://github.com/salmon117/uppost) | [link](https://trello.com/b/7DLnOCSX/uppost) | [link](https://uppost.herokuapp.com/) |

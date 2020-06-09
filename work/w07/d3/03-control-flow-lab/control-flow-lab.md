@@ -27,7 +27,7 @@ This lab is a deliverable:
 1. `$ git add -A`
 2. `$ git commit -m "Python control flow lab"`
 3. `$ git push origin master`
-4. Slack your instructor the link to the location within your forked repo after you have pushed to it.
+4. Submit your link according to the class Readme
 
 
 

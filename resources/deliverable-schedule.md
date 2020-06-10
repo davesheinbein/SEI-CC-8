@@ -19,4 +19,4 @@ It is a requirement to complete at least **80%** of the following to to receive:
 | Thu 5/7 |[Array Iterator Methods Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w02/d4/02b-array-methods-lab.md)| Thu 5/14 |
 | Wed 5/20 |[Express "Dev Skills" Lab - Parts 1 & 2](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w04/d3/04-dev-skills-lab-part-2.md)| Wed 5/27 |
 | Tue 5/26 |Mongoose "Flights" Lab - [Part 1](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w04/d4/mongoose-flights-lab-part-1.md), [Part 2](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w04/d5/03-04-mongoose-flights-lab-part-2.md) and [Part 3](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w05/d2/mongoose-flights-lab-part-3.md)| Tue 6/2 |
-
+| Wed 6/10 |[Python Intro & Control Flow Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w02/d1/04-responsive-design-lab.md)| Wed 6/17 |

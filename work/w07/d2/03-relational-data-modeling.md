@@ -6,6 +6,7 @@
 ## Learning Objectives
 
 | Students will be able to: |
+|---|
 | Identify the data **entities** for an application |
 | Identify **attributes** for a data entity |
 | Identify the **relationships** between data entities |

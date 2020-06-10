@@ -10,3 +10,12 @@
 #      The dog's age in dog years is xx
 
 # Hint:  Use the int() function to convert the string returned from input() into an integer
+
+xx = 1
+
+dog_age = input('Input a dog\'s age in human years: ')
+print(f'{dog_age}')
+
+
+        print(f'The dog\'s {dog_age} in dog years is {xx}')
+

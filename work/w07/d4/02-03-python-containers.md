@@ -170,7 +170,7 @@ The preferred approach is to use the `items()` method to obtain a [dictionary vi
 `student.items()` returns a wrapped set of (key, value) tuples:
 
 ```python
-student.items():
+student.items()
 > dict_items([('name', 'Tina'), ('course', 'SEI')])
 ```
 

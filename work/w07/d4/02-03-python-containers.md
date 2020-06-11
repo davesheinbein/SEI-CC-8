@@ -5,6 +5,7 @@
 ## Learning Objectives
 
 | Students will be able to: |
+|---|
 | Use _lists_, _tuples_ & _dictionaries_ as containers for data |
 | Use _list comprehensions_ to create lists |
 | Create subsets of a _sequence_ using the _slice_ operator |
@@ -277,6 +278,18 @@ For adding multiple items, use the `extend()`:
 ```python
 colors.extend(['orange', 'black'])
 ```
+
+In Python, the `+` operator can be used to create a new list by combining them:
+
+```python
+odds = [1, 3, 5]
+evens = [2, 4, 6]
+nums = odds + evens
+print(nums)
+> [1, 3, 5, 2, 4, 6]
+```
+
+❓ How can we combine arrays in JavaScript into a new array?
 
 ### Inserting an Item
 

@@ -11,11 +11,7 @@
 
 # Hint:  Use the int() function to convert the string returned from input() into an integer
 
-xx = 1
-
 dog_age = input('Input a dog\'s age in human years: ')
-print(f'{dog_age}')
-
-
-        print(f'The dog\'s {dog_age} in dog years is {xx}')
-
+first_two_years = 20
+rest_of_age = int(first_two_years) + ((int(dog_age)-2) * 7)
+print(f'The dog\'s age in dog years is {int(rest_of_age)}')

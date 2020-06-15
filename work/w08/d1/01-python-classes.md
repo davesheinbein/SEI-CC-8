@@ -35,18 +35,18 @@ Python is an **object-oriented programming (OOP) language**.
 
 Object-oriented programming is characterized by programming with **objects** that represent the real-world objects of the application.
 
+<details><summary>
+❓What are classes used for in OOP?
+</summary>
+<p><strong>Classes are used to create objects.</strong></p>
+</details>
+
 A key principle of OOP we discussed during the JS Classes lesson is **encapsulation**...
 
 <details><summary>
 ❓What's encapsulation?
 </summary>
 <p><strong>The bundling of related properties (attributes) and methods (behavior) together in an object.</strong></p>
-</details>
-
-<details><summary>
-❓What are classes used for in OOP?
-</summary>
-<p><strong>Classes are used to create objects.</strong></p>
 </details>
 
 #### Objects in Python

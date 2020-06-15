@@ -41,12 +41,20 @@ Object-oriented programming is characterized by programming with **objects** tha
 <p><strong>Classes are used to create objects.</strong></p>
 </details>
 
-A key principle of OOP we discussed during the JS Classes lesson is **encapsulation**...
+A key principle of OOP we discussed during the JS Classes lesson was **encapsulation**...
 
 <details><summary>
 ❓What's encapsulation?
 </summary>
 <p><strong>The bundling of related properties (attributes) and methods (behavior) together in an object.</strong></p>
+</details>
+
+Another key principle of OOP we discussed  was **inheritance**...
+
+<details><summary>
+❓What's inheritance?
+</summary>
+<p><strong>When a class subclasses/extends another class and thus inherits that parent/superclass's attributes & methods.</strong></p>
 </details>
 
 #### Objects in Python

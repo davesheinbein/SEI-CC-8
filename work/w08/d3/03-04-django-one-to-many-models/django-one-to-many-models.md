@@ -8,8 +8,8 @@
 |---|
 | Implement a one-to-many relationship in Django Models |
 | Traverse a Model's related data |
-| Use a `ModelForm` to generate form inputs for a Model |
-| Assign the foreign key when creating a new "child" model instance |
+| Use a custom `ModelForm` to generate form inputs for a Model |
+| Assign the foreign key when creating a new "child" object |
 | Add a custom method to a Model |
 
 ## Roadmap
@@ -74,11 +74,11 @@ class Feeding(models.Model):
   meal = models.CharField(max_length=1)
 ```
 
-Note that we're going to use just a single character to represent what meal the feeding is for: **B**reakfast, **L**unch or **D**inner.
+Note that we're going to use just a single-character to represent what meal the feeding is for: **B**reakfast, **L**unch or **D**inner...
 
 #### Field.choices
 
-Django has a feature, Field.choices, that will make the single-characters more user-friendly by automatically generating a select dropdown in the form using descriptions we will define next...
+Django has a feature, [Field.choices](https://docs.djangoproject.com/en/3.0/ref/models/fields/#choices), that will make the single-characters more user-friendly by automatically generating a select dropdown in the form using descriptions that we define.
 
 The first step is to define a tuple of 2-tuples.  Because we might need to access this tuple within the `Cat` class also, let's define it above both of the Model classes:
 
@@ -94,7 +94,9 @@ MEALS = (
 class Cat(models.Model):
 ``` 
 
-As you can see, the first item in each 2-tuple represents the value that will be stored in the database. The second item represents the human-friendly "display" value.
+As you can see, the first item in each 2-tuple represents the value that will be stored in the database, e.g. `B`.
+
+The second item represents the human-friendly "display" value, e.g., `Breakfast`.
 
 Now let's enhance the `meal` field as follows:
 
@@ -151,7 +153,7 @@ As you can see, the `ForeignKey` field-type is used to create a one-to-many rela
 
 The first argument provides the parent Model.
 
-In a _one-to-many_ relationship, the `on_delete=models.CASCADE` is required.  It ensures that if a Cat record is deleted, all of the child Feedings will be deleted automatically as well - thus avoiding _orphan_ records (seriously, that's what they're called).
+In a one-to-many relationship, the `on_delete=models.CASCADE` is required.  It ensures that if a Cat record is deleted, all of the child Feedings will be deleted automatically as well - thus avoiding _orphan_ records (seriously, that's what they're called).
 
 > In the database, the column in the `feedings` table for the FK will actually be called `cat_id` because Django by default appends `_id` to the name of the attribute we use in the Model.
 
@@ -371,11 +373,11 @@ The CBV we used automatically created a `ModelForm` for the Model that was speci
 
 The CBV then used the `ModelForm` behind the scenes to generate the inputs and provide the posted data to the server.
 
-Because we want to be able to show a form for adding a **feeding** on the _detail_ page of a **cat**, we're going to see in this lesson how to create a `ModelForm` from scratch that will:
+Because we want to be able to show a form for adding a **feeding** on the _detail_ page of a **cat**, we're going to see in this lesson how to create a custom `ModelForm` from scratch that will:
 
-1. Generate a feeding's "inputs" inside of the `<form>` tag we provide.
+1. Generate a feeding's inputs inside of the `<form>` tag we provide.
 2. Be used to validate the posted data by calling `is_valid()`.
-3. Persist the model instance to the database by calling `save()` on the model form.
+3. Persist the model instance to the database by calling `save()` on the instance of the ModelForm.
 
 There's several steps we're going to need to complete, so let's get started...
 
@@ -626,7 +628,7 @@ Here it is:
 
 ```python
 def add_feeding(request, cat_id):
-  # create the ModelForm using the data in request.POST
+  # create a ModelForm instance using the data in request.POST
   form = FeedingForm(request.POST)
   # validate the form
   if form.is_valid():
@@ -689,9 +691,11 @@ Take a moment to review, then on to the student picker!
 
 **1. When two Models have a one-many relationship, which Model must include a field of type `models.ForeignKey`, the one side, or the many side?**
 
-**2. What are `ModelForm`s used for?**
+**2. True or False: `ModelForm`s are used to generate the form inputs for a model, validate the submitted form and save the data in the database.**
 
-**3. What technique did we use to pass the `id` of the cat to the `add_feeding` _view function_?** 
+**3. Assuming a `ForeignKey` field named `author` is on a `Book` Model; and we have an `author` object, we can access the `author`'s books via `author.book_set`?**
+
+**4. In the above `Author ---< Book` scenario, how would we access a `book` object's author?**
 
 ## Bonus Challenge: Adding a Custom Method to Check the Feeding Status
 

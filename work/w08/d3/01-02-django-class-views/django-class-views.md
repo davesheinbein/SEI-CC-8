@@ -341,7 +341,7 @@ Let's update **templates/cats/detail.html** by adding to a cat's "card" a `<div>
 
 Now for the views...
 
-#### Subclass the `DeleteView` & `UpdateView`
+#### Subclass the `UpdateView` & `DeleteView`
 
 We've referenced the new `CatUpdate` and `CatDelete` views in the routes so we need to add them to **views.py**.
 
@@ -490,9 +490,7 @@ Your app's requirements may, or may not, need to depend upon customization of th
 
 #### Great Example in the Docs
 
-[This section of the docs](Your app's requirements may, or may not, need to depend upon customization of the built-in CBVs, however, you should take time to investigate how and learn more about OOP along the way...
-
-[Start with the docs here](https://docs.djangoproject.com/en/3.0/topics/class-based-views/intro/#the-relationship-and-history-of-generic-views-class-based-views-and-class-based-generic-views)) provides a great example of how you can pass additional context data, etc.
+[This section of the docs](https://docs.djangoproject.com/en/3.0/ref/class-based-views/generic-display/) shows how to override a CBV's `get_context_data()` method to provide additional data to templates.
 
 ## References
 

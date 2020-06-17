@@ -7,10 +7,10 @@
 | Students Will Be Able To: |
 |---|
 | Use Class-based Views (CBVs) in place of View Functions |
-| Access form data within a CBV |
 | Use a CBV to Create data |
 | Use a CBV to Delete data |
 | Use a CBV to Update data |
+| Use a ModelForm to Render a Form's Inputs |
 
 ## Road Map
 

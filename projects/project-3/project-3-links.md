@@ -2,7 +2,7 @@
 
 | Campus | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-| DAL | Alex & Maddy |  |  |  |  |  |
+| SD | Alex & Maddy |  |  |  |  |  |
 | DEN | Chris, Kimberly & Travis |  |  |  |  |  |
 | DEN | Chase, Jackie & Robert |  |  |  |  |  |
 | DEN | Colin, Hannah & Vanessa |  |  |  |  |  |
@@ -11,4 +11,4 @@
 | LA | Brian & Charlotte |  |  |  |  |  |
 | LA | Aaron, Jason & Sarah |  |  |  |  |  |
 | LA | David, Jonathan & Ryan |  |  |  |  |  |
-| SD | Chinwe, Jameson, Kathleen & Samuel |  |  |  |  |  |
+| DAL | Chinwe, Jameson, Kathleen & Samuel |  |  |  |  |  |

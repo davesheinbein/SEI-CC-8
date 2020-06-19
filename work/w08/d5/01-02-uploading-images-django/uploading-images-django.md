@@ -369,7 +369,7 @@ In regards to S3, [the docs](https://docs.aws.amazon.com/general/latest/gr/s3.ht
 - `https://s3.us-east-2.amazonaws.com/` (Ohio)
 - `https://s3.us-west-1.amazonaws.com/` (N. California)
 
-Pick the endpoint nearest to you and assign it to the `S3_BASE_URL` variable.  In addition, your bucket name to the `BUCKET` variable as follows:
+Pick the endpoint nearest to you and assign it to the `S3_BASE_URL` variable.  In addition, assign your bucket name to a `BUCKET` variable as follows:
 
 ```python
 from .forms import FeedingForm

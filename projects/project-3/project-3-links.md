@@ -6,7 +6,7 @@
 | ATX | **Team Cookbook**<br>Alfonso, Brandon & Matthew | Cookbook | [link](https://github.com/BSacco0674/cookbook) | [link](https://www.youtube.com/watch?v=PymV2py4LJU) | [link](https://trello.com/b/NqexMcqS/sei-cc-8-project-3) |  |
 | DAL | Chinwe, Jameson, Kathleen & Samuel |  |  |  |  |  |
 | DEN | **Team GASapp**<br>Chris, Kimberly & Travis | GASapp | [link](https://github.com/TCashion/GASapp) | [link](https://docs.google.com/presentation/d/1ZrZkFDF9FKLsturrjH6daW58r1PukoXLl86zgAt2a8U/edit#slide=id.p) | [link](https://trello.com/b/vlJ9rfaW/project-3) |  |
-| DEN | Chase, Jackie & Robert |  |  |  |  |  |
+| DEN | **Team Searchers**<br>Chase, Jackie & Robert | Job Search Tracker | [link](https://github.com/rperillo1/Job-Search-Tracker) |  | [link](https://trello.com/b/RTtHylwj/job-search-tracker) |  |
 | DEN | **The Dream Team**<br>Colin, Hannah & Vanessa | Pikazoo | [link](https://github.com/colin96man/Pikazoo) | [link](https://www.canva.com/design/DAD_RnWl4G0/share/preview?token=8VEdezrPaVKBASsalwfA3Q&role=EDITOR&utm_content=DAD_RnWl4G0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) | [link](https://trello.com/b/jztOK7iZ/pikazoo) |  |
 | DEN | **Team Where_dis**<br>Lauren, Shawn & Tyler | Where_dis | [link](https://github.com/laurenmengert/where_dis) | [link](https://docs.google.com/presentation/d/1MwuYV46KXCJfgakpwhlienAIksULUSt4cQy_Oi7HY2Q/edit) | [link](https://trello.com/b/bgSl0Nb3/wheredis) |  |
 | DEN | April, Jae & Josh |  |  |  |  |  |

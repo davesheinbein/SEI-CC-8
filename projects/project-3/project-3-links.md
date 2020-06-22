@@ -2,7 +2,7 @@
 
 | Campus | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-| SD | Alex & Maddy |  | |  |  |  |
+| SD | Alex & Maddy |  |[link](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/projects/project-3/project-3-links.md) |  |  |  |
 | DEN | Chris, Kimberly & Travis |  |  |  |  |  |
 | DEN | Chase, Jackie & Robert |  |  |  |  |  |
 | DEN | Colin, Hannah & Vanessa |  |  |  |  |  |

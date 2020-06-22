@@ -2,7 +2,7 @@
 
 | Campus | Team | Project Name | GitHub | Pitch Deck | Trello | Hosted Site |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|
-| SD | Alex & Maddy |  | [link](https://github.com/zeroxposur18/8-bit-archive) |  |  |  |
+| SD | Alex & Maddy |  | |  |  |  |
 | DEN | Chris, Kimberly & Travis |  |  |  |  |  |
 | DEN | Chase, Jackie & Robert |  |  |  |  |  |
 | DEN | Colin, Hannah & Vanessa |  |  |  |  |  |

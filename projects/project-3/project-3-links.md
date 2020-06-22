@@ -7,7 +7,7 @@
 | DEN | **Team GASapp**<br>Chris, Kimberly & Travis | GASapp | [link](https://github.com/TCashion/GASapp) | [link](https://docs.google.com/presentation/d/1ZrZkFDF9FKLsturrjH6daW58r1PukoXLl86zgAt2a8U/edit#slide=id.p) | [link](https://trello.com/b/vlJ9rfaW/project-3) |  |
 | DEN | Chase, Jackie & Robert |  |  |  |  |  |
 | DEN | Colin, Hannah & Vanessa |  |  |  |  |  |
-| DEN | Lauren, Shawn & Tyler |  |  |  |  |  |
+| DEN | **Team Where_dis**<br>Lauren, Shawn & Tyler | Where_dis | [link](https://github.com/laurenmengert/where_dis) | [link](https://docs.google.com/presentation/d/1MwuYV46KXCJfgakpwhlienAIksULUSt4cQy_Oi7HY2Q/edit) | [link](https://trello.com/b/bgSl0Nb3/wheredis) |  |
 | DEN | April, Jae & Josh |  |  |  |  |  |
 | LA | Brian & Charlotte |  |  |  |  |  |
 | LA | Aaron, Jason & Sarah |  | [link](https://github.com/asmith-asmith/gathr) |  | [link](https://trello.com/b/CIx9EfpU/project-3-g4c) |  |

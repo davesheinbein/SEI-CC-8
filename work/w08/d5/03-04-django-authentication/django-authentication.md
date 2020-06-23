@@ -670,7 +670,7 @@ class Profile(models.Model):
     favorite_color = models.CharField(max_length=50)
 ```
 
-Start [here](https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#extending-the-existing-user-model) for more info about using this approach.
+Start [here](https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#extending-the-existing-user-model) for more info about using this approach.
 
 #### APPROACH 2:  Custom `User` Model
 
@@ -685,9 +685,9 @@ class User(AbstractUser):
     # Add your additional features
 ```
 
-Start [here](https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#using-a-custom-user-model-when-starting-a-project) for more information about using this approach.
+Start [here](https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#using-a-custom-user-model-when-starting-a-project) for more information about using this approach.
 
 ## References
 
-- [Django Authentication System](https://docs.djangoproject.com/en/2.1/topics/auth/default/)
+- [Django Authentication System](https://docs.djangoproject.com/en/3.0/topics/auth/default/)
 

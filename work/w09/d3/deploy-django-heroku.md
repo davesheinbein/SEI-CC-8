@@ -72,6 +72,8 @@ Django projects need to be configured to be deployed.
 
 Django has detailed deployment [docs](https://docs.djangoproject.com/en/3.0/howto/deployment/) and a [checklist](https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/), however, there is dedicated package we will use to make deploying to Heroku much easier.
 
+> Note:  If you ever deploy a Django app used in production, you'll want to review the [checklist](https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/) mentioned above and implement the additional security precautions.
+
 ### Install `django-heroku`
 
 First, let's install [`django-heroku`](https://github.com/heroku/django-heroku) which is a Python package that will help with the deployment process:

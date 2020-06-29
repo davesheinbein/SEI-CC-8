@@ -22,3 +22,5 @@ It is a requirement to complete at least **80%** of the following to to receive:
 | Wed 6/10 |[Python Intro & Control Flow Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w07/d4/02-03-python-containers.md)| Wed 6/17 |
 | Week 8 |Finch Collector Django Project| Fri 6/26 |
 | Mon 6/29 |[React "Floor Plan" Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w10/d1/04-react-floorplan-lab.md) | Mon 7/6 |
+| Tue 6/30 |[React "Students" Lab](https://git.generalassemb.ly/SEI-CC/SEI-CC-8/blob/master/work/w10/d2/react-students-lab.md) | Tue 7/7 |
+

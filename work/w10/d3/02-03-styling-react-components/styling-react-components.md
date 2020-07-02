@@ -383,7 +383,7 @@ const baseStyle = {
   height: 10,
   margin: 1,
   border: '2px solid',
-  border-style: solid,
+  borderStyle: 'solid',
   borderRadius: '50%'
 };
 ```
@@ -505,6 +505,7 @@ Time to use those hexadecimal values, and the `selColorIdx` prop to dynamically 
 	  border-width: 14px;
 	  border-radius: 50%;
 	  opacity: 0.85;
+          borderStyle: 'solid';
 	  cursor: pointer;
 	}
 	```

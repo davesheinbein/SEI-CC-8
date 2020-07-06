@@ -1,3 +1,9 @@
+.ColorPicker {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
 .button:hover {
   opacity: 1;
 }
@@ -8,7 +14,7 @@
   margin: 5px;
   border-width: 14px;
   border-radius: 50%;
-  borderStyle: 'solid';
+  border-style: solid;
   opacity: 0.85;
   cursor: pointer;
 }

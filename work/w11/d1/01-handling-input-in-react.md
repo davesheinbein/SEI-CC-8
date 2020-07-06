@@ -7,7 +7,7 @@
 | Use "controlled" `<input>` elements in React |
 | Use `<form>` elements properly in React |
 | Use validation to prevent adding invalid data |
-| Use a `ref` to access a DOM element directly |
+
 
 ## Road Map
 

@@ -422,6 +422,21 @@ Testing it shows that at least two characters need to be entered in the skill in
 
 Now that we've seen how we can check an individual input's validity, let's see what it takes to check the validity of the entire form...
 
+
+
+## ❓ Essential Questions
+
+Take a moment to review the following questions:
+
+1. **Where does a "controlled" `<input>` get its value from?**
+
+2. **True or False: All input-related components must be wrapped by a `<form>` component.**
+
+3. **A React "controlled" `<input>` requires both a `value` and an `________` prop.**
+
+
+# Bonus
+
 #### Using a `ref` to Access DOM Elements
 
 Unfortunately, the event object's `target` property is not providing us with access to the `<form>` DOM element from within the `addSkill` method.
@@ -525,17 +540,6 @@ button:disabled {
 <img src="https://i.imgur.com/gYpjVm1.png">
 
 Nice!
-
-## ❓ Essential Questions
-
-Take a moment to review the following questions:
-
-1. **Where does a "controlled" `<input>` get its value from?**
-
-2. **True or False: All input-related components must be wrapped by a `<form>` component.**
-
-3. **A React "controlled" `<input>` requires both a `value` and an `________` prop.**
-
 
 ## References
 

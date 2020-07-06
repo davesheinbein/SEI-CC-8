@@ -8,6 +8,7 @@
   margin: 5px;
   border-width: 14px;
   border-radius: 50%;
+  borderStyle: 'solid';
   opacity: 0.85;
   cursor: pointer;
 }

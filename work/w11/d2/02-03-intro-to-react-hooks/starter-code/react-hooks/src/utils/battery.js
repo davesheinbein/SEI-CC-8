@@ -37,7 +37,7 @@ function notifyObservers() {
 }
 
 export function register(callback) {
-  if (observerCallbacks.indexOf(callback) !== -1) return;
+  if (observerCallbacks.includes(callback)) return;
   observerCallbacks.push(callback);
   if (battery) {
     callback(getBatteryData());

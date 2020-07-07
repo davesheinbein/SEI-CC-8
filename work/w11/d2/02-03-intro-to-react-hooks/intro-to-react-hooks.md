@@ -33,11 +33,12 @@ This lesson will cover the use case of hooks and demonstrate how to use the two 
 
 To get set up for this lesson:
 
-- `cd ~/code/react-mastermind` to move into the project/repo
-- Sync the code:  `git fetch --all` then `git reset --hard origin/master`
+- `cd ~/code` to move into your code folder.
+- Clone the starter code:  `git clone https://git.generalassemb.ly/SEI-CC/react-hooks.git`
+- Move into the new folder:  `cd react-hooks`
+- Install the Node modules:  `npm i`
 - Open the project in VS Code
 - Open a terminal session (`ctrl + backtick`)
-- Just in case, install the Node modules: `$ npm i`
 - Start the React Dev Server: `$ npm start`
 
 Once the app is open, your browser will show something like the following, depending upon the current level of your battery and whether your computer is charging or not:

@@ -279,7 +279,7 @@ handleTimerUpdate = () => {
 }
 ```
 
-**YOU DO:** You know the routine - pass `handleTick` down to `<GameTimer>` then click the 🌶 when finished.
+**YOU DO:** You know the routine - pass `handleTimerUpdate` down to `<GameTimer>` then click the 🌶 when finished.
 
 #### Get Ticking
 

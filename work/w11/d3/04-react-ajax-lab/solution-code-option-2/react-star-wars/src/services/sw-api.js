@@ -1,4 +1,4 @@
-const BASE_URL = 'https://swapi.co/api/';
+const BASE_URL = 'https://swapi.dev/api/';
 
 export function getAllStarships() {
   return fetch(`${BASE_URL}starships`, {mode: "cors"})

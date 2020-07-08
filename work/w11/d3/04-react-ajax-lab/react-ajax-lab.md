@@ -12,7 +12,7 @@ In the lesson earlier you:
  
 2. Created a "service" module to organize `fetch` calls within.
 
-In this lab, you'll consume the [Star Wars API](https://swapi.co/) and render it's data.
+In this lab, you'll consume the [Star Wars API](https://swapi.dev/) and render it's data.
 
 **This lab is a DELIVERABLE**
 
@@ -30,7 +30,7 @@ To get set up for this lesson:
 
 > Styling in this lab is secondary to completing the functionality
 
-1. Research documentation of [SWAPI](https://swapi.co/documentation) to find the endpoint for the `starships` resource.
+1. Research documentation of [SWAPI](https://swapi.dev/documentation) to find the endpoint for the `starships` resource.
 
 2. Create a `services/sw-api.js` service module and ensure that all API/fetch calls are made from this module. Use named exports to expose AJAX functionality as needed, e.g., `export function getAllStarships() {...}`to obtain all starships.
 

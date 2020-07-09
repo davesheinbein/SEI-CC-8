@@ -138,8 +138,6 @@ The Express server will never access any of the source code for the **React proj
 
 It simply needs to deliver the **production-ready** `index.html`, which will in turn request the **production-ready** scripts, etc., that were built using `$ npm run build`.
 
-> Note: The `build` folder is git ignored because we will configure `package.json` to make Heroku build the React app in the cloud.
-
 #### Install the Modules for the Express Server
 
 The full-stack architecture we decided on uses a single **package.json** file (the one that was created by `create-react-app`).

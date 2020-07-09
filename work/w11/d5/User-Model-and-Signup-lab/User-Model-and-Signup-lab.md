@@ -20,7 +20,7 @@ Looking for some more practice exposing an API for an app?  Good!
   timestamps: true
 }
 ```
-3.  Make a User controller that has a signup function. 
+3.  Make a User controller that has a signup function. The function should return the username and a variable that lets you know the user has successfully signed up in the form of json.  
 4.  Routes can be defined like the following 
 ```js
 router.post('/signup', usersCtrl.signup);

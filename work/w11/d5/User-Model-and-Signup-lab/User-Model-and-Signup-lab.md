@@ -21,6 +21,14 @@ Looking for some more practice exposing an API for an app?  Good!
 }
 ```
 3.  Implement Signup and Login components in react. 
+4.  Make the required fetch requests to your express API in order to implement login and signup
+5.  Switch the view in React to a *Main Page* after a user has logged in or signed up. 
+
+
+### Bonus 
+
+1.  style the app
+2.  Implement Crud tied to a user
 
 
 

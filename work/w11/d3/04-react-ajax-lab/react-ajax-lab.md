@@ -14,7 +14,7 @@ In the lesson earlier you:
 
 In this lab, you'll consume the [Star Wars API](https://swapi.dev/) and render it's data.
 
-**This lab is a DELIVERABLE**
+**This lab is not a DELIVERABLE**
 
 ## Set Up
 

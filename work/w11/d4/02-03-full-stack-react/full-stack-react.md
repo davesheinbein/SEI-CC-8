@@ -77,12 +77,11 @@ As we develop our React app locally, we're writing source code that React's dev 
 
 However, the React dev server is a local tool that does not run in the cloud, i.e., on Heroku.
 
-We need a way to **build** our code on the web server that's hosting our app which will vary depending upon which hosting service is used.
+We need to ensure that whatever hosting service we use is configured to **build** the React app with each deployment.
 
-Basically, to be able to deploy our MERN-stack app, we're going to have to:
+Luckily for us, beginning in 2019, Heroku started to automatically build React apps for us.
 
-- Configure Heroku to **build** the React front-end code to make it production ready, and...
-- Configure the Express app to serve that production code
+In addition to ensuring that the hosting service builds the React app, we need to ensure that we code the Express backend app to serve the built production code
 
 #### Possible Full-stack Architectures
 

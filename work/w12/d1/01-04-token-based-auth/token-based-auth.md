@@ -394,11 +394,7 @@ Just a `setToken` method for now:
 
 ```js
 function setToken(token) {
-  if (token) {
-    localStorage.setItem('token', token);
-  } else {
-    localStorage.removeItem('token');
-  } 
+  localStorage.setItem('token', token);
 }
 
 export default {
@@ -832,7 +828,7 @@ async function login(req, res) {
       }
     });
   } catch (err) {
-    return res.status(401).json(err);
+    return res.status(400).json(err);
   }
 }
 

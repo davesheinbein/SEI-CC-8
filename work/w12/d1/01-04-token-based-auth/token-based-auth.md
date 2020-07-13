@@ -104,8 +104,6 @@ The diagram above shows that the client app:
 4. The reason a client needs to persist a token is that now, whenever the client makes a request, it can send along the token in the HTTP request, either as a querystring, in the request's body, or, as a best practice, in a header named `Authorization`.
 5. The server will then validate the token and respond to the request.
 
-What are some advantages of token-based vs. session-based auth...
-
 ## Review the Starter Code
 
 The starter code is the full-stack Mastermind app with high score functionality and the addition of the exercises from the User lab to aid our authentication implementation.

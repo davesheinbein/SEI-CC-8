@@ -28,7 +28,7 @@
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) |  |
 | Tyler | DEN | Flight Note | [link](https://github.com/tawlur/final-project) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
 | Vanessa | DEN |  | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) |  |
-| Aaron | LA/SD |  |  |  |  |
+| Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) |  |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) |  |
 | Charlotte | LA/SD | Character Quiz | [link](https://github.com/charlottepak/Character-Quiz) | [link](https://trello.com/b/nBK4Hw5c/project-4) |  |
 | David | LA/SD | Horse Bulletin Board | [link](https://github.com/davesheinbein/stead-finder-horse-buliten-board) | [link](https://trello.com/b/QQgGKAnE/ga-project-4) |  |
@@ -37,4 +37,4 @@
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) |  |
 | Sarah | LA/SD | The Plant Guru | [link](https://github.com/slrosky/the-plant-guru) | [link](https://trello.com/b/I10R9vOj/the-plant-guru) |  |
 | Alexei | LA/SD | Covidex | [link](https://github.com/audarbe/covidex) | [link](https://trello.com/b/BPGrp1P2/covidex) |  |
-| Maddy | LA/SD |  |  |  |  |
+| Maddy | LA/SD | Cinecism | [link](https://github.com/madeleinemarie/cinecism) | [link](https://trello.com/b/ZnDqaOh2/project4) |  |

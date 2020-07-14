@@ -17,7 +17,7 @@
 | Chase | DEN | Budget | [link](https://github.com/chasewri/budget) | [link](https://trello.com/b/xrsCNnSH/budget) |  |
 | Christopher | DEN | Red Planet Weather | [link](https://github.com/Chris-Violante/Red-Planet-Weather) | [link](https://trello.com/b/fevEwz4F/weather-on-mars-app) |  |
 | Colin | DEN | Choice Workout | [link](https://github.com/colin96man/Choice-Workout) | [link](https://trello.com/b/82BBBzDT/choice-workout) |  |
-| Hannah | DEN |  |  |  |  |
+| Hannah | DEN | It's a Lifestyle | [link](https://github.com/hannahbrantley/its-a-lifestyle) | [link](https://trello.com/b/hBHlscGA/its-a-lifestyle) |  |
 | Jackie | DEN | bar-meet-up | [link](https://github.com/JackieZoloo/bar-meet-up) | [link](https://trello.com/b/5bVPvXqi/bar-meet-up) |  |
 | Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) |  |
 | Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |

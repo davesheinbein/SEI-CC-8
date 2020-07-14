@@ -15,8 +15,8 @@
 | Samuel G. | ATX/DAL | PokéFaves | [link](https://github.com/CodingSalmon/pokefaves) | [link](https://trello.com/b/l2j8lnX2/pok%C3%A9faves) |  |
 | April | DEN | Sonrisa | [link](https://github.com/aprilkrgonzales/sonrisa) | [link](https://trello.com/b/xwcxa5LQ/sonrisa-llc) |  |
 | Chase | DEN | Budget | [link](https://github.com/chasewri/budget) | [link](https://trello.com/b/xrsCNnSH/budget) |  |
-| Christopher | DEN |  |  |  |  |
-| Colin | DEN |  |  |  |  |
+| Christopher | DEN | Red Planet Weather | [link](https://github.com/Chris-Violante/Red-Planet-Weather) | [link](https://trello.com/b/fevEwz4F/weather-on-mars-app) |  |
+| Colin | DEN | Choice Workout | [link](https://github.com/colin96man/Choice-Workout) | [link](https://trello.com/b/82BBBzDT/choice-workout) |  |
 | Hannah | DEN |  |  |  |  |
 | Jackie | DEN | bar-meet-up | [link](https://github.com/JackieZoloo/bar-meet-up) | [link](https://trello.com/b/5bVPvXqi/bar-meet-up) |  |
 | Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) |  |

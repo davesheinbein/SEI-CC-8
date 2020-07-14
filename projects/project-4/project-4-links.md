@@ -35,6 +35,6 @@
 | Jason | LA/SD | Movie Reviews | [link](https://github.com/jhur91/react-movies) | [link](https://trello.com/b/WVyN7Ttt/movie-review-app) |  |
 | Jonathan | LA/SD | Pokemon Creation | [link](https://github.com/Thornathan/pokemon-creations-app) | [link](https://trello.com/b/crYJYnSN/pokemon-creation-app) |  |
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) |  |
-| Sarah | LA/SD |  |  |  |  |
+| Sarah | LA/SD | The Plant Guru | [link](https://github.com/slrosky/the-plant-guru) | [link](https://trello.com/b/I10R9vOj/the-plant-guru) |  |
 | Alexei | LA/SD | Covidex | [link](https://github.com/audarbe/covidex) | [link](https://trello.com/b/BPGrp1P2/covidex) |  |
 | Maddy | LA/SD |  |  |  |  |

@@ -7,7 +7,7 @@
 | Chris | ATX/DAL | Pokemon Team Builder | [link](https://github.com/ChrisChroma/react-pokemon-team-builder) | [link](https://trello.com/b/544RN8KZ/poketeam) |  |
 | Gabriel | ATX/DAL |  |  |  |  |
 | Matthew | ATX/DAL | GA-Convos | [link](https://github.com/MJMoquin/GA-Convos) | [link](https://trello.com/b/gCHXk5jW/ga-convos) |  |
-| Monica | ATX/DAL |  |  |  |  |
+| Monica | ATX/DAL | Astronomy | [link](https://github.com/monicamartinez64/astronomy-app) | [link](https://trello.com/b/08JZMFuk/unit-4-project) |  |
 | Samuel T. | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) |  |
 | Chinwe | ATX/DAL | Zodiac | [link](https://github.com/chinwe2020/zodiac_app) | [link](https://trello.com/b/y2irDyfM/zodiac-app) |  |
 | Jameson | ATX/DAL | Budget | [link](https://github.com/Jaice561/budget) |  |  |
@@ -33,7 +33,7 @@
 | Charlotte | LA/SD |  |  |  |  |
 | David | LA/SD |  |  |  |  |
 | Jason | LA/SD |  |  |  |  |
-| Jonathan | LA/SD |  |  |  |  |
+| Jonathan | LA/SD | Pokemon Creation | [link](https://github.com/Thornathan/pokemon-creations-app) | [link](https://trello.com/b/crYJYnSN/pokemon-creation-app) |  |
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) |  |
 | Sarah | LA/SD |  |  |  |  |
 | Alexei | LA/SD |  |  |  |  |

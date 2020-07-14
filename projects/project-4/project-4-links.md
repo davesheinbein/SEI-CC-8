@@ -18,7 +18,7 @@
 | Christopher | DEN |  |  |  |  |
 | Colin | DEN |  |  |  |  |
 | Hannah | DEN |  |  |  |  |
-| Jackie | DEN |  |  |  |  |
+| Jackie | DEN | bar-meet-up | [link](https://github.com/JackieZoloo/bar-meet-up) | [link](https://trello.com/b/5bVPvXqi/bar-meet-up) |  |
 | Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) |  |
 | Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |
 | Kimberly | DEN | Learmember | [link](https://github.com/kimberlyalord/Learmember) | [link](https://trello.com/b/6Tg9k0zR/project-4-learmember) |  |

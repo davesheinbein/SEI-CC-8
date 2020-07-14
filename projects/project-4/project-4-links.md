@@ -21,10 +21,10 @@
 | Jackie | DEN |  |  |  |  |
 | Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) |  |
 | Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |
-| Kimberly | DEN |  |  |  |  |
+| Kimberly | DEN | Learmember | [link](https://github.com/kimberlyalord/Learmember) | [link](https://trello.com/b/6Tg9k0zR/project-4-learmember) |  |
 | Lauren | DEN |  |  |  |  |
 | Robert | DEN | D & D | [link](https://github.com/rperillo1/DandD-character-manager) | [link](https://trello.com/b/uapE21Wo/mern-dd-web-app) |  |
-| Shawn | DEN |  |  |  |  |
+| Shawn | DEN | TaskDrill | [link](https://github.com/sgluchacki/taskdrill) | [link](https://trello.com/b/H42E5cE7/taskdrill) |  |
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) |  |
 | Tyler | DEN | Flight Note | [link](https://github.com/tawlur/final-project) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
 | Vanessa | DEN |  | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) |  |

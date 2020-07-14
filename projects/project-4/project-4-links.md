@@ -31,10 +31,10 @@
 | Aaron | LA/SD |  |  |  |  |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) |  |
 | Charlotte | LA/SD |  |  |  |  |
-| David | LA/SD |  |  |  |  |
+| David | LA/SD | Horse Bulletin Board | [link](https://github.com/davesheinbein/stead-finder-horse-buliten-board) | [link](https://trello.com/b/QQgGKAnE/ga-project-4) |  |
 | Jason | LA/SD |  |  |  |  |
 | Jonathan | LA/SD | Pokemon Creation | [link](https://github.com/Thornathan/pokemon-creations-app) | [link](https://trello.com/b/crYJYnSN/pokemon-creation-app) |  |
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) |  |
 | Sarah | LA/SD |  |  |  |  |
-| Alexei | LA/SD |  |  |  |  |
+| Alexei | LA/SD | Covidex | [link](https://github.com/audarbe/covidex) | [link](https://trello.com/b/BPGrp1P2/covidex) |  |
 | Maddy | LA/SD |  |  |  |  |

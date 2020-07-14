@@ -23,16 +23,16 @@
 | Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |
 | Kimberly | DEN |  |  |  |  |
 | Lauren | DEN |  |  |  |  |
-| Robert | DEN |  |  |  |  |
+| Robert | DEN | D & D | [link](https://github.com/rperillo1/DandD-character-manager) | [link](https://trello.com/b/uapE21Wo/mern-dd-web-app) |  |
 | Shawn | DEN |  |  |  |  |
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) |  |
-| Tyler | DEN |  |  |  |  |
+| Tyler | DEN | Flight Note | [link](https://github.com/tawlur/final-project) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
 | Vanessa | DEN |  | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) |  |
 | Aaron | LA/SD |  |  |  |  |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) |  |
 | Charlotte | LA/SD |  |  |  |  |
 | David | LA/SD | Horse Bulletin Board | [link](https://github.com/davesheinbein/stead-finder-horse-buliten-board) | [link](https://trello.com/b/QQgGKAnE/ga-project-4) |  |
-| Jason | LA/SD |  |  |  |  |
+| Jason | LA/SD | Movie Reviews | [link](https://github.com/jhur91/react-movies) | [link](https://trello.com/b/WVyN7Ttt/movie-review-app) |  |
 | Jonathan | LA/SD | Pokemon Creation | [link](https://github.com/Thornathan/pokemon-creations-app) | [link](https://trello.com/b/crYJYnSN/pokemon-creation-app) |  |
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) |  |
 | Sarah | LA/SD |  |  |  |  |

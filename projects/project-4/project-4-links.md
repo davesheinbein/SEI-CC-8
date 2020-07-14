@@ -13,7 +13,7 @@
 | Jameson | ATX/DAL |  |  |  |  |
 | Kathleen | ATX/DAL | Collect the Cosmos | [link](https://github.com/kstick9210/collect-the-cosmos) | [link](https://trello.com/b/k8mpHRKw/project-4-collect-the-cosmos) |  |
 | Samuel | ATX/DAL |  |  |  |  |
-| April | DEN |  |  |  |  |
+| April | DEN | Sonrisa | [link](https://github.com/aprilkrgonzales/sonrisa) | [link](https://trello.com/b/xwcxa5LQ/sonrisa-llc) |  |
 | Chase | DEN |  |  |  |  |
 | Christopher | DEN |  |  |  |  |
 | Colin | DEN |  |  |  |  |

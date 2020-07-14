@@ -3,18 +3,18 @@
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Alfonso | ATX/DAL |  |  |  |  |
-| Brandon | ATX/DAL |  |  |  |  |
-| Chris | ATX/DAL |  |  |  |  |
+| Brandon | ATX/DAL | Weather or Not | [link](https://github.com/BSacco0674/WeatherorNot) | [link](https://trello.com/b/KePTxNPl/weather-or-not) |  |
+| Chris | ATX/DAL | Pokemon Team Builder | [link](https://github.com/ChrisChroma/react-pokemon-team-builder) | [link](https://trello.com/b/544RN8KZ/poketeam) |  |
 | Gabriel | ATX/DAL |  |  |  |  |
-| Matthew | ATX/DAL |  |  |  |  |
+| Matthew | ATX/DAL | GA-Convos | [link](https://github.com/MJMoquin/GA-Convos) | [link](https://trello.com/b/gCHXk5jW/ga-convos) |  |
 | Monica | ATX/DAL |  |  |  |  |
-| Samuel | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) |  |
+| Samuel T. | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) |  |
 | Chinwe | ATX/DAL |  |  |  |  |
 | Jameson | ATX/DAL |  |  |  |  |
 | Kathleen | ATX/DAL | Collect the Cosmos | [link](https://github.com/kstick9210/collect-the-cosmos) | [link](https://trello.com/b/k8mpHRKw/project-4-collect-the-cosmos) |  |
-| Samuel | ATX/DAL |  |  |  |  |
+| Samuel G. | ATX/DAL | PokéFaves | [link](https://github.com/CodingSalmon/pokefaves) | [link](https://trello.com/b/l2j8lnX2/pok%C3%A9faves) |  |
 | April | DEN | Sonrisa | [link](https://github.com/aprilkrgonzales/sonrisa) | [link](https://trello.com/b/xwcxa5LQ/sonrisa-llc) |  |
-| Chase | DEN |  |  |  |  |
+| Chase | DEN | Budget | [link](https://github.com/chasewri/budget) | [link](https://trello.com/b/xrsCNnSH/budget) |  |
 | Christopher | DEN |  |  |  |  |
 | Colin | DEN |  |  |  |  |
 | Hannah | DEN |  |  |  |  |

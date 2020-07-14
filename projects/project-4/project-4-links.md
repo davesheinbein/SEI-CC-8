@@ -22,7 +22,7 @@
 | Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) |  |
 | Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |
 | Kimberly | DEN | Learmember | [link](https://github.com/kimberlyalord/Learmember) | [link](https://trello.com/b/6Tg9k0zR/project-4-learmember) |  |
-| Lauren | DEN |  |  |  |  |
+| Lauren | DEN | My Family Recipes | [link](https://github.com/laurenmengert/myfamilyrecipes) | [link](https://trello.com/b/f9jdO6uR/my-family-recipes) |  |
 | Robert | DEN | D & D | [link](https://github.com/rperillo1/DandD-character-manager) | [link](https://trello.com/b/uapE21Wo/mern-dd-web-app) |  |
 | Shawn | DEN | TaskDrill | [link](https://github.com/sgluchacki/taskdrill) | [link](https://trello.com/b/H42E5cE7/taskdrill) |  |
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) |  |

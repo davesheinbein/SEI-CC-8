@@ -19,22 +19,22 @@
 | Colin | DEN |  |  |  |  |
 | Hannah | DEN |  |  |  |  |
 | Jackie | DEN |  |  |  |  |
-| Jae | DEN |  |  |  |  |
-| Joshua | DEN |  |  |  |  |
+| Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) |  |
+| Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |
 | Kimberly | DEN |  |  |  |  |
 | Lauren | DEN |  |  |  |  |
 | Robert | DEN |  |  |  |  |
 | Shawn | DEN |  |  |  |  |
-| Travis | DEN |  |  |  |  |
+| Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) |  |
 | Tyler | DEN |  |  |  |  |
 | Vanessa | DEN |  | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) |  |
 | Aaron | LA/SD |  |  |  |  |
-| Brian | LA/SD |  |  |  |  |
+| Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) |  |
 | Charlotte | LA/SD |  |  |  |  |
 | David | LA/SD |  |  |  |  |
 | Jason | LA/SD |  |  |  |  |
 | Jonathan | LA/SD |  |  |  |  |
-| Ryan | LA/SD |  |  |  |  |
+| Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) |  |
 | Sarah | LA/SD |  |  |  |  |
 | Alexei | LA/SD |  |  |  |  |
 | Maddy | LA/SD |  |  |  |  |

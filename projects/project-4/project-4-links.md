@@ -8,7 +8,7 @@
 | Gabriel | ATX/DAL |  |  |  |  |
 | Matthew | ATX/DAL |  |  |  |  |
 | Monica | ATX/DAL |  |  |  |  |
-| Samuel | ATX/DAL |  |  |  |  |
+| Samuel | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) |  |
 | Chinwe | ATX/DAL |  |  |  |  |
 | Jameson | ATX/DAL |  |  |  |  |
 | Kathleen | ATX/DAL | Collect the Cosmos | [link](https://github.com/kstick9210/collect-the-cosmos) | [link](https://trello.com/b/k8mpHRKw/project-4-collect-the-cosmos) |  |

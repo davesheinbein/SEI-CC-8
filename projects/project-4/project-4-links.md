@@ -10,7 +10,7 @@
 | Monica | ATX/DAL | Astronomy | [link](https://github.com/monicamartinez64/astronomy-app) | [link](https://trello.com/b/08JZMFuk/unit-4-project) |  |
 | Samuel T. | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) |  |
 | Chinwe | ATX/DAL | Zodiac | [link](https://github.com/chinwe2020/zodiac_app) | [link](https://trello.com/b/y2irDyfM/zodiac-app) |  |
-| Jameson | ATX/DAL | Budget | [link](https://github.com/Jaice561/budget) |  |  |
+| Jameson | ATX/DAL | Budget | [link](https://github.com/Jaice561/budget) | [link](https://trello.com/b/JpTzwd1T/budget) |  |
 | Kathleen | ATX/DAL | Collect the Cosmos | [link](https://github.com/kstick9210/collect-the-cosmos) | [link](https://trello.com/b/k8mpHRKw/project-4-collect-the-cosmos) |  |
 | Samuel G. | ATX/DAL | PokéFaves | [link](https://github.com/CodingSalmon/pokefaves) | [link](https://trello.com/b/l2j8lnX2/pok%C3%A9faves) |  |
 | April | DEN | Sonrisa | [link](https://github.com/aprilkrgonzales/sonrisa) | [link](https://trello.com/b/xwcxa5LQ/sonrisa-llc) |  |

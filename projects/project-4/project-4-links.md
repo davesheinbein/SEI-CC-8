@@ -2,7 +2,7 @@
 
 | Student | Campus | Project Name | GitHub | Planning (Trello) | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Alfonso | ATX/DAL | Covid-19 Tracker |  | [link](https://trello.com/b/7aZAMKpY/covid-19tracker) |  |
+| Alfonso | ATX/DAL | Covid-19 Tracker | [link](https://github.com/acostade29/CoronaTracker) | [link](https://trello.com/b/7aZAMKpY/covid-19tracker) |  |
 | Brandon | ATX/DAL | Weather or Not | [link](https://github.com/BSacco0674/WeatherorNot) | [link](https://trello.com/b/KePTxNPl/weather-or-not) |  |
 | Chris | ATX/DAL | Pokemon Team Builder | [link](https://github.com/ChrisChroma/react-pokemon-team-builder) | [link](https://trello.com/b/544RN8KZ/poketeam) |  |
 | Gabriel | ATX/DAL |  |  |  |  |

@@ -5,7 +5,7 @@
 | Alfonso | ATX/DAL | Covid-19 Tracker | [link](https://github.com/acostade29/CoronaTracker) | [link](https://trello.com/b/7aZAMKpY/covid-19tracker) |  |
 | Brandon | ATX/DAL | Weather or Not | [link](https://github.com/BSacco0674/WeatherorNot) | [link](https://trello.com/b/KePTxNPl/weather-or-not) |  |
 | Chris | ATX/DAL | Pokemon Team Builder | [link](https://github.com/ChrisChroma/react-pokemon-team-builder) | [link](https://trello.com/b/544RN8KZ/poketeam) |  |
-| Gabriel | ATX/DAL |  |  |  |  |
+| Gabriel | ATX/DAL | Dream Team | [link](https://github.com/GabiVarella/dream-team) | [link](https://trello.com/b/xIGrNkzY/dream-team) |  |
 | Matthew | ATX/DAL | GA-Convos | [link](https://github.com/MJMoquin/GA-Convos) | [link](https://trello.com/b/gCHXk5jW/ga-convos) |  |
 | Monica | ATX/DAL | Astronomy | [link](https://github.com/monicamartinez64/astronomy-app) | [link](https://trello.com/b/08JZMFuk/unit-4-project) |  |
 | Samuel T. | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) |  |

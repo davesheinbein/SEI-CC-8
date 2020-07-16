@@ -369,6 +369,11 @@ No different than with the two previous projects deployed to Heroku. For each KE
 $ heroku config:set KEY=VALUE
 ```
 
+> Note: If using zsh, it may be necessary to quote the KEY=VALUE pair, for example:<br>
+> `heroku config:set "DATABASE_URL=mongodb+srv://username:pw@sei-students-1btwt.azure.mongodb.net/students?retryWrites=true"`
+
+
+
 ##### Open the App
 
 `$ heroku open` and now everyone can play the 1973 Game of the Year!

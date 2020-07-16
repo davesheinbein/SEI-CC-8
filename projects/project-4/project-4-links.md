@@ -29,7 +29,7 @@
 | Tyler | DEN | Flight Note | [link](https://github.com/tawlur/final-project) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
 | Vanessa | DEN |  | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) |  |
 | Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) |  |
-| Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) |  |
+| Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) | [link](https://bliu-pokedex.herokuapp.com/) |
 | Charlotte | LA/SD | Character Quiz | [link](https://github.com/charlottepak/Character-Quiz) | [link](https://trello.com/b/nBK4Hw5c/project-4) |  |
 | David | LA/SD | Horse Bulletin Board | [link](https://github.com/davesheinbein/stead-finder-horse-buliten-board) | [link](https://trello.com/b/QQgGKAnE/ga-project-4) |  |
 | Jason | LA/SD | Movie Reviews | [link](https://github.com/jhur91/react-movies) | [link](https://trello.com/b/WVyN7Ttt/movie-review-app) |  |

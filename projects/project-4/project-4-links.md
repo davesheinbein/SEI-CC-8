@@ -31,7 +31,7 @@
 | Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) |  |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) | [link](https://bliu-pokedex.herokuapp.com/) |
 | Charlotte | LA/SD | Character Quiz | [link](https://github.com/charlottepak/Character-Quiz) | [link](https://trello.com/b/nBK4Hw5c/project-4) |  |
-| David | LA/SD | Horse Bulletin Board | [link](https://github.com/davesheinbein/stead-finder-horse-buliten-board) | [link](https://trello.com/b/QQgGKAnE/ga-project-4) |  |
+| David | LA/SD | Horse Bulletin Board | [link](https://github.com/davesheinbein/stead-finder-horse-buliten-board) | [link](https://trello.com/b/QQgGKAnE/ga-project-4) | [link](https://horse-bulletin-board.herokuapp.com/) |
 | Jason | LA/SD | Movie Reviews | [link](https://github.com/jhur91/react-movies) | [link](https://trello.com/b/WVyN7Ttt/movie-review-app) |  |
 | Jonathan | LA/SD | Pokemon Creation | [link](https://github.com/Thornathan/pokemon-creations-app) | [link](https://trello.com/b/crYJYnSN/pokemon-creation-app) |  |
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) |  |

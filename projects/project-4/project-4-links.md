@@ -26,7 +26,7 @@
 | Robert | DEN | D & D | [link](https://github.com/rperillo1/DandD-character-manager) | [link](https://trello.com/b/uapE21Wo/mern-dd-web-app) |  |
 | Shawn | DEN | TaskDrill | [link](https://github.com/sgluchacki/taskdrill) | [link](https://trello.com/b/H42E5cE7/taskdrill) |  |
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) |  |
-| Tyler | DEN | Flight Note | [link](https://github.com/tawlur/final-project) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
+| Tyler | DEN | Flight Note | [link](https://github.com/tawlur/flight-note) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
 | Vanessa | DEN |  | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) |  |
 | Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) |  |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) | [link](https://bliu-pokedex.herokuapp.com/) |

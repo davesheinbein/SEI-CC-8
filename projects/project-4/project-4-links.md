@@ -17,11 +17,11 @@
 | Chase | DEN | Budget | [link](https://github.com/chasewri/budget) | [link](https://trello.com/b/xrsCNnSH/budget) |  |
 | Christopher | DEN | Red Planet Weather | [link](https://github.com/Chris-Violante/Red-Planet-Weather) | [link](https://trello.com/b/fevEwz4F/weather-on-mars-app) |  |
 | Colin | DEN | Choice Workout | [link](https://github.com/colin96man/Choice-Workout) | [link](https://trello.com/b/82BBBzDT/choice-workout) |  |
-| Hannah | DEN | It's a Lifestyle | [link](https://github.com/hannahbrantley/its-a-lifestyle) | [link](https://trello.com/b/hBHlscGA/its-a-lifestyle) |  |
+| Hannah | DEN | It's a Lifestyle | [link](https://github.com/hannahbrantley/its-a-lifestyle) | [link](https://trello.com/b/hBHlscGA/its-a-lifestyle) | [link](https://its-a-lifestyle.herokuapp.com/) |
 | Jackie | DEN | bar-meet-up | [link](https://github.com/JackieZoloo/bar-meet-up) | [link](https://trello.com/b/5bVPvXqi/bar-meet-up) |  |
 | Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) | [link](https://trackpaks.herokuapp.com/) |
 | Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |
-| Kimberly | DEN | Learmember | [link](https://github.com/kimberlyalord/Learmember) | [link](https://trello.com/b/6Tg9k0zR/project-4-learmember) |  |
+| Kimberly | DEN | Learmember | [link](https://github.com/kimberlyalord/Learmember) | [link](https://trello.com/b/6Tg9k0zR/project-4-learmember) | [link](https://learmember.herokuapp.com/login) |
 | Lauren | DEN | My Family Recipes | [link](https://github.com/laurenmengert/myfamilyrecipes) | [link](https://trello.com/b/f9jdO6uR/my-family-recipes) |  |
 | Robert | DEN | D & D | [link](https://github.com/rperillo1/DandD-character-manager) | [link](https://trello.com/b/uapE21Wo/mern-dd-web-app) |  |
 | Shawn | DEN | TaskDrill | [link](https://github.com/sgluchacki/taskdrill) | [link](https://trello.com/b/H42E5cE7/taskdrill) |  |

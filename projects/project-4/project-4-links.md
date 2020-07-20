@@ -15,7 +15,7 @@
 | Samuel G. | ATX/DAL | PokéFaves | [link](https://github.com/CodingSalmon/pokefaves) | [link](https://trello.com/b/l2j8lnX2/pok%C3%A9faves) | [link](http://pokefaves.herokuapp.com/) |
 | April | DEN | Sonrisa | [link](https://github.com/aprilkrgonzales/sonrisa) | [link](https://trello.com/b/xwcxa5LQ/sonrisa-llc) | [link](https://sonrisacounseling.herokuapp.com/) |
 | Chase | DEN | Budget | [link](https://github.com/chasewri/budget) | [link](https://trello.com/b/xrsCNnSH/budget) | [link](https://fdv-budget.herokuapp.com/) |
-| Christopher | DEN | Red Planet Weather | [link](https://github.com/Chris-Violante/Red-Planet-Weather) | [link](https://trello.com/b/fevEwz4F/weather-on-mars-app) |  |
+| Christopher | DEN | Red Planet Weather | [link](https://github.com/Chris-Violante/Red-Planet-Weather) | [link](https://trello.com/b/fevEwz4F/weather-on-mars-app) | [link](https://red-planet-weather.herokuapp.com/) |
 | Colin | DEN | Choice Workout | [link](https://github.com/colin96man/Choice-Workout) | [link](https://trello.com/b/82BBBzDT/choice-workout) | [link](https://choice-workout.herokuapp.com/) |
 | Hannah | DEN | It's a Lifestyle | [link](https://github.com/hannahbrantley/its-a-lifestyle) | [link](https://trello.com/b/hBHlscGA/its-a-lifestyle) | [link](https://its-a-lifestyle.herokuapp.com/) |
 | Jackie | DEN | bar-meet-up | [link](https://github.com/JackieZoloo/bar-meet-up) | [link](https://trello.com/b/5bVPvXqi/bar-meet-up) | [link](https://bar-meetup.herokuapp.com/) |
@@ -26,7 +26,7 @@
 | Robert | DEN | D & D | [link](https://github.com/rperillo1/DandD-character-manager) | [link](https://trello.com/b/uapE21Wo/mern-dd-web-app) | [link](https://dandd-character-manager.herokuapp.com/) |
 | Shawn | DEN | TaskDrill | [link](https://github.com/sgluchacki/taskdrill) | [link](https://trello.com/b/H42E5cE7/taskdrill) | [link](https://taskdrill.herokuapp.com/login) |
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) | [link](https://obnoxious.herokuapp.com/login) |
-| Tyler | DEN | Flight Note | [link](https://github.com/tawlur/flight-note) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
+| Tyler | DEN | Flight Note | [link](https://github.com/tawlur/flight-note) | [link](https://trello.com/b/7RItwd9z/flight-note) | [link](https://hikenote.herokuapp.com/) |
 | Vanessa | DEN | Inspire Spa | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) | [link](https://inspire-spa.herokuapp.com/) |
 | Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) |  |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) | [link](https://bliu-pokedex.herokuapp.com/) |

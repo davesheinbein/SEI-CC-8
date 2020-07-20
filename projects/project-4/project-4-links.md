@@ -36,5 +36,5 @@
 | Jonathan | LA/SD | Pokemon Creation | [link](https://github.com/Thornathan/pokemon-creations-app) | [link](https://trello.com/b/crYJYnSN/pokemon-creation-app) | [link](https://pokemon-creations.herokuapp.com/login) |
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) | [link](https://fiveoclocktarot.herokuapp.com/) |
 | Sarah | LA/SD | The Plant Guru | [link](https://github.com/slrosky/the-plant-guru) | [link](https://trello.com/b/I10R9vOj/the-plant-guru) |  |
-| Alexei | LA/SD | Covidex | [link](https://github.com/audarbe/covidex) | [link](https://trello.com/b/BPGrp1P2/covidex) |  |
+| Alexei | LA/SD | Covidex | [link](https://github.com/audarbe/covidex) | [link](https://trello.com/b/BPGrp1P2/covidex) | [link](https://covidex.herokuapp.com/) |
 | Maddy | LA/SD | Cinecism | [link](https://github.com/madeleinemarie/cinecism) | [link](https://trello.com/b/ZnDqaOh2/project4) |  |

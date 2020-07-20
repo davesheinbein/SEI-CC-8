@@ -12,7 +12,7 @@
 | Chinwe | ATX/DAL | Zodiac | [link](https://github.com/chinwe2020/zodiac_app) | [link](https://trello.com/b/y2irDyfM/zodiac-app) |  |
 | Jameson | ATX/DAL | Budget | [link](https://github.com/Jaice561/budget) | [link](https://trello.com/b/JpTzwd1T/budget) |  |
 | Kathleen | ATX/DAL | Collect the Cosmos | [link](https://github.com/kstick9210/collect-the-cosmos) | [link](https://trello.com/b/k8mpHRKw/project-4-collect-the-cosmos) | [link](https://collect-the-cosmos.herokuapp.com/) |
-| Samuel G. | ATX/DAL | PokéFaves | [link](https://github.com/CodingSalmon/pokefaves) | [link](https://trello.com/b/l2j8lnX2/pok%C3%A9faves) |  |
+| Samuel G. | ATX/DAL | PokéFaves | [link](https://github.com/CodingSalmon/pokefaves) | [link](https://trello.com/b/l2j8lnX2/pok%C3%A9faves) | [link](http://pokefaves.herokuapp.com/) |
 | April | DEN | Sonrisa | [link](https://github.com/aprilkrgonzales/sonrisa) | [link](https://trello.com/b/xwcxa5LQ/sonrisa-llc) | [link](https://sonrisacounseling.herokuapp.com/) |
 | Chase | DEN | Budget | [link](https://github.com/chasewri/budget) | [link](https://trello.com/b/xrsCNnSH/budget) | [link](https://fdv-budget.herokuapp.com/) |
 | Christopher | DEN | Red Planet Weather | [link](https://github.com/Chris-Violante/Red-Planet-Weather) | [link](https://trello.com/b/fevEwz4F/weather-on-mars-app) |  |
@@ -35,6 +35,6 @@
 | Jason | LA/SD | Movie Reviews | [link](https://github.com/jhur91/react-movies) | [link](https://trello.com/b/WVyN7Ttt/movie-review-app) | [link](https://filmreview.herokuapp.com/) |
 | Jonathan | LA/SD | Pokemon Creation | [link](https://github.com/Thornathan/pokemon-creations-app) | [link](https://trello.com/b/crYJYnSN/pokemon-creation-app) | [link](https://pokemon-creations.herokuapp.com/login) |
 | Ryan | LA/SD | 5 O'Clock Tarot | [link](https://github.com/NaryxHaxns/5-o-clock-tarot) | [link](https://trello.com/b/VAr5oeHi/5-oclock-tarot) | [link](https://fiveoclocktarot.herokuapp.com/) |
-| Sarah | LA/SD | The Plant Guru | [link](https://github.com/slrosky/the-plant-guru) | [link](https://trello.com/b/I10R9vOj/the-plant-guru) |  |
+| Sarah | LA/SD | The Plant Guru | [link](https://github.com/slrosky/the-plant-guru) | [link](https://trello.com/b/I10R9vOj/the-plant-guru) | [link](https://the-plant-guru.herokuapp.com/) |
 | Alexei | LA/SD | Covidex | [link](https://github.com/audarbe/covidex) | [link](https://trello.com/b/BPGrp1P2/covidex) | [link](https://covidex.herokuapp.com/) |
 | Maddy | LA/SD | Cinecism | [link](https://github.com/madeleinemarie/cinecism) | [link](https://trello.com/b/ZnDqaOh2/project4) |  |

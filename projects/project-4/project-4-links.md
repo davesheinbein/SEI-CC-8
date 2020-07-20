@@ -20,14 +20,14 @@
 | Hannah | DEN | It's a Lifestyle | [link](https://github.com/hannahbrantley/its-a-lifestyle) | [link](https://trello.com/b/hBHlscGA/its-a-lifestyle) | [link](https://its-a-lifestyle.herokuapp.com/) |
 | Jackie | DEN | bar-meet-up | [link](https://github.com/JackieZoloo/bar-meet-up) | [link](https://trello.com/b/5bVPvXqi/bar-meet-up) | [link](https://bar-meetup.herokuapp.com/) |
 | Jae | DEN | TrackPaks | [link](https://github.com/jsohnfile/trackpaks) | [link](https://trello.com/b/9O5gzn1i/trakpaks) | [link](https://trackpaks.herokuapp.com/) |
-| Joshua | DEN |  | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) |  |
+| Joshua | DEN | Music Connection | [link](https://github.com/jfernnn/capstone) | [link](https://trello.com/b/QjYwO3de/capstone) | [link](https://capstone-music-connection.herokuapp.com/login) |
 | Kimberly | DEN | Learmember | [link](https://github.com/kimberlyalord/Learmember) | [link](https://trello.com/b/6Tg9k0zR/project-4-learmember) | [link](https://learmember.herokuapp.com/login) |
 | Lauren | DEN | My Family Recipes | [link](https://github.com/laurenmengert/myfamilyrecipes) | [link](https://trello.com/b/f9jdO6uR/my-family-recipes) | [link](https://ourfamilyrecipes.herokuapp.com/) |
 | Robert | DEN | D & D | [link](https://github.com/rperillo1/DandD-character-manager) | [link](https://trello.com/b/uapE21Wo/mern-dd-web-app) |  |
 | Shawn | DEN | TaskDrill | [link](https://github.com/sgluchacki/taskdrill) | [link](https://trello.com/b/H42E5cE7/taskdrill) | [link](https://taskdrill.herokuapp.com/login) |
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) | [link](https://obnoxious.herokuapp.com/login) |
 | Tyler | DEN | Flight Note | [link](https://github.com/tawlur/flight-note) | [link](https://trello.com/b/7RItwd9z/flight-note) |  |
-| Vanessa | DEN |  | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) | [link](https://inspire-spa.herokuapp.com/) |
+| Vanessa | DEN | Inspire Spa | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) | [link](https://inspire-spa.herokuapp.com/) |
 | Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) |  |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) | [link](https://bliu-pokedex.herokuapp.com/) |
 | Charlotte | LA/SD | Character Quiz | [link](https://github.com/charlottepak/Character-Quiz) | [link](https://trello.com/b/nBK4Hw5c/project-4) |  |

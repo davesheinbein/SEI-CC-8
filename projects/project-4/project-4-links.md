@@ -8,7 +8,7 @@
 | Gabriel | ATX/DAL | Dream Team | [link](https://github.com/GabiVarella/dream-team) | [link](https://trello.com/b/xIGrNkzY/dream-team) |  |
 | Matthew | ATX/DAL | GA-Convos | [link](https://github.com/MJMoquin/GA-Convos) | [link](https://trello.com/b/gCHXk5jW/ga-convos) |  |
 | Monica | ATX/DAL | Astronomy | [link](https://github.com/monicamartinez64/astronomy-app) | [link](https://trello.com/b/08JZMFuk/unit-4-project) |  |
-| Samuel T. | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) |  |
+| Samuel T. | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) | [link](https://createheart.herokuapp.com/) |
 | Chinwe | ATX/DAL | Zodiac | [link](https://github.com/chinwe2020/zodiac_app) | [link](https://trello.com/b/y2irDyfM/zodiac-app) |  |
 | Jameson | ATX/DAL | Budget | [link](https://github.com/Jaice561/budget) | [link](https://trello.com/b/JpTzwd1T/budget) |  |
 | Kathleen | ATX/DAL | Collect the Cosmos | [link](https://github.com/kstick9210/collect-the-cosmos) | [link](https://trello.com/b/k8mpHRKw/project-4-collect-the-cosmos) | [link](https://collect-the-cosmos.herokuapp.com/) |

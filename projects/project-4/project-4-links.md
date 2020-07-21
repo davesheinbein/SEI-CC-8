@@ -28,7 +28,7 @@
 | Travis | DEN | obNoxious | [link](https://github.com/TCashion/obNoxious) | [link](https://trello.com/b/EBQZcdN6/obnoxious) | [link](https://obnoxious.herokuapp.com/login) |
 | Tyler | DEN | Flight Note | [link](https://github.com/tawlur/flight-note) | [link](https://trello.com/b/7RItwd9z/flight-note) | [link](https://hikenote.herokuapp.com/) |
 | Vanessa | DEN | Inspire Spa | [link](https://github.com/vanessalarsen33/project-four) | [link](https://trello.com/b/xx7Wfpvd/spa-app) | [link](https://inspire-spa.herokuapp.com/) |
-| Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) |  |
+| Aaron | LA/SD | Covid | [link](https://github.com/asmith-asmith/covid-app) | [link](https://trello.com/b/yjzkoiVd/capstone) | [link](https://covid-resources.herokuapp.com/) |
 | Brian | LA/SD | React Pokedex | [link](https://github.com/irritas/react-pokedex) | [link](https://trello.com/b/fAYGJQj4/react-pokedex) | [link](https://bliu-pokedex.herokuapp.com/) |
 | Charlotte | LA/SD | Character Quiz | [link](https://github.com/charlottepak/Character-Quiz) | [link](https://trello.com/b/nBK4Hw5c/project-4) |  |
 | David | LA/SD | Horse Bulletin Board | [link](https://github.com/davesheinbein/stead-finder-horse-buliten-board) | [link](https://trello.com/b/QQgGKAnE/ga-project-4) | [link](https://horse-bulletin-board.herokuapp.com/) |

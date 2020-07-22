@@ -9,7 +9,7 @@
 | Matthew | ATX/DAL | GA-Convos | [link](https://github.com/MJMoquin/GA-Convos) | [link](https://trello.com/b/gCHXk5jW/ga-convos) | [link](https://ga-convos.herokuapp.com/) |
 | Monica | ATX/DAL | Astronomy | [link](https://github.com/monicamartinez64/astronomy-app) | [link](https://trello.com/b/08JZMFuk/unit-4-project) | [link](https://astrotrek.herokuapp.com/) |
 | Samuel T. | ATX/DAL | HEART | [link](https://github.com/samueltrahan/HEART) | [link](https://trello.com/b/QTAU6jJh/heart) | [link](https://createheart.herokuapp.com/) |
-| Chinwe | ATX/DAL | Zodiac | [link](https://github.com/chinwe2020/zodiac_app) | [link](https://trello.com/b/y2irDyfM/zodiac-app) |  |
+| Chinwe | ATX/DAL | Zodiac | [link](https://github.com/chinwe2020/zodiac_app) | [link](https://trello.com/b/y2irDyfM/zodiac-app) | [link](https://horoscope-journal.herokuapp.com/) |
 | Jameson | ATX/DAL | Budget | [link](https://github.com/Jaice561/budget) | [link](https://trello.com/b/JpTzwd1T/budget) | [link](https://jmo-budgets.herokuapp.com/) |
 | Kathleen | ATX/DAL | Collect the Cosmos | [link](https://github.com/kstick9210/collect-the-cosmos) | [link](https://trello.com/b/k8mpHRKw/project-4-collect-the-cosmos) | [link](https://collect-the-cosmos.herokuapp.com/) |
 | Samuel G. | ATX/DAL | PokéFaves | [link](https://github.com/CodingSalmon/pokefaves) | [link](https://trello.com/b/l2j8lnX2/pok%C3%A9faves) | [link](http://pokefaves.herokuapp.com/) |

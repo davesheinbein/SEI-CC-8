@@ -106,11 +106,13 @@ Include the following sections within the **`README.md`**:
 
 ☐ Implement **authorization** by restricting CUD data functionality to authenticated users. Also, navigation should respond to the login status of the user.
 
-☐ **Have a well-scoped feature-set**. Full-CRUD data operations are not required if one or more of the following are included:
+☐ **Have a well-scoped feature-set**. Full-CRUD data operations are not required if one or more other features are included, for example:
 	
 - Consume data from a third-party API.
 - Implement additional functionality if the user is an admin.
-- Utilize multi-user, real-time communications (beware that this is difficult and time consuming - please seek instructor approval).
+- Utilize real-time communications (beware that this is difficult and time consuming - please seek instructor approval).
+- Implementation of a highly dynamic UI.
+- Other, instructor approved, complexity/features.
 
 ## Self-sufficiency / Project Assistance
 
